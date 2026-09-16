@@ -1,0 +1,241 @@
+{
+  "_version": "V1",
+  "publish": true,
+  "output": "services/wedding-catering-in-vellore.html",
+  "breadcrumb_parent": [
+    "Services",
+    "services/index.html"
+  ],
+  "nav_label": "Wedding catering",
+  "event_label": "Wedding catering",
+  "service_type": "Wedding catering",
+  "title": "Wedding Catering in Vellore – Banana Leaf Feasts | Vellore Catering",
+  "description": "Wedding caterers in Vellore since 2000. Banana-leaf lunch, tiffin breakfast and reception buffets for Tamil weddings. Call 99404 66250 for a quote.",
+  "h1": "Wedding catering in Vellore",
+  "lead": "From the muhurtham breakfast to the reception dinner, we cook and serve every meal of your wedding the way Tamil families expect it: fresh, generous and on time.",
+  "tamil": "கல்யாண சாப்பாடு",
+  "tamil_meaning": "the wedding feast",
+  "hero_image": {
+    "id": 33417236,
+    "alt": "Flower-decorated wedding mandap ready for the ceremony"
+  },
+  "intro_image": {
+    "id": 14132112,
+    "alt": "Traditional South Indian wedding lunch arranged on a banana leaf"
+  },
+  "card": {
+    "text": "Breakfast, banana-leaf lunch and reception dinner for Tamil weddings."
+  },
+  "intro_heading": "A wedding meal your guests will talk about",
+  "intro": [
+    "A Tamil wedding is remembered for two things: the muhurtham and the meal. Since 2000 Vellore Catering has cooked for weddings in Vellore, Katpadi, Ranipet and nearby towns, and our team knows the rhythm of the day, from the early coffee for the family to the last batch of guests at lunch.",
+    "We plan the menu with you around your family's customs, whether that is a full vegetarian leaf without onion and garlic, a Chettinad-style spread, or an Arcot-style biryani for the reception."
+  ],
+  "includes_heading": "What your booking covers",
+  "includes": [
+    "Menu planning with your family and elders",
+    "Cooking on the day with fresh vegetables and groceries",
+    "Banana-leaf service or buffet counters with a trained serving team",
+    "Morning coffee and tea for the family before the muhurtham",
+    "Separate menus for the reception, wedding breakfast and lunch",
+    "Dining area cleared and reset between batches"
+  ],
+  "menu_heading": "A sample wedding day menu",
+  "menu_intro": "This is a typical wedding day in Vellore. Every dish can be swapped, and we write the final menu with you.",
+  "menu": [
+    {
+      "title": "Wedding breakfast",
+      "items": [
+        [
+          "Idli",
+          "veg"
+        ],
+        [
+          "Ven pongal",
+          "veg"
+        ],
+        [
+          "Medu vadai",
+          "veg"
+        ],
+        [
+          "Rava kesari",
+          "veg"
+        ],
+        [
+          "Tiffin sambar",
+          "veg"
+        ],
+        [
+          "Coconut and tomato chutney",
+          "veg"
+        ],
+        [
+          "Filter coffee",
+          "veg"
+        ]
+      ]
+    },
+    {
+      "title": "Wedding lunch on banana leaf",
+      "items": [
+        [
+          "Badam halwa",
+          "veg"
+        ],
+        [
+          "Beans poriyal",
+          "veg"
+        ],
+        [
+          "Avial",
+          "veg"
+        ],
+        [
+          "Kosumalli",
+          "veg"
+        ],
+        [
+          "Paruppu with ghee",
+          "veg"
+        ],
+        [
+          "Drumstick sambar",
+          "veg"
+        ],
+        [
+          "Vatha kuzhambu",
+          "veg"
+        ],
+        [
+          "Pineapple rasam",
+          "veg"
+        ],
+        [
+          "Paal payasam",
+          "veg"
+        ],
+        [
+          "Appalam and vadai",
+          "veg"
+        ],
+        [
+          "Curd rice and pickle",
+          "veg"
+        ],
+        [
+          "Beeda",
+          "veg"
+        ]
+      ]
+    },
+    {
+      "title": "Reception dinner",
+      "items": [
+        [
+          "Vegetable biryani",
+          "veg"
+        ],
+        [
+          "Paneer butter masala",
+          "veg"
+        ],
+        [
+          "Butter naan",
+          "veg"
+        ],
+        [
+          "Chapati and veg kurma",
+          "veg"
+        ],
+        [
+          "Gobi 65",
+          "veg"
+        ],
+        [
+          "Chicken biryani (optional)",
+          "nonveg"
+        ],
+        [
+          "Curd rice",
+          "veg"
+        ],
+        [
+          "Gulab jamun and ice cream",
+          "veg"
+        ]
+      ]
+    }
+  ],
+  "menu_link": {
+    "text": "See all wedding menus",
+    "href": "menus.html#wedding-lunch"
+  },
+  "why_heading": "Why families book us for weddings",
+  "why": [
+    {
+      "icon": "clock",
+      "title": "On time for the muhurtham",
+      "text": "Breakfast is ready before the first guests arrive, and lunch batches move without long waits."
+    },
+    {
+      "icon": "leaf",
+      "title": "Cooked fresh on the day",
+      "text": "Lunch is cooked on the morning of the wedding, not the night before."
+    },
+    {
+      "icon": "users",
+      "title": "A serving team that knows weddings",
+      "text": "Our servers go down the leaf in order, from sweet to curd rice, and keep refilling without being asked."
+    },
+    {
+      "icon": "menu",
+      "title": "Menus for your traditions",
+      "text": "No onion and garlic, Chettinad-style or Arcot biryani for the reception. We cook to your family's customs."
+    }
+  ],
+  "gallery_heading": "Wedding feasts we love to serve",
+  "gallery": [
+    {
+      "id": 5410418,
+      "alt": "Vegetarian feast with many dishes on a banana leaf"
+    },
+    {
+      "id": 9266190,
+      "alt": "South Indian meal with sweets on a banana leaf"
+    },
+    {
+      "id": 36916402,
+      "alt": "Buffet counter with chafing dishes for a wedding reception"
+    },
+    {
+      "id": 35069916,
+      "alt": "Bride and groom in traditional wedding attire"
+    }
+  ],
+  "faq_heading": "Wedding catering questions",
+  "faqs": [
+    [
+      "How many guests can you cater for at a wedding?",
+      "We cater intimate family weddings as well as large marriage-hall functions. Tell us your expected guest count and we will plan the kitchen, servers and lunch batches to match."
+    ],
+    [
+      "Do you serve on banana leaves or as a buffet?",
+      "Both. Many families choose banana-leaf service for the wedding lunch and a buffet for the reception. We can also combine the two."
+    ],
+    [
+      "Can you cater at our marriage hall or at home?",
+      "Yes. We cater at marriage halls, temples, community halls and homes across Vellore and nearby towns. Some halls have their own kitchen rules, so share the venue name when you enquire."
+    ],
+    [
+      "When should we book our wedding caterer?",
+      "For weddings in the busy muhurtham months such as Thai, Vaikasi, Aavani and Karthigai, book two to three months ahead to be sure of your date."
+    ]
+  ],
+  "related_heading": "Other functions we cater",
+  "related": [
+    "services/engagement-catering-in-vellore.html",
+    "services/seemandham-catering-in-vellore.html",
+    "services/birthday-party-catering-in-vellore.html"
+  ]
+}

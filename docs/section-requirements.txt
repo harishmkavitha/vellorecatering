@@ -1,0 +1,38 @@
+| #  | Section                          | Purpose                                                         |
+| -- | -------------------------------- | --------------------------------------------------------------- |
+| 1  | **Header / Navigation**          | Main navigation, logo, phone, WhatsApp, enquiry CTA             |
+| 2  | **Breadcrumbs**                  | SEO + navigation                                                |
+| 3  | **Hero Banner**                  | Immediately communicate service + location + CTA                |
+| 4  | **Trust/USP Strip**              | Quick proof: experience, events served, chefs, capacity etc.    |
+| 5  | **Introduction**                 | Explain the catering service and who it is for                  |
+| 6  | **Why Choose Us**                | Differentiators and competitive advantages                      |
+| 7  | **Catering Services Included**   | Explain exactly what the customer receives                      |
+| 8  | **Types of Events Served**       | Wedding, reception, engagement, seemandham etc.                 |
+| 9  | **Menu Categories**              | Breakfast, lunch, dinner, sweets, beverages, live counters etc. |
+| 10 | **Cuisine Options**              | South Indian, Tamil, North Indian, Chettinad, Jain etc.         |
+| 11 | **Sample Menus**                 | Give customers concrete menu examples                           |
+| 12 | **Customization Options**        | Show that menus can be customized                               |
+| 13 | **Live Food Counters**           | Highlight dosa, chaat, sweets, beverages etc.                   |
+| 14 | **Traditional Service Styles**   | Banana leaf, buffet, plated service etc.                        |
+| 15 | **Guest Capacity**               | Explain ability to handle different event sizes                 |
+| 16 | **Wedding/Event Process**        | Enquiry → consultation → tasting → menu → execution             |
+| 17 | **Food Quality & Hygiene**       | Kitchen, ingredients, preparation, hygiene                      |
+| 18 | **Kitchen / Infrastructure**     | Facilities, chefs, staff, equipment, logistics                  |
+| 19 | **Our Chefs & Team**             | Human expertise and credibility                                 |
+| 20 | **Wedding Gallery**              | Real photographs from actual events                             |
+| 21 | **Food Gallery**                 | Dishes, buffet, banana-leaf meals, counters                     |
+| 22 | **Recent Events / Case Studies** | Real examples with venue, guest count and menu                  |
+| 23 | **Customer Testimonials**        | Social proof                                                    |
+| 24 | **Google Reviews**               | Local trust signals                                             |
+| 25 | **Venues We Cater At**           | Marriage halls, hotels, convention centres etc.                 |
+| 26 | **Areas We Serve**               | Vellore localities + surrounding areas actually served          |
+| 27 | **Pricing / Cost Guide**         | Explain factors affecting catering price                        |
+| 28 | **Packages**                     | Starter / standard / premium or event-specific packages         |
+| 29 | **FAQs**                         | Answer high-intent customer questions                           |
+| 30 | **Why Our Food Is Different**    | Product/food differentiation                                    |
+| 31 | **Booking / Enquiry CTA**        | Convert visitors                                                |
+| 32 | **Contact Information**          | Phone, WhatsApp, address, email                                 |
+| 33 | **Google Map**                   | Local relevance + directions                                    |
+| 34 | **Related Services**             | Internal links to other catering pages                          |
+| 35 | **Related Articles**             | Internal links to SEO content                                   |
+| 36 | **Footer**                       | Navigation, contact, social links, legal pages                  |

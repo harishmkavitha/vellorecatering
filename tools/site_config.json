@@ -1,0 +1,21 @@
+{
+  "_version": "V1",
+  "site_url": "https://harishmkavitha.github.io/vellore-catering",
+  "business_name": "Vellore Catering",
+  "legal_name": "Vellore Catering",
+  "phone_display": "+91 99404 66250",
+  "phone_short": "99404 66250",
+  "phone_e164": "+919940466250",
+  "whatsapp": "919940466250",
+  "street": "90/32, Subramanya Swamy Koil St, Kosapet",
+  "city": "Vellore",
+  "region": "Tamil Nadu",
+  "region_code": "TN",
+  "pin": "632001",
+  "country": "IN",
+  "founded": 2000,
+  "events_served": "3,000+",
+  "og_image": "assets/img/og-vellore-catering.jpg",
+  "asset_version": "1",
+  "areas_served": ["Vellore", "Kosapet", "Katpadi", "Sathuvachari", "Gandhi Nagar", "Bagayam", "Thorapadi", "Allapuram", "Kaspa", "Ranipet", "Arcot", "Walajapet", "Gudiyatham", "Ambur", "Vaniyambadi", "Arani", "Anaicut", "Kaniyambadi"]
+}

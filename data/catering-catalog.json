@@ -1,0 +1,3549 @@
+{
+  "source": "Uploaded Catering Types workbook",
+  "unique_types": 236,
+  "source_rows": 237,
+  "items": [
+    {
+      "sno": 1,
+      "source_rows": [
+        1
+      ],
+      "categories": [
+        "Wedding & Marriage"
+      ],
+      "catering_type": "Wedding Catering",
+      "description": "Wedding ceremonies, receptions and marriage functions",
+      "search_intent": "Wedding catering services",
+      "page_type": "Service / Event Page",
+      "slug": "wedding-catering-in-vellore",
+      "output": "services/wedding-catering-in-vellore.html"
+    },
+    {
+      "sno": 2,
+      "source_rows": [
+        2
+      ],
+      "categories": [
+        "Wedding & Marriage"
+      ],
+      "catering_type": "Reception Catering",
+      "description": "Wedding reception and dinner events",
+      "search_intent": "Reception catering services",
+      "page_type": "Service / Event Page",
+      "slug": "reception-catering-in-vellore",
+      "output": "services/reception-catering-in-vellore.html"
+    },
+    {
+      "sno": 3,
+      "source_rows": [
+        3
+      ],
+      "categories": [
+        "Wedding & Marriage"
+      ],
+      "catering_type": "Engagement Catering",
+      "description": "Engagement and betrothal functions",
+      "search_intent": "Engagement catering services",
+      "page_type": "Service / Event Page",
+      "slug": "engagement-catering-in-vellore",
+      "output": "services/engagement-catering-in-vellore.html"
+    },
+    {
+      "sno": 4,
+      "source_rows": [
+        4
+      ],
+      "categories": [
+        "Wedding & Marriage"
+      ],
+      "catering_type": "Nichayathartham Catering",
+      "description": "Tamil/South Indian engagement functions",
+      "search_intent": "Nichayathartham catering services",
+      "page_type": "Service / Event Page",
+      "slug": "nichayathartham-catering-in-vellore",
+      "output": "services/nichayathartham-catering-in-vellore.html"
+    },
+    {
+      "sno": 5,
+      "source_rows": [
+        5
+      ],
+      "categories": [
+        "Wedding & Marriage"
+      ],
+      "catering_type": "Mehendi Catering",
+      "description": "Mehendi/henna functions",
+      "search_intent": "Mehendi catering services",
+      "page_type": "Service / Event Page",
+      "slug": "mehendi-catering-in-vellore",
+      "output": "services/mehendi-catering-in-vellore.html"
+    },
+    {
+      "sno": 6,
+      "source_rows": [
+        6
+      ],
+      "categories": [
+        "Wedding & Marriage"
+      ],
+      "catering_type": "Sangeet Catering",
+      "description": "Sangeet and pre-wedding celebrations",
+      "search_intent": "Sangeet catering services",
+      "page_type": "Service / Event Page",
+      "slug": "sangeet-catering-in-vellore",
+      "output": "services/sangeet-catering-in-vellore.html"
+    },
+    {
+      "sno": 7,
+      "source_rows": [
+        7
+      ],
+      "categories": [
+        "Wedding & Marriage"
+      ],
+      "catering_type": "Haldi Catering",
+      "description": "Haldi/turmeric ceremonies",
+      "search_intent": "Haldi catering services",
+      "page_type": "Service / Event Page",
+      "slug": "haldi-catering-in-vellore",
+      "output": "services/haldi-catering-in-vellore.html"
+    },
+    {
+      "sno": 8,
+      "source_rows": [
+        8
+      ],
+      "categories": [
+        "Wedding & Marriage"
+      ],
+      "catering_type": "Bridal Shower Catering",
+      "description": "Bridal shower events",
+      "search_intent": "Bridal Shower catering services",
+      "page_type": "Service / Event Page",
+      "slug": "bridal-shower-catering-in-vellore",
+      "output": "services/bridal-shower-catering-in-vellore.html"
+    },
+    {
+      "sno": 9,
+      "source_rows": [
+        9
+      ],
+      "categories": [
+        "Wedding & Marriage"
+      ],
+      "catering_type": "Groom/Bridal Welcome Catering",
+      "description": "Welcome functions for bride/groom",
+      "search_intent": "Groom/Bridal Welcome catering services",
+      "page_type": "Service / Event Page",
+      "slug": "groom-bridal-welcome-catering-in-vellore",
+      "output": "services/groom-bridal-welcome-catering-in-vellore.html"
+    },
+    {
+      "sno": 10,
+      "source_rows": [
+        10,
+        186
+      ],
+      "categories": [
+        "Wedding & Marriage",
+        "Travel & Venue"
+      ],
+      "catering_type": "Marriage Hall Catering",
+      "description": "Catering at marriage halls and mandapams",
+      "search_intent": "Marriage Hall catering services",
+      "page_type": "Service / Event Page",
+      "slug": "marriage-hall-catering-in-vellore",
+      "output": "services/marriage-hall-catering-in-vellore.html"
+    },
+    {
+      "sno": 11,
+      "source_rows": [
+        11
+      ],
+      "categories": [
+        "Wedding & Marriage"
+      ],
+      "catering_type": "Destination Wedding Catering",
+      "description": "Catering for destination weddings",
+      "search_intent": "Destination Wedding catering services",
+      "page_type": "Service / Event Page",
+      "slug": "destination-wedding-catering-in-vellore",
+      "output": "services/destination-wedding-catering-in-vellore.html"
+    },
+    {
+      "sno": 12,
+      "source_rows": [
+        12
+      ],
+      "categories": [
+        "Wedding & Marriage"
+      ],
+      "catering_type": "Pre-Wedding Function Catering",
+      "description": "Catering across multiple pre-wedding events",
+      "search_intent": "Pre-Wedding Function catering services",
+      "page_type": "Service / Event Page",
+      "slug": "pre-wedding-function-catering-in-vellore",
+      "output": "services/pre-wedding-function-catering-in-vellore.html"
+    },
+    {
+      "sno": 13,
+      "source_rows": [
+        13
+      ],
+      "categories": [
+        "Wedding & Marriage"
+      ],
+      "catering_type": "Post-Wedding Catering",
+      "description": "Post-wedding gatherings and meals",
+      "search_intent": "Post-Wedding catering services",
+      "page_type": "Service / Event Page",
+      "slug": "post-wedding-catering-in-vellore",
+      "output": "services/post-wedding-catering-in-vellore.html"
+    },
+    {
+      "sno": 14,
+      "source_rows": [
+        14
+      ],
+      "categories": [
+        "Religious & Traditional"
+      ],
+      "catering_type": "Seemandham Catering",
+      "description": "Pregnancy/seemandham functions",
+      "search_intent": "Seemandham catering services",
+      "page_type": "Service / Event Page",
+      "slug": "seemandham-catering-in-vellore",
+      "output": "services/seemandham-catering-in-vellore.html"
+    },
+    {
+      "sno": 15,
+      "source_rows": [
+        15
+      ],
+      "categories": [
+        "Religious & Traditional"
+      ],
+      "catering_type": "Valaikappu Catering",
+      "description": "Bangle ceremony functions",
+      "search_intent": "Valaikappu catering services",
+      "page_type": "Service / Event Page",
+      "slug": "valaikappu-catering-in-vellore",
+      "output": "services/valaikappu-catering-in-vellore.html"
+    },
+    {
+      "sno": 16,
+      "source_rows": [
+        16
+      ],
+      "categories": [
+        "Religious & Traditional"
+      ],
+      "catering_type": "Punyavachanam Catering",
+      "description": "Traditional purification/auspicious functions",
+      "search_intent": "Punyavachanam catering services",
+      "page_type": "Service / Event Page",
+      "slug": "punyavachanam-catering-in-vellore",
+      "output": "services/punyavachanam-catering-in-vellore.html"
+    },
+    {
+      "sno": 17,
+      "source_rows": [
+        17
+      ],
+      "categories": [
+        "Religious & Traditional"
+      ],
+      "catering_type": "Naming Ceremony Catering",
+      "description": "Naamkaran/Naming ceremonies",
+      "search_intent": "Naming Ceremony catering services",
+      "page_type": "Service / Event Page",
+      "slug": "naming-ceremony-catering-in-vellore",
+      "output": "services/naming-ceremony-catering-in-vellore.html"
+    },
+    {
+      "sno": 18,
+      "source_rows": [
+        18
+      ],
+      "categories": [
+        "Religious & Traditional"
+      ],
+      "catering_type": "Annaprasana Catering",
+      "description": "First-rice/food ceremony",
+      "search_intent": "Annaprasana catering services",
+      "page_type": "Service / Event Page",
+      "slug": "annaprasana-catering-in-vellore",
+      "output": "services/annaprasana-catering-in-vellore.html"
+    },
+    {
+      "sno": 19,
+      "source_rows": [
+        19
+      ],
+      "categories": [
+        "Religious & Traditional"
+      ],
+      "catering_type": "Ayush Homam Catering",
+      "description": "Ayushya/child wellness religious functions",
+      "search_intent": "Ayush Homam catering services",
+      "page_type": "Service / Event Page",
+      "slug": "ayush-homam-catering-in-vellore",
+      "output": "services/ayush-homam-catering-in-vellore.html"
+    },
+    {
+      "sno": 20,
+      "source_rows": [
+        20
+      ],
+      "categories": [
+        "Religious & Traditional"
+      ],
+      "catering_type": "Sashtiapthapoorthi Catering",
+      "description": "60th birthday/recommitment ceremony",
+      "search_intent": "Sashtiapthapoorthi catering services",
+      "page_type": "Service / Event Page",
+      "slug": "sashtiapthapoorthi-catering-in-vellore",
+      "output": "services/sashtiapthapoorthi-catering-in-vellore.html"
+    },
+    {
+      "sno": 21,
+      "source_rows": [
+        21
+      ],
+      "categories": [
+        "Religious & Traditional"
+      ],
+      "catering_type": "Sathabhishekam Catering",
+      "description": "80th birthday/80-year ceremony",
+      "search_intent": "Sathabhishekam catering services",
+      "page_type": "Service / Event Page",
+      "slug": "sathabhishekam-catering-in-vellore",
+      "output": "services/sathabhishekam-catering-in-vellore.html"
+    },
+    {
+      "sno": 22,
+      "source_rows": [
+        22
+      ],
+      "categories": [
+        "Religious & Traditional"
+      ],
+      "catering_type": "Upanayanam Catering",
+      "description": "Thread ceremony/upakarma-related functions",
+      "search_intent": "Upanayanam catering services",
+      "page_type": "Service / Event Page",
+      "slug": "upanayanam-catering-in-vellore",
+      "output": "services/upanayanam-catering-in-vellore.html"
+    },
+    {
+      "sno": 23,
+      "source_rows": [
+        23
+      ],
+      "categories": [
+        "Religious & Traditional"
+      ],
+      "catering_type": "Gruhapravesam Catering",
+      "description": "Housewarming ceremonies",
+      "search_intent": "Gruhapravesam catering services",
+      "page_type": "Service / Event Page",
+      "slug": "gruhapravesam-catering-in-vellore",
+      "output": "services/gruhapravesam-catering-in-vellore.html"
+    },
+    {
+      "sno": 24,
+      "source_rows": [
+        24
+      ],
+      "categories": [
+        "Religious & Traditional"
+      ],
+      "catering_type": "Pooja Catering",
+      "description": "Temple, home and private pooja meals",
+      "search_intent": "Pooja catering services",
+      "page_type": "Service / Event Page",
+      "slug": "pooja-catering-in-vellore",
+      "output": "services/pooja-catering-in-vellore.html"
+    },
+    {
+      "sno": 25,
+      "source_rows": [
+        25
+      ],
+      "categories": [
+        "Religious & Traditional"
+      ],
+      "catering_type": "Homam/Havan Catering",
+      "description": "Religious fire ceremony catering",
+      "search_intent": "Homam/Havan catering services",
+      "page_type": "Service / Event Page",
+      "slug": "homam-havan-catering-in-vellore",
+      "output": "services/homam-havan-catering-in-vellore.html"
+    },
+    {
+      "sno": 26,
+      "source_rows": [
+        26
+      ],
+      "categories": [
+        "Religious & Traditional"
+      ],
+      "catering_type": "Temple Function Catering",
+      "description": "Temple events and community meals",
+      "search_intent": "Temple Function catering services",
+      "page_type": "Service / Event Page",
+      "slug": "temple-function-catering-in-vellore",
+      "output": "services/temple-function-catering-in-vellore.html"
+    },
+    {
+      "sno": 27,
+      "source_rows": [
+        27
+      ],
+      "categories": [
+        "Religious & Traditional"
+      ],
+      "catering_type": "Kumbabhishekam Catering",
+      "description": "Temple consecration events",
+      "search_intent": "Kumbabhishekam catering services",
+      "page_type": "Service / Event Page",
+      "slug": "kumbabhishekam-catering-in-vellore",
+      "output": "services/kumbabhishekam-catering-in-vellore.html"
+    },
+    {
+      "sno": 28,
+      "source_rows": [
+        28
+      ],
+      "categories": [
+        "Religious & Traditional"
+      ],
+      "catering_type": "Prasadam Catering",
+      "description": "Religious prasadam preparation and distribution",
+      "search_intent": "Prasadam catering services",
+      "page_type": "Service / Event Page",
+      "slug": "prasadam-catering-in-vellore",
+      "output": "services/prasadam-catering-in-vellore.html"
+    },
+    {
+      "sno": 29,
+      "source_rows": [
+        29
+      ],
+      "categories": [
+        "Religious & Traditional"
+      ],
+      "catering_type": "Annadhanam Catering",
+      "description": "Community/religious free-meal service",
+      "search_intent": "Annadhanam catering services",
+      "page_type": "Service / Event Page",
+      "slug": "annadhanam-catering-in-vellore",
+      "output": "services/annadhanam-catering-in-vellore.html"
+    },
+    {
+      "sno": 30,
+      "source_rows": [
+        30
+      ],
+      "categories": [
+        "Religious & Traditional"
+      ],
+      "catering_type": "Vratham Catering",
+      "description": "Fasting/vratham-compatible meals",
+      "search_intent": "Vratham catering services",
+      "page_type": "Service / Event Page",
+      "slug": "vratham-catering-in-vellore",
+      "output": "services/vratham-catering-in-vellore.html"
+    },
+    {
+      "sno": 31,
+      "source_rows": [
+        31
+      ],
+      "categories": [
+        "Religious & Traditional"
+      ],
+      "catering_type": "Shradh/Annual Ceremony Catering",
+      "description": "Memorial/annual remembrance meals",
+      "search_intent": "Shradh/Annual Ceremony catering services",
+      "page_type": "Service / Event Page",
+      "slug": "shradh-annual-ceremony-catering-in-vellore",
+      "output": "services/shradh-annual-ceremony-catering-in-vellore.html"
+    },
+    {
+      "sno": 32,
+      "source_rows": [
+        32
+      ],
+      "categories": [
+        "Religious & Traditional"
+      ],
+      "catering_type": "Obsequies/Funeral Catering",
+      "description": "Funeral and condolence meal services",
+      "search_intent": "Obsequies/Funeral catering services",
+      "page_type": "Service / Event Page",
+      "slug": "obsequies-funeral-catering-in-vellore",
+      "output": "services/obsequies-funeral-catering-in-vellore.html"
+    },
+    {
+      "sno": 33,
+      "source_rows": [
+        33
+      ],
+      "categories": [
+        "Birthday & Family"
+      ],
+      "catering_type": "Birthday Party Catering",
+      "description": "Birthday celebrations",
+      "search_intent": "Birthday Party catering services",
+      "page_type": "Service / Event Page",
+      "slug": "birthday-party-catering-in-vellore",
+      "output": "services/birthday-party-catering-in-vellore.html"
+    },
+    {
+      "sno": 34,
+      "source_rows": [
+        34
+      ],
+      "categories": [
+        "Birthday & Family"
+      ],
+      "catering_type": "First Birthday Catering",
+      "description": "First-birthday celebrations",
+      "search_intent": "First Birthday catering services",
+      "page_type": "Service / Event Page",
+      "slug": "first-birthday-catering-in-vellore",
+      "output": "services/first-birthday-catering-in-vellore.html"
+    },
+    {
+      "sno": 35,
+      "source_rows": [
+        35
+      ],
+      "categories": [
+        "Birthday & Family"
+      ],
+      "catering_type": "Kids Party Catering",
+      "description": "Children's birthday and party events",
+      "search_intent": "Kids Party catering services",
+      "page_type": "Service / Event Page",
+      "slug": "kids-party-catering-in-vellore",
+      "output": "services/kids-party-catering-in-vellore.html"
+    },
+    {
+      "sno": 36,
+      "source_rows": [
+        36
+      ],
+      "categories": [
+        "Birthday & Family"
+      ],
+      "catering_type": "Milestone Birthday Catering",
+      "description": "18th, 25th, 40th, 50th, 60th etc.",
+      "search_intent": "Milestone Birthday catering services",
+      "page_type": "Service / Event Page",
+      "slug": "milestone-birthday-catering-in-vellore",
+      "output": "services/milestone-birthday-catering-in-vellore.html"
+    },
+    {
+      "sno": 37,
+      "source_rows": [
+        37
+      ],
+      "categories": [
+        "Birthday & Family"
+      ],
+      "catering_type": "Surprise Party Catering",
+      "description": "Surprise birthday/celebration events",
+      "search_intent": "Surprise Party catering services",
+      "page_type": "Service / Event Page",
+      "slug": "surprise-party-catering-in-vellore",
+      "output": "services/surprise-party-catering-in-vellore.html"
+    },
+    {
+      "sno": 38,
+      "source_rows": [
+        38
+      ],
+      "categories": [
+        "Birthday & Family"
+      ],
+      "catering_type": "Anniversary Catering",
+      "description": "Wedding and family anniversaries",
+      "search_intent": "Anniversary catering services",
+      "page_type": "Service / Event Page",
+      "slug": "anniversary-catering-in-vellore",
+      "output": "services/anniversary-catering-in-vellore.html"
+    },
+    {
+      "sno": 39,
+      "source_rows": [
+        39
+      ],
+      "categories": [
+        "Birthday & Family"
+      ],
+      "catering_type": "Family Get-Together Catering",
+      "description": "Family gatherings",
+      "search_intent": "Family Get-Together catering services",
+      "page_type": "Service / Event Page",
+      "slug": "family-get-together-catering-in-vellore",
+      "output": "services/family-get-together-catering-in-vellore.html"
+    },
+    {
+      "sno": 40,
+      "source_rows": [
+        40
+      ],
+      "categories": [
+        "Birthday & Family"
+      ],
+      "catering_type": "House Party Catering",
+      "description": "Private home parties",
+      "search_intent": "House Party catering services",
+      "page_type": "Service / Event Page",
+      "slug": "house-party-catering-in-vellore",
+      "output": "services/house-party-catering-in-vellore.html"
+    },
+    {
+      "sno": 41,
+      "source_rows": [
+        41
+      ],
+      "categories": [
+        "Birthday & Family"
+      ],
+      "catering_type": "Baby Shower Catering",
+      "description": "Baby shower functions",
+      "search_intent": "Baby Shower catering services",
+      "page_type": "Service / Event Page",
+      "slug": "baby-shower-catering-in-vellore",
+      "output": "services/baby-shower-catering-in-vellore.html"
+    },
+    {
+      "sno": 42,
+      "source_rows": [
+        42
+      ],
+      "categories": [
+        "Birthday & Family"
+      ],
+      "catering_type": "Cradle Ceremony Catering",
+      "description": "Thottil/Cradle ceremonies",
+      "search_intent": "Cradle Ceremony catering services",
+      "page_type": "Service / Event Page",
+      "slug": "cradle-ceremony-catering-in-vellore",
+      "output": "services/cradle-ceremony-catering-in-vellore.html"
+    },
+    {
+      "sno": 43,
+      "source_rows": [
+        43
+      ],
+      "categories": [
+        "Corporate & Business"
+      ],
+      "catering_type": "Corporate Catering",
+      "description": "General corporate food service",
+      "search_intent": "Corporate catering services",
+      "page_type": "Service / Event Page",
+      "slug": "corporate-catering-in-vellore",
+      "output": "services/corporate-catering-in-vellore.html"
+    },
+    {
+      "sno": 44,
+      "source_rows": [
+        44
+      ],
+      "categories": [
+        "Corporate & Business"
+      ],
+      "catering_type": "Office Lunch Catering",
+      "description": "Office lunch programs",
+      "search_intent": "Office Lunch catering services",
+      "page_type": "Service / Event Page",
+      "slug": "office-lunch-catering-in-vellore",
+      "output": "services/office-lunch-catering-in-vellore.html"
+    },
+    {
+      "sno": 45,
+      "source_rows": [
+        45
+      ],
+      "categories": [
+        "Corporate & Business"
+      ],
+      "catering_type": "Corporate Breakfast Catering",
+      "description": "Business breakfasts",
+      "search_intent": "Corporate Breakfast catering services",
+      "page_type": "Service / Event Page",
+      "slug": "corporate-breakfast-catering-in-vellore",
+      "output": "services/corporate-breakfast-catering-in-vellore.html"
+    },
+    {
+      "sno": 46,
+      "source_rows": [
+        46
+      ],
+      "categories": [
+        "Corporate & Business"
+      ],
+      "catering_type": "Corporate Dinner Catering",
+      "description": "Business dinners",
+      "search_intent": "Corporate Dinner catering services",
+      "page_type": "Service / Event Page",
+      "slug": "corporate-dinner-catering-in-vellore",
+      "output": "services/corporate-dinner-catering-in-vellore.html"
+    },
+    {
+      "sno": 47,
+      "source_rows": [
+        47
+      ],
+      "categories": [
+        "Corporate & Business"
+      ],
+      "catering_type": "Corporate Buffet Catering",
+      "description": "Buffet service for corporate events",
+      "search_intent": "Corporate Buffet catering services",
+      "page_type": "Service / Event Page",
+      "slug": "corporate-buffet-catering-in-vellore",
+      "output": "services/corporate-buffet-catering-in-vellore.html"
+    },
+    {
+      "sno": 48,
+      "source_rows": [
+        48
+      ],
+      "categories": [
+        "Corporate & Business"
+      ],
+      "catering_type": "Business Meeting Catering",
+      "description": "Meetings and boardroom meals",
+      "search_intent": "Business Meeting catering services",
+      "page_type": "Service / Event Page",
+      "slug": "business-meeting-catering-in-vellore",
+      "output": "services/business-meeting-catering-in-vellore.html"
+    },
+    {
+      "sno": 49,
+      "source_rows": [
+        49
+      ],
+      "categories": [
+        "Corporate & Business"
+      ],
+      "catering_type": "Conference Catering",
+      "description": "Conferences and conventions",
+      "search_intent": "Conference catering services",
+      "page_type": "Service / Event Page",
+      "slug": "conference-catering-in-vellore",
+      "output": "services/conference-catering-in-vellore.html"
+    },
+    {
+      "sno": 50,
+      "source_rows": [
+        50
+      ],
+      "categories": [
+        "Corporate & Business"
+      ],
+      "catering_type": "Seminar Catering",
+      "description": "Seminars and educational events",
+      "search_intent": "Seminar catering services",
+      "page_type": "Service / Event Page",
+      "slug": "seminar-catering-in-vellore",
+      "output": "services/seminar-catering-in-vellore.html"
+    },
+    {
+      "sno": 51,
+      "source_rows": [
+        51
+      ],
+      "categories": [
+        "Corporate & Business"
+      ],
+      "catering_type": "Workshop Catering",
+      "description": "Workshops and training sessions",
+      "search_intent": "Workshop catering services",
+      "page_type": "Service / Event Page",
+      "slug": "workshop-catering-in-vellore",
+      "output": "services/workshop-catering-in-vellore.html"
+    },
+    {
+      "sno": 52,
+      "source_rows": [
+        52
+      ],
+      "categories": [
+        "Corporate & Business"
+      ],
+      "catering_type": "Training Program Catering",
+      "description": "Employee training programs",
+      "search_intent": "Training Program catering services",
+      "page_type": "Service / Event Page",
+      "slug": "training-program-catering-in-vellore",
+      "output": "services/training-program-catering-in-vellore.html"
+    },
+    {
+      "sno": 53,
+      "source_rows": [
+        53
+      ],
+      "categories": [
+        "Corporate & Business"
+      ],
+      "catering_type": "Product Launch Catering",
+      "description": "Product/service launches",
+      "search_intent": "Product Launch catering services",
+      "page_type": "Service / Event Page",
+      "slug": "product-launch-catering-in-vellore",
+      "output": "services/product-launch-catering-in-vellore.html"
+    },
+    {
+      "sno": 54,
+      "source_rows": [
+        54
+      ],
+      "categories": [
+        "Corporate & Business"
+      ],
+      "catering_type": "Dealer Meet Catering",
+      "description": "Dealer/distributor meets",
+      "search_intent": "Dealer Meet catering services",
+      "page_type": "Service / Event Page",
+      "slug": "dealer-meet-catering-in-vellore",
+      "output": "services/dealer-meet-catering-in-vellore.html"
+    },
+    {
+      "sno": 55,
+      "source_rows": [
+        55
+      ],
+      "categories": [
+        "Corporate & Business"
+      ],
+      "catering_type": "Annual Day Catering",
+      "description": "Corporate annual-day celebrations",
+      "search_intent": "Annual Day catering services",
+      "page_type": "Service / Event Page",
+      "slug": "annual-day-catering-in-vellore",
+      "output": "services/annual-day-catering-in-vellore.html"
+    },
+    {
+      "sno": 56,
+      "source_rows": [
+        56
+      ],
+      "categories": [
+        "Corporate & Business"
+      ],
+      "catering_type": "AGM Catering",
+      "description": "Annual general meetings",
+      "search_intent": "AGM catering services",
+      "page_type": "Service / Event Page",
+      "slug": "agm-catering-in-vellore",
+      "output": "services/agm-catering-in-vellore.html"
+    },
+    {
+      "sno": 57,
+      "source_rows": [
+        57
+      ],
+      "categories": [
+        "Corporate & Business"
+      ],
+      "catering_type": "Award Function Catering",
+      "description": "Corporate award ceremonies",
+      "search_intent": "Award Function catering services",
+      "page_type": "Service / Event Page",
+      "slug": "award-function-catering-in-vellore",
+      "output": "services/award-function-catering-in-vellore.html"
+    },
+    {
+      "sno": 58,
+      "source_rows": [
+        58
+      ],
+      "categories": [
+        "Corporate & Business"
+      ],
+      "catering_type": "Team Outing Catering",
+      "description": "Corporate outings and team events",
+      "search_intent": "Team Outing catering services",
+      "page_type": "Service / Event Page",
+      "slug": "team-outing-catering-in-vellore",
+      "output": "services/team-outing-catering-in-vellore.html"
+    },
+    {
+      "sno": 59,
+      "source_rows": [
+        59
+      ],
+      "categories": [
+        "Corporate & Business"
+      ],
+      "catering_type": "Employee Meal Catering",
+      "description": "Regular employee meals",
+      "search_intent": "Employee Meal catering services",
+      "page_type": "Service / Event Page",
+      "slug": "employee-meal-catering-in-vellore",
+      "output": "services/employee-meal-catering-in-vellore.html"
+    },
+    {
+      "sno": 60,
+      "source_rows": [
+        60
+      ],
+      "categories": [
+        "Corporate & Business"
+      ],
+      "catering_type": "Industrial Canteen Catering",
+      "description": "Factory/industrial meal services",
+      "search_intent": "Industrial Canteen catering services",
+      "page_type": "Service / Event Page",
+      "slug": "industrial-canteen-catering-in-vellore",
+      "output": "services/industrial-canteen-catering-in-vellore.html"
+    },
+    {
+      "sno": 61,
+      "source_rows": [
+        61
+      ],
+      "categories": [
+        "Corporate & Business"
+      ],
+      "catering_type": "Contract Catering",
+      "description": "Long-term institutional food contracts",
+      "search_intent": "Contract catering services",
+      "page_type": "Service / Event Page",
+      "slug": "contract-catering-in-vellore",
+      "output": "services/contract-catering-in-vellore.html"
+    },
+    {
+      "sno": 62,
+      "source_rows": [
+        62
+      ],
+      "categories": [
+        "Corporate & Business"
+      ],
+      "catering_type": "Corporate Pantry Catering",
+      "description": "Office pantry/snack programs",
+      "search_intent": "Corporate Pantry catering services",
+      "page_type": "Service / Event Page",
+      "slug": "corporate-pantry-catering-in-vellore",
+      "output": "services/corporate-pantry-catering-in-vellore.html"
+    },
+    {
+      "sno": 63,
+      "source_rows": [
+        63
+      ],
+      "categories": [
+        "Education"
+      ],
+      "catering_type": "School Catering",
+      "description": "School events and meal programs",
+      "search_intent": "School catering services",
+      "page_type": "Service / Event Page",
+      "slug": "school-catering-in-vellore",
+      "output": "services/school-catering-in-vellore.html"
+    },
+    {
+      "sno": 64,
+      "source_rows": [
+        64
+      ],
+      "categories": [
+        "Education"
+      ],
+      "catering_type": "College Catering",
+      "description": "College events and functions",
+      "search_intent": "College catering services",
+      "page_type": "Service / Event Page",
+      "slug": "college-catering-in-vellore",
+      "output": "services/college-catering-in-vellore.html"
+    },
+    {
+      "sno": 65,
+      "source_rows": [
+        65
+      ],
+      "categories": [
+        "Education"
+      ],
+      "catering_type": "University Catering",
+      "description": "University events",
+      "search_intent": "University catering services",
+      "page_type": "Service / Event Page",
+      "slug": "university-catering-in-vellore",
+      "output": "services/university-catering-in-vellore.html"
+    },
+    {
+      "sno": 66,
+      "source_rows": [
+        66
+      ],
+      "categories": [
+        "Education"
+      ],
+      "catering_type": "Student Hostel Catering",
+      "description": "Hostel mess/meal services",
+      "search_intent": "Student Hostel catering services",
+      "page_type": "Service / Event Page",
+      "slug": "student-hostel-catering-in-vellore",
+      "output": "services/student-hostel-catering-in-vellore.html"
+    },
+    {
+      "sno": 67,
+      "source_rows": [
+        67
+      ],
+      "categories": [
+        "Education"
+      ],
+      "catering_type": "School Annual Day Catering",
+      "description": "Annual-day functions",
+      "search_intent": "School Annual Day catering services",
+      "page_type": "Service / Event Page",
+      "slug": "school-annual-day-catering-in-vellore",
+      "output": "services/school-annual-day-catering-in-vellore.html"
+    },
+    {
+      "sno": 68,
+      "source_rows": [
+        68
+      ],
+      "categories": [
+        "Education"
+      ],
+      "catering_type": "College Fest Catering",
+      "description": "College festivals",
+      "search_intent": "College Fest catering services",
+      "page_type": "Service / Event Page",
+      "slug": "college-fest-catering-in-vellore",
+      "output": "services/college-fest-catering-in-vellore.html"
+    },
+    {
+      "sno": 69,
+      "source_rows": [
+        69
+      ],
+      "categories": [
+        "Education"
+      ],
+      "catering_type": "Convocation Catering",
+      "description": "Convocations",
+      "search_intent": "Convocation catering services",
+      "page_type": "Service / Event Page",
+      "slug": "convocation-catering-in-vellore",
+      "output": "services/convocation-catering-in-vellore.html"
+    },
+    {
+      "sno": 70,
+      "source_rows": [
+        70
+      ],
+      "categories": [
+        "Education"
+      ],
+      "catering_type": "School/College Sports Day Catering",
+      "description": "Sports day events",
+      "search_intent": "School/College Sports Day catering services",
+      "page_type": "Service / Event Page",
+      "slug": "school-college-sports-day-catering-in-vellore",
+      "output": "services/school-college-sports-day-catering-in-vellore.html"
+    },
+    {
+      "sno": 71,
+      "source_rows": [
+        71
+      ],
+      "categories": [
+        "Education"
+      ],
+      "catering_type": "Parent-Teacher Meeting Catering",
+      "description": "PTM refreshments",
+      "search_intent": "Parent-Teacher Meeting catering services",
+      "page_type": "Service / Event Page",
+      "slug": "parent-teacher-meeting-catering-in-vellore",
+      "output": "services/parent-teacher-meeting-catering-in-vellore.html"
+    },
+    {
+      "sno": 72,
+      "source_rows": [
+        72
+      ],
+      "categories": [
+        "Events & Entertainment"
+      ],
+      "catering_type": "Event Catering",
+      "description": "General event catering",
+      "search_intent": "Event catering services",
+      "page_type": "Service / Event Page",
+      "slug": "event-catering-in-vellore",
+      "output": "services/event-catering-in-vellore.html"
+    },
+    {
+      "sno": 73,
+      "source_rows": [
+        73
+      ],
+      "categories": [
+        "Events & Entertainment"
+      ],
+      "catering_type": "Exhibition Catering",
+      "description": "Trade shows and exhibitions",
+      "search_intent": "Exhibition catering services",
+      "page_type": "Service / Event Page",
+      "slug": "exhibition-catering-in-vellore",
+      "output": "services/exhibition-catering-in-vellore.html"
+    },
+    {
+      "sno": 74,
+      "source_rows": [
+        74
+      ],
+      "categories": [
+        "Events & Entertainment"
+      ],
+      "catering_type": "Trade Show Catering",
+      "description": "Business trade shows",
+      "search_intent": "Trade Show catering services",
+      "page_type": "Service / Event Page",
+      "slug": "trade-show-catering-in-vellore",
+      "output": "services/trade-show-catering-in-vellore.html"
+    },
+    {
+      "sno": 75,
+      "source_rows": [
+        75
+      ],
+      "categories": [
+        "Events & Entertainment"
+      ],
+      "catering_type": "Festival Catering",
+      "description": "Public/private festivals",
+      "search_intent": "Festival catering services",
+      "page_type": "Service / Event Page",
+      "slug": "festival-catering-in-vellore",
+      "output": "services/festival-catering-in-vellore.html"
+    },
+    {
+      "sno": 76,
+      "source_rows": [
+        76
+      ],
+      "categories": [
+        "Events & Entertainment"
+      ],
+      "catering_type": "Concert Catering",
+      "description": "Music concerts",
+      "search_intent": "Concert catering services",
+      "page_type": "Service / Event Page",
+      "slug": "concert-catering-in-vellore",
+      "output": "services/concert-catering-in-vellore.html"
+    },
+    {
+      "sno": 77,
+      "source_rows": [
+        77
+      ],
+      "categories": [
+        "Events & Entertainment"
+      ],
+      "catering_type": "Award Show Catering",
+      "description": "Award ceremonies",
+      "search_intent": "Award Show catering services",
+      "page_type": "Service / Event Page",
+      "slug": "award-show-catering-in-vellore",
+      "output": "services/award-show-catering-in-vellore.html"
+    },
+    {
+      "sno": 78,
+      "source_rows": [
+        78
+      ],
+      "categories": [
+        "Events & Entertainment"
+      ],
+      "catering_type": "Fashion Show Catering",
+      "description": "Fashion events",
+      "search_intent": "Fashion Show catering services",
+      "page_type": "Service / Event Page",
+      "slug": "fashion-show-catering-in-vellore",
+      "output": "services/fashion-show-catering-in-vellore.html"
+    },
+    {
+      "sno": 79,
+      "source_rows": [
+        79
+      ],
+      "categories": [
+        "Events & Entertainment"
+      ],
+      "catering_type": "Film/TV Shoot Catering",
+      "description": "Production catering",
+      "search_intent": "Film/TV Shoot catering services",
+      "page_type": "Service / Event Page",
+      "slug": "film-tv-shoot-catering-in-vellore",
+      "output": "services/film-tv-shoot-catering-in-vellore.html"
+    },
+    {
+      "sno": 80,
+      "source_rows": [
+        80
+      ],
+      "categories": [
+        "Events & Entertainment"
+      ],
+      "catering_type": "Backstage Catering",
+      "description": "Performers and crew",
+      "search_intent": "Backstage catering services",
+      "page_type": "Service / Event Page",
+      "slug": "backstage-catering-in-vellore",
+      "output": "services/backstage-catering-in-vellore.html"
+    },
+    {
+      "sno": 81,
+      "source_rows": [
+        81
+      ],
+      "categories": [
+        "Events & Entertainment"
+      ],
+      "catering_type": "VIP Catering",
+      "description": "VIP hospitality",
+      "search_intent": "VIP catering services",
+      "page_type": "Service / Event Page",
+      "slug": "vip-catering-in-vellore",
+      "output": "services/vip-catering-in-vellore.html"
+    },
+    {
+      "sno": 82,
+      "source_rows": [
+        82
+      ],
+      "categories": [
+        "Events & Entertainment"
+      ],
+      "catering_type": "Celebrity Event Catering",
+      "description": "Celebrity events",
+      "search_intent": "Celebrity Event catering services",
+      "page_type": "Service / Event Page",
+      "slug": "celebrity-event-catering-in-vellore",
+      "output": "services/celebrity-event-catering-in-vellore.html"
+    },
+    {
+      "sno": 83,
+      "source_rows": [
+        83
+      ],
+      "categories": [
+        "Events & Entertainment"
+      ],
+      "catering_type": "Press Meet Catering",
+      "description": "Media/press events",
+      "search_intent": "Press Meet catering services",
+      "page_type": "Service / Event Page",
+      "slug": "press-meet-catering-in-vellore",
+      "output": "services/press-meet-catering-in-vellore.html"
+    },
+    {
+      "sno": 84,
+      "source_rows": [
+        84
+      ],
+      "categories": [
+        "Events & Entertainment"
+      ],
+      "catering_type": "Political/Event Hospitality Catering",
+      "description": "Large public gatherings and hospitality",
+      "search_intent": "Political/Event Hospitality catering services",
+      "page_type": "Service / Event Page",
+      "slug": "political-event-hospitality-catering-in-vellore",
+      "output": "services/political-event-hospitality-catering-in-vellore.html"
+    },
+    {
+      "sno": 85,
+      "source_rows": [
+        85
+      ],
+      "categories": [
+        "Events & Entertainment"
+      ],
+      "catering_type": "Sports Event Catering",
+      "description": "Sports tournaments and matches",
+      "search_intent": "Sports Event catering services",
+      "page_type": "Service / Event Page",
+      "slug": "sports-event-catering-in-vellore",
+      "output": "services/sports-event-catering-in-vellore.html"
+    },
+    {
+      "sno": 86,
+      "source_rows": [
+        86
+      ],
+      "categories": [
+        "Events & Entertainment"
+      ],
+      "catering_type": "Stadium/Event Venue Catering",
+      "description": "Venue-based mass catering",
+      "search_intent": "Stadium/Event Venue catering services",
+      "page_type": "Service / Event Page",
+      "slug": "stadium-event-venue-catering-in-vellore",
+      "output": "services/stadium-event-venue-catering-in-vellore.html"
+    },
+    {
+      "sno": 87,
+      "source_rows": [
+        87
+      ],
+      "categories": [
+        "Social & Community"
+      ],
+      "catering_type": "Community Function Catering",
+      "description": "Community association functions",
+      "search_intent": "Community Function catering services",
+      "page_type": "Service / Event Page",
+      "slug": "community-function-catering-in-vellore",
+      "output": "services/community-function-catering-in-vellore.html"
+    },
+    {
+      "sno": 88,
+      "source_rows": [
+        88
+      ],
+      "categories": [
+        "Social & Community"
+      ],
+      "catering_type": "Apartment Association Catering",
+      "description": "Apartment/community events",
+      "search_intent": "Apartment Association catering services",
+      "page_type": "Service / Event Page",
+      "slug": "apartment-association-catering-in-vellore",
+      "output": "services/apartment-association-catering-in-vellore.html"
+    },
+    {
+      "sno": 89,
+      "source_rows": [
+        89
+      ],
+      "categories": [
+        "Social & Community"
+      ],
+      "catering_type": "Residents Association Catering",
+      "description": "Resident association programs",
+      "search_intent": "Residents Association catering services",
+      "page_type": "Service / Event Page",
+      "slug": "residents-association-catering-in-vellore",
+      "output": "services/residents-association-catering-in-vellore.html"
+    },
+    {
+      "sno": 90,
+      "source_rows": [
+        90
+      ],
+      "categories": [
+        "Social & Community"
+      ],
+      "catering_type": "Club Function Catering",
+      "description": "Clubs and social organizations",
+      "search_intent": "Club Function catering services",
+      "page_type": "Service / Event Page",
+      "slug": "club-function-catering-in-vellore",
+      "output": "services/club-function-catering-in-vellore.html"
+    },
+    {
+      "sno": 91,
+      "source_rows": [
+        91
+      ],
+      "categories": [
+        "Social & Community"
+      ],
+      "catering_type": "NGO Event Catering",
+      "description": "NGO/community programs",
+      "search_intent": "NGO Event catering services",
+      "page_type": "Service / Event Page",
+      "slug": "ngo-event-catering-in-vellore",
+      "output": "services/ngo-event-catering-in-vellore.html"
+    },
+    {
+      "sno": 92,
+      "source_rows": [
+        92
+      ],
+      "categories": [
+        "Social & Community"
+      ],
+      "catering_type": "Charity Event Catering",
+      "description": "Charity functions",
+      "search_intent": "Charity Event catering services",
+      "page_type": "Service / Event Page",
+      "slug": "charity-event-catering-in-vellore",
+      "output": "services/charity-event-catering-in-vellore.html"
+    },
+    {
+      "sno": 93,
+      "source_rows": [
+        93
+      ],
+      "categories": [
+        "Social & Community"
+      ],
+      "catering_type": "Fundraiser Catering",
+      "description": "Fundraising events",
+      "search_intent": "Fundraiser catering services",
+      "page_type": "Service / Event Page",
+      "slug": "fundraiser-catering-in-vellore",
+      "output": "services/fundraiser-catering-in-vellore.html"
+    },
+    {
+      "sno": 94,
+      "source_rows": [
+        94
+      ],
+      "categories": [
+        "Social & Community"
+      ],
+      "catering_type": "Political Meeting Catering",
+      "description": "Meeting/event meal services",
+      "search_intent": "Political Meeting catering services",
+      "page_type": "Service / Event Page",
+      "slug": "political-meeting-catering-in-vellore",
+      "output": "services/political-meeting-catering-in-vellore.html"
+    },
+    {
+      "sno": 95,
+      "source_rows": [
+        95
+      ],
+      "categories": [
+        "Social & Community"
+      ],
+      "catering_type": "Public Function Catering",
+      "description": "Large public gatherings",
+      "search_intent": "Public Function catering services",
+      "page_type": "Service / Event Page",
+      "slug": "public-function-catering-in-vellore",
+      "output": "services/public-function-catering-in-vellore.html"
+    },
+    {
+      "sno": 96,
+      "source_rows": [
+        96
+      ],
+      "categories": [
+        "Social & Community"
+      ],
+      "catering_type": "Government Function Catering",
+      "description": "Government events and functions",
+      "search_intent": "Government Function catering services",
+      "page_type": "Service / Event Page",
+      "slug": "government-function-catering-in-vellore",
+      "output": "services/government-function-catering-in-vellore.html"
+    },
+    {
+      "sno": 97,
+      "source_rows": [
+        97
+      ],
+      "categories": [
+        "Healthcare & Institutional"
+      ],
+      "catering_type": "Hospital Catering",
+      "description": "Hospital food service",
+      "search_intent": "Hospital catering services",
+      "page_type": "Service / Event Page",
+      "slug": "hospital-catering-in-vellore",
+      "output": "services/hospital-catering-in-vellore.html"
+    },
+    {
+      "sno": 98,
+      "source_rows": [
+        98
+      ],
+      "categories": [
+        "Healthcare & Institutional"
+      ],
+      "catering_type": "Patient Meal Catering",
+      "description": "Patient meals",
+      "search_intent": "Patient Meal catering services",
+      "page_type": "Service / Event Page",
+      "slug": "patient-meal-catering-in-vellore",
+      "output": "services/patient-meal-catering-in-vellore.html"
+    },
+    {
+      "sno": 99,
+      "source_rows": [
+        99
+      ],
+      "categories": [
+        "Healthcare & Institutional"
+      ],
+      "catering_type": "Hospital Staff Catering",
+      "description": "Staff meals",
+      "search_intent": "Hospital Staff catering services",
+      "page_type": "Service / Event Page",
+      "slug": "hospital-staff-catering-in-vellore",
+      "output": "services/hospital-staff-catering-in-vellore.html"
+    },
+    {
+      "sno": 100,
+      "source_rows": [
+        100
+      ],
+      "categories": [
+        "Healthcare & Institutional"
+      ],
+      "catering_type": "Healthcare Conference Catering",
+      "description": "Medical conferences",
+      "search_intent": "Healthcare Conference catering services",
+      "page_type": "Service / Event Page",
+      "slug": "healthcare-conference-catering-in-vellore",
+      "output": "services/healthcare-conference-catering-in-vellore.html"
+    },
+    {
+      "sno": 101,
+      "source_rows": [
+        101
+      ],
+      "categories": [
+        "Healthcare & Institutional"
+      ],
+      "catering_type": "Retirement Home Catering",
+      "description": "Senior-care facilities",
+      "search_intent": "Retirement Home catering services",
+      "page_type": "Service / Event Page",
+      "slug": "retirement-home-catering-in-vellore",
+      "output": "services/retirement-home-catering-in-vellore.html"
+    },
+    {
+      "sno": 102,
+      "source_rows": [
+        102
+      ],
+      "categories": [
+        "Healthcare & Institutional"
+      ],
+      "catering_type": "Hostel Catering",
+      "description": "Residential hostel meal services",
+      "search_intent": "Hostel catering services",
+      "page_type": "Service / Event Page",
+      "slug": "hostel-catering-in-vellore",
+      "output": "services/hostel-catering-in-vellore.html"
+    },
+    {
+      "sno": 103,
+      "source_rows": [
+        103
+      ],
+      "categories": [
+        "Healthcare & Institutional"
+      ],
+      "catering_type": "Institutional Catering",
+      "description": "Institutional food contracts",
+      "search_intent": "Institutional catering services",
+      "page_type": "Service / Event Page",
+      "slug": "institutional-catering-in-vellore",
+      "output": "services/institutional-catering-in-vellore.html"
+    },
+    {
+      "sno": 104,
+      "source_rows": [
+        104
+      ],
+      "categories": [
+        "Religious Festivals & Seasonal"
+      ],
+      "catering_type": "Diwali Catering",
+      "description": "Diwali celebrations",
+      "search_intent": "Diwali catering services",
+      "page_type": "Service / Event Page",
+      "slug": "diwali-catering-in-vellore",
+      "output": "services/diwali-catering-in-vellore.html"
+    },
+    {
+      "sno": 105,
+      "source_rows": [
+        105
+      ],
+      "categories": [
+        "Religious Festivals & Seasonal"
+      ],
+      "catering_type": "Pongal Catering",
+      "description": "Pongal functions",
+      "search_intent": "Pongal catering services",
+      "page_type": "Service / Event Page",
+      "slug": "pongal-catering-in-vellore",
+      "output": "services/pongal-catering-in-vellore.html"
+    },
+    {
+      "sno": 106,
+      "source_rows": [
+        106
+      ],
+      "categories": [
+        "Religious Festivals & Seasonal"
+      ],
+      "catering_type": "Tamil New Year Catering",
+      "description": "Puthandu celebrations",
+      "search_intent": "Tamil New Year catering services",
+      "page_type": "Service / Event Page",
+      "slug": "tamil-new-year-catering-in-vellore",
+      "output": "services/tamil-new-year-catering-in-vellore.html"
+    },
+    {
+      "sno": 107,
+      "source_rows": [
+        107
+      ],
+      "categories": [
+        "Religious Festivals & Seasonal"
+      ],
+      "catering_type": "Christmas Catering",
+      "description": "Christmas events",
+      "search_intent": "Christmas catering services",
+      "page_type": "Service / Event Page",
+      "slug": "christmas-catering-in-vellore",
+      "output": "services/christmas-catering-in-vellore.html"
+    },
+    {
+      "sno": 108,
+      "source_rows": [
+        108
+      ],
+      "categories": [
+        "Religious Festivals & Seasonal"
+      ],
+      "catering_type": "Eid Catering",
+      "description": "Eid celebrations",
+      "search_intent": "Eid catering services",
+      "page_type": "Service / Event Page",
+      "slug": "eid-catering-in-vellore",
+      "output": "services/eid-catering-in-vellore.html"
+    },
+    {
+      "sno": 109,
+      "source_rows": [
+        109
+      ],
+      "categories": [
+        "Religious Festivals & Seasonal"
+      ],
+      "catering_type": "Ramadan/Iftar Catering",
+      "description": "Iftar and Ramadan events",
+      "search_intent": "Ramadan/Iftar catering services",
+      "page_type": "Service / Event Page",
+      "slug": "ramadan-iftar-catering-in-vellore",
+      "output": "services/ramadan-iftar-catering-in-vellore.html"
+    },
+    {
+      "sno": 110,
+      "source_rows": [
+        110
+      ],
+      "categories": [
+        "Religious Festivals & Seasonal"
+      ],
+      "catering_type": "Onam Catering",
+      "description": "Onam/Sadya events",
+      "search_intent": "Onam catering services",
+      "page_type": "Service / Event Page",
+      "slug": "onam-catering-in-vellore",
+      "output": "services/onam-catering-in-vellore.html"
+    },
+    {
+      "sno": 111,
+      "source_rows": [
+        111
+      ],
+      "categories": [
+        "Religious Festivals & Seasonal"
+      ],
+      "catering_type": "Navratri Catering",
+      "description": "Navratri events",
+      "search_intent": "Navratri catering services",
+      "page_type": "Service / Event Page",
+      "slug": "navratri-catering-in-vellore",
+      "output": "services/navratri-catering-in-vellore.html"
+    },
+    {
+      "sno": 112,
+      "source_rows": [
+        112
+      ],
+      "categories": [
+        "Religious Festivals & Seasonal"
+      ],
+      "catering_type": "Ganesh Chaturthi Catering",
+      "description": "Ganesh festival events",
+      "search_intent": "Ganesh Chaturthi catering services",
+      "page_type": "Service / Event Page",
+      "slug": "ganesh-chaturthi-catering-in-vellore",
+      "output": "services/ganesh-chaturthi-catering-in-vellore.html"
+    },
+    {
+      "sno": 113,
+      "source_rows": [
+        113
+      ],
+      "categories": [
+        "Religious Festivals & Seasonal"
+      ],
+      "catering_type": "Krishna Jayanthi Catering",
+      "description": "Krishna Jayanthi celebrations",
+      "search_intent": "Krishna Jayanthi catering services",
+      "page_type": "Service / Event Page",
+      "slug": "krishna-jayanthi-catering-in-vellore",
+      "output": "services/krishna-jayanthi-catering-in-vellore.html"
+    },
+    {
+      "sno": 114,
+      "source_rows": [
+        114
+      ],
+      "categories": [
+        "Religious Festivals & Seasonal"
+      ],
+      "catering_type": "Ayudha Pooja Catering",
+      "description": "Ayudha Pooja/office celebrations",
+      "search_intent": "Ayudha Pooja catering services",
+      "page_type": "Service / Event Page",
+      "slug": "ayudha-pooja-catering-in-vellore",
+      "output": "services/ayudha-pooja-catering-in-vellore.html"
+    },
+    {
+      "sno": 115,
+      "source_rows": [
+        115
+      ],
+      "categories": [
+        "Religious Festivals & Seasonal"
+      ],
+      "catering_type": "Saraswati Pooja Catering",
+      "description": "Saraswati Pooja functions",
+      "search_intent": "Saraswati Pooja catering services",
+      "page_type": "Service / Event Page",
+      "slug": "saraswati-pooja-catering-in-vellore",
+      "output": "services/saraswati-pooja-catering-in-vellore.html"
+    },
+    {
+      "sno": 116,
+      "source_rows": [
+        116
+      ],
+      "categories": [
+        "Religious Festivals & Seasonal"
+      ],
+      "catering_type": "Ram Navami Catering",
+      "description": "Ram Navami functions",
+      "search_intent": "Ram Navami catering services",
+      "page_type": "Service / Event Page",
+      "slug": "ram-navami-catering-in-vellore",
+      "output": "services/ram-navami-catering-in-vellore.html"
+    },
+    {
+      "sno": 117,
+      "source_rows": [
+        117
+      ],
+      "categories": [
+        "Religious Festivals & Seasonal"
+      ],
+      "catering_type": "Janmashtami Catering",
+      "description": "Janmashtami events",
+      "search_intent": "Janmashtami catering services",
+      "page_type": "Service / Event Page",
+      "slug": "janmashtami-catering-in-vellore",
+      "output": "services/janmashtami-catering-in-vellore.html"
+    },
+    {
+      "sno": 118,
+      "source_rows": [
+        118
+      ],
+      "categories": [
+        "Food Service Formats"
+      ],
+      "catering_type": "Buffet Catering",
+      "description": "Self-service buffet",
+      "search_intent": "Buffet catering services",
+      "page_type": "Service / Event Page",
+      "slug": "buffet-catering-in-vellore",
+      "output": "services/buffet-catering-in-vellore.html"
+    },
+    {
+      "sno": 119,
+      "source_rows": [
+        119
+      ],
+      "categories": [
+        "Food Service Formats"
+      ],
+      "catering_type": "Banana Leaf Catering",
+      "description": "Traditional banana-leaf service",
+      "search_intent": "Banana Leaf catering services",
+      "page_type": "Service / Event Page",
+      "slug": "banana-leaf-catering-in-vellore",
+      "output": "services/banana-leaf-catering-in-vellore.html"
+    },
+    {
+      "sno": 120,
+      "source_rows": [
+        120
+      ],
+      "categories": [
+        "Food Service Formats"
+      ],
+      "catering_type": "Plated Catering",
+      "description": "Individually plated meals",
+      "search_intent": "Plated catering services",
+      "page_type": "Service / Event Page",
+      "slug": "plated-catering-in-vellore",
+      "output": "services/plated-catering-in-vellore.html"
+    },
+    {
+      "sno": 121,
+      "source_rows": [
+        121
+      ],
+      "categories": [
+        "Food Service Formats"
+      ],
+      "catering_type": "Sit-Down Catering",
+      "description": "Table service meals",
+      "search_intent": "Sit-Down catering services",
+      "page_type": "Service / Event Page",
+      "slug": "sit-down-catering-in-vellore",
+      "output": "services/sit-down-catering-in-vellore.html"
+    },
+    {
+      "sno": 122,
+      "source_rows": [
+        122
+      ],
+      "categories": [
+        "Food Service Formats"
+      ],
+      "catering_type": "Full-Service Catering",
+      "description": "Food plus serving/service staff",
+      "search_intent": "Full-Service catering services",
+      "page_type": "Service / Event Page",
+      "slug": "full-service-catering-in-vellore",
+      "output": "services/full-service-catering-in-vellore.html"
+    },
+    {
+      "sno": 123,
+      "source_rows": [
+        123
+      ],
+      "categories": [
+        "Food Service Formats"
+      ],
+      "catering_type": "Drop-Off Catering",
+      "description": "Food delivery without full service",
+      "search_intent": "Drop-Off catering services",
+      "page_type": "Service / Event Page",
+      "slug": "drop-off-catering-in-vellore",
+      "output": "services/drop-off-catering-in-vellore.html"
+    },
+    {
+      "sno": 124,
+      "source_rows": [
+        124
+      ],
+      "categories": [
+        "Food Service Formats"
+      ],
+      "catering_type": "Delivery Catering",
+      "description": "Delivered prepared food",
+      "search_intent": "Delivery catering services",
+      "page_type": "Service / Event Page",
+      "slug": "delivery-catering-in-vellore",
+      "output": "services/delivery-catering-in-vellore.html"
+    },
+    {
+      "sno": 125,
+      "source_rows": [
+        125
+      ],
+      "categories": [
+        "Food Service Formats"
+      ],
+      "catering_type": "Live Counter Catering",
+      "description": "Made-to-order live stations",
+      "search_intent": "Live Counter catering services",
+      "page_type": "Service / Event Page",
+      "slug": "live-counter-catering-in-vellore",
+      "output": "services/live-counter-catering-in-vellore.html"
+    },
+    {
+      "sno": 126,
+      "source_rows": [
+        126
+      ],
+      "categories": [
+        "Food Service Formats"
+      ],
+      "catering_type": "Food Stall Catering",
+      "description": "Temporary food stalls",
+      "search_intent": "Food Stall catering services",
+      "page_type": "Service / Event Page",
+      "slug": "food-stall-catering-in-vellore",
+      "output": "services/food-stall-catering-in-vellore.html"
+    },
+    {
+      "sno": 127,
+      "source_rows": [
+        127
+      ],
+      "categories": [
+        "Food Service Formats"
+      ],
+      "catering_type": "Food Truck Catering",
+      "description": "Mobile food trucks",
+      "search_intent": "Food Truck catering services",
+      "page_type": "Service / Event Page",
+      "slug": "food-truck-catering-in-vellore",
+      "output": "services/food-truck-catering-in-vellore.html"
+    },
+    {
+      "sno": 128,
+      "source_rows": [
+        128
+      ],
+      "categories": [
+        "Food Service Formats"
+      ],
+      "catering_type": "Outdoor Catering",
+      "description": "Open-air event catering",
+      "search_intent": "Outdoor catering services",
+      "page_type": "Service / Event Page",
+      "slug": "outdoor-catering-in-vellore",
+      "output": "services/outdoor-catering-in-vellore.html"
+    },
+    {
+      "sno": 129,
+      "source_rows": [
+        129
+      ],
+      "categories": [
+        "Food Service Formats"
+      ],
+      "catering_type": "Indoor Catering",
+      "description": "Indoor venue catering",
+      "search_intent": "Indoor catering services",
+      "page_type": "Service / Event Page",
+      "slug": "indoor-catering-in-vellore",
+      "output": "services/indoor-catering-in-vellore.html"
+    },
+    {
+      "sno": 130,
+      "source_rows": [
+        130
+      ],
+      "categories": [
+        "Food Service Formats"
+      ],
+      "catering_type": "On-Site Cooking Catering",
+      "description": "Cooking at event venue",
+      "search_intent": "On-Site Cooking catering services",
+      "page_type": "Service / Event Page",
+      "slug": "on-site-cooking-catering-in-vellore",
+      "output": "services/on-site-cooking-catering-in-vellore.html"
+    },
+    {
+      "sno": 131,
+      "source_rows": [
+        131
+      ],
+      "categories": [
+        "Food Service Formats"
+      ],
+      "catering_type": "Central Kitchen Catering",
+      "description": "Food prepared in central kitchen",
+      "search_intent": "Central Kitchen catering services",
+      "page_type": "Service / Event Page",
+      "slug": "central-kitchen-catering-in-vellore",
+      "output": "services/central-kitchen-catering-in-vellore.html"
+    },
+    {
+      "sno": 132,
+      "source_rows": [
+        132
+      ],
+      "categories": [
+        "Food Service Formats"
+      ],
+      "catering_type": "Bulk Catering",
+      "description": "Large-volume meal preparation",
+      "search_intent": "Bulk catering services",
+      "page_type": "Service / Event Page",
+      "slug": "bulk-catering-in-vellore",
+      "output": "services/bulk-catering-in-vellore.html"
+    },
+    {
+      "sno": 133,
+      "source_rows": [
+        133
+      ],
+      "categories": [
+        "Food Service Formats"
+      ],
+      "catering_type": "Mass Catering",
+      "description": "High-volume community/event catering",
+      "search_intent": "Mass catering services",
+      "page_type": "Service / Event Page",
+      "slug": "mass-catering-in-vellore",
+      "output": "services/mass-catering-in-vellore.html"
+    },
+    {
+      "sno": 134,
+      "source_rows": [
+        134
+      ],
+      "categories": [
+        "Food Service Formats"
+      ],
+      "catering_type": "Packaged Meal Catering",
+      "description": "Individually packed meals",
+      "search_intent": "Packaged Meal catering services",
+      "page_type": "Service / Event Page",
+      "slug": "packaged-meal-catering-in-vellore",
+      "output": "services/packaged-meal-catering-in-vellore.html"
+    },
+    {
+      "sno": 135,
+      "source_rows": [
+        135
+      ],
+      "categories": [
+        "Food Service Formats"
+      ],
+      "catering_type": "Box Meal Catering",
+      "description": "Boxed meal service",
+      "search_intent": "Box Meal catering services",
+      "page_type": "Service / Event Page",
+      "slug": "box-meal-catering-in-vellore",
+      "output": "services/box-meal-catering-in-vellore.html"
+    },
+    {
+      "sno": 136,
+      "source_rows": [
+        136
+      ],
+      "categories": [
+        "Food Service Formats"
+      ],
+      "catering_type": "Thali Catering",
+      "description": "Complete thali meal service",
+      "search_intent": "Thali catering services",
+      "page_type": "Service / Event Page",
+      "slug": "thali-catering-in-vellore",
+      "output": "services/thali-catering-in-vellore.html"
+    },
+    {
+      "sno": 137,
+      "source_rows": [
+        137
+      ],
+      "categories": [
+        "Food Service Formats"
+      ],
+      "catering_type": "Mini Meal Catering",
+      "description": "Compact meal portions",
+      "search_intent": "Mini Meal catering services",
+      "page_type": "Service / Event Page",
+      "slug": "mini-meal-catering-in-vellore",
+      "output": "services/mini-meal-catering-in-vellore.html"
+    },
+    {
+      "sno": 138,
+      "source_rows": [
+        138
+      ],
+      "categories": [
+        "Food Service Formats"
+      ],
+      "catering_type": "Tea & Snack Catering",
+      "description": "Tea, coffee and snacks",
+      "search_intent": "Tea & Snack catering services",
+      "page_type": "Service / Event Page",
+      "slug": "tea-and-snack-catering-in-vellore",
+      "output": "services/tea-and-snack-catering-in-vellore.html"
+    },
+    {
+      "sno": 139,
+      "source_rows": [
+        139
+      ],
+      "categories": [
+        "Food Service Formats"
+      ],
+      "catering_type": "High Tea Catering",
+      "description": "Formal tea/snack service",
+      "search_intent": "High Tea catering services",
+      "page_type": "Service / Event Page",
+      "slug": "high-tea-catering-in-vellore",
+      "output": "services/high-tea-catering-in-vellore.html"
+    },
+    {
+      "sno": 140,
+      "source_rows": [
+        140
+      ],
+      "categories": [
+        "Food Service Formats"
+      ],
+      "catering_type": "Coffee Break Catering",
+      "description": "Meeting/conference refreshments",
+      "search_intent": "Coffee Break catering services",
+      "page_type": "Service / Event Page",
+      "slug": "coffee-break-catering-in-vellore",
+      "output": "services/coffee-break-catering-in-vellore.html"
+    },
+    {
+      "sno": 141,
+      "source_rows": [
+        141
+      ],
+      "categories": [
+        "Food Service Formats"
+      ],
+      "catering_type": "Cocktail/Canape Catering",
+      "description": "Canapés and finger foods",
+      "search_intent": "Cocktail/Canape catering services",
+      "page_type": "Service / Event Page",
+      "slug": "cocktail-canape-catering-in-vellore",
+      "output": "services/cocktail-canape-catering-in-vellore.html"
+    },
+    {
+      "sno": 142,
+      "source_rows": [
+        142
+      ],
+      "categories": [
+        "Food Service Formats"
+      ],
+      "catering_type": "Dessert Catering",
+      "description": "Dessert-focused service",
+      "search_intent": "Dessert catering services",
+      "page_type": "Service / Event Page",
+      "slug": "dessert-catering-in-vellore",
+      "output": "services/dessert-catering-in-vellore.html"
+    },
+    {
+      "sno": 143,
+      "source_rows": [
+        143
+      ],
+      "categories": [
+        "Food Service Formats"
+      ],
+      "catering_type": "Beverage Catering",
+      "description": "Beverage stations/service",
+      "search_intent": "Beverage catering services",
+      "page_type": "Service / Event Page",
+      "slug": "beverage-catering-in-vellore",
+      "output": "services/beverage-catering-in-vellore.html"
+    },
+    {
+      "sno": 144,
+      "source_rows": [
+        144
+      ],
+      "categories": [
+        "Cuisine-Based"
+      ],
+      "catering_type": "South Indian Catering",
+      "description": "South Indian cuisine",
+      "search_intent": "South Indian catering services",
+      "page_type": "Service / Event Page",
+      "slug": "south-indian-catering-in-vellore",
+      "output": "services/south-indian-catering-in-vellore.html"
+    },
+    {
+      "sno": 145,
+      "source_rows": [
+        145
+      ],
+      "categories": [
+        "Cuisine-Based"
+      ],
+      "catering_type": "Tamil Cuisine Catering",
+      "description": "Tamil traditional cuisine",
+      "search_intent": "Tamil Cuisine catering services",
+      "page_type": "Service / Event Page",
+      "slug": "tamil-cuisine-catering-in-vellore",
+      "output": "services/tamil-cuisine-catering-in-vellore.html"
+    },
+    {
+      "sno": 146,
+      "source_rows": [
+        146
+      ],
+      "categories": [
+        "Cuisine-Based"
+      ],
+      "catering_type": "Chettinad Catering",
+      "description": "Chettinad cuisine",
+      "search_intent": "Chettinad catering services",
+      "page_type": "Service / Event Page",
+      "slug": "chettinad-catering-in-vellore",
+      "output": "services/chettinad-catering-in-vellore.html"
+    },
+    {
+      "sno": 147,
+      "source_rows": [
+        147
+      ],
+      "categories": [
+        "Cuisine-Based"
+      ],
+      "catering_type": "Brahmin/Sattvic Catering",
+      "description": "Traditional vegetarian/sattvic menus",
+      "search_intent": "Brahmin/Sattvic catering services",
+      "page_type": "Service / Event Page",
+      "slug": "brahmin-sattvic-catering-in-vellore",
+      "output": "services/brahmin-sattvic-catering-in-vellore.html"
+    },
+    {
+      "sno": 148,
+      "source_rows": [
+        148
+      ],
+      "categories": [
+        "Cuisine-Based"
+      ],
+      "catering_type": "Andhra Catering",
+      "description": "Andhra cuisine",
+      "search_intent": "Andhra catering services",
+      "page_type": "Service / Event Page",
+      "slug": "andhra-catering-in-vellore",
+      "output": "services/andhra-catering-in-vellore.html"
+    },
+    {
+      "sno": 149,
+      "source_rows": [
+        149
+      ],
+      "categories": [
+        "Cuisine-Based"
+      ],
+      "catering_type": "Telugu Catering",
+      "description": "Telugu cuisine",
+      "search_intent": "Telugu catering services",
+      "page_type": "Service / Event Page",
+      "slug": "telugu-catering-in-vellore",
+      "output": "services/telugu-catering-in-vellore.html"
+    },
+    {
+      "sno": 150,
+      "source_rows": [
+        150
+      ],
+      "categories": [
+        "Cuisine-Based"
+      ],
+      "catering_type": "Kerala Catering",
+      "description": "Kerala cuisine",
+      "search_intent": "Kerala catering services",
+      "page_type": "Service / Event Page",
+      "slug": "kerala-catering-in-vellore",
+      "output": "services/kerala-catering-in-vellore.html"
+    },
+    {
+      "sno": 151,
+      "source_rows": [
+        151
+      ],
+      "categories": [
+        "Cuisine-Based"
+      ],
+      "catering_type": "Karnataka Catering",
+      "description": "Karnataka cuisine",
+      "search_intent": "Karnataka catering services",
+      "page_type": "Service / Event Page",
+      "slug": "karnataka-catering-in-vellore",
+      "output": "services/karnataka-catering-in-vellore.html"
+    },
+    {
+      "sno": 152,
+      "source_rows": [
+        152
+      ],
+      "categories": [
+        "Cuisine-Based"
+      ],
+      "catering_type": "North Indian Catering",
+      "description": "North Indian cuisine",
+      "search_intent": "North Indian catering services",
+      "page_type": "Service / Event Page",
+      "slug": "north-indian-catering-in-vellore",
+      "output": "services/north-indian-catering-in-vellore.html"
+    },
+    {
+      "sno": 153,
+      "source_rows": [
+        153
+      ],
+      "categories": [
+        "Cuisine-Based"
+      ],
+      "catering_type": "Punjabi Catering",
+      "description": "Punjabi cuisine",
+      "search_intent": "Punjabi catering services",
+      "page_type": "Service / Event Page",
+      "slug": "punjabi-catering-in-vellore",
+      "output": "services/punjabi-catering-in-vellore.html"
+    },
+    {
+      "sno": 154,
+      "source_rows": [
+        154
+      ],
+      "categories": [
+        "Cuisine-Based"
+      ],
+      "catering_type": "Gujarati Catering",
+      "description": "Gujarati cuisine",
+      "search_intent": "Gujarati catering services",
+      "page_type": "Service / Event Page",
+      "slug": "gujarati-catering-in-vellore",
+      "output": "services/gujarati-catering-in-vellore.html"
+    },
+    {
+      "sno": 155,
+      "source_rows": [
+        155
+      ],
+      "categories": [
+        "Cuisine-Based"
+      ],
+      "catering_type": "Rajasthani Catering",
+      "description": "Rajasthani cuisine",
+      "search_intent": "Rajasthani catering services",
+      "page_type": "Service / Event Page",
+      "slug": "rajasthani-catering-in-vellore",
+      "output": "services/rajasthani-catering-in-vellore.html"
+    },
+    {
+      "sno": 156,
+      "source_rows": [
+        156
+      ],
+      "categories": [
+        "Cuisine-Based"
+      ],
+      "catering_type": "Bengali Catering",
+      "description": "Bengali cuisine",
+      "search_intent": "Bengali catering services",
+      "page_type": "Service / Event Page",
+      "slug": "bengali-catering-in-vellore",
+      "output": "services/bengali-catering-in-vellore.html"
+    },
+    {
+      "sno": 157,
+      "source_rows": [
+        157
+      ],
+      "categories": [
+        "Cuisine-Based"
+      ],
+      "catering_type": "Maharashtrian Catering",
+      "description": "Maharashtrian cuisine",
+      "search_intent": "Maharashtrian catering services",
+      "page_type": "Service / Event Page",
+      "slug": "maharashtrian-catering-in-vellore",
+      "output": "services/maharashtrian-catering-in-vellore.html"
+    },
+    {
+      "sno": 158,
+      "source_rows": [
+        158
+      ],
+      "categories": [
+        "Cuisine-Based"
+      ],
+      "catering_type": "Jain Catering",
+      "description": "Jain dietary menus",
+      "search_intent": "Jain catering services",
+      "page_type": "Service / Event Page",
+      "slug": "jain-catering-in-vellore",
+      "output": "services/jain-catering-in-vellore.html"
+    },
+    {
+      "sno": 159,
+      "source_rows": [
+        159
+      ],
+      "categories": [
+        "Cuisine-Based"
+      ],
+      "catering_type": "Vegetarian Catering",
+      "description": "Vegetarian-only menus",
+      "search_intent": "Vegetarian catering services",
+      "page_type": "Service / Event Page",
+      "slug": "vegetarian-catering-in-vellore",
+      "output": "services/vegetarian-catering-in-vellore.html"
+    },
+    {
+      "sno": 160,
+      "source_rows": [
+        160
+      ],
+      "categories": [
+        "Cuisine-Based"
+      ],
+      "catering_type": "Pure Veg Catering",
+      "description": "Pure vegetarian catering",
+      "search_intent": "Pure Veg catering services",
+      "page_type": "Service / Event Page",
+      "slug": "pure-veg-catering-in-vellore",
+      "output": "services/pure-veg-catering-in-vellore.html"
+    },
+    {
+      "sno": 161,
+      "source_rows": [
+        161
+      ],
+      "categories": [
+        "Cuisine-Based"
+      ],
+      "catering_type": "Non-Vegetarian Catering",
+      "description": "Non-vegetarian menus",
+      "search_intent": "Non-Vegetarian catering services",
+      "page_type": "Service / Event Page",
+      "slug": "non-vegetarian-catering-in-vellore",
+      "output": "services/non-vegetarian-catering-in-vellore.html"
+    },
+    {
+      "sno": 162,
+      "source_rows": [
+        162
+      ],
+      "categories": [
+        "Cuisine-Based"
+      ],
+      "catering_type": "Multi-Cuisine Catering",
+      "description": "Multiple Indian/international cuisines",
+      "search_intent": "Multi-Cuisine catering services",
+      "page_type": "Service / Event Page",
+      "slug": "multi-cuisine-catering-in-vellore",
+      "output": "services/multi-cuisine-catering-in-vellore.html"
+    },
+    {
+      "sno": 163,
+      "source_rows": [
+        163
+      ],
+      "categories": [
+        "Cuisine-Based"
+      ],
+      "catering_type": "Continental Catering",
+      "description": "Continental cuisine",
+      "search_intent": "Continental catering services",
+      "page_type": "Service / Event Page",
+      "slug": "continental-catering-in-vellore",
+      "output": "services/continental-catering-in-vellore.html"
+    },
+    {
+      "sno": 164,
+      "source_rows": [
+        164
+      ],
+      "categories": [
+        "Cuisine-Based"
+      ],
+      "catering_type": "Chinese/Indo-Chinese Catering",
+      "description": "Chinese and Indo-Chinese menus",
+      "search_intent": "Chinese/Indo-Chinese catering services",
+      "page_type": "Service / Event Page",
+      "slug": "chinese-indo-chinese-catering-in-vellore",
+      "output": "services/chinese-indo-chinese-catering-in-vellore.html"
+    },
+    {
+      "sno": 165,
+      "source_rows": [
+        165
+      ],
+      "categories": [
+        "Cuisine-Based"
+      ],
+      "catering_type": "Asian Catering",
+      "description": "Asian cuisine",
+      "search_intent": "Asian catering services",
+      "page_type": "Service / Event Page",
+      "slug": "asian-catering-in-vellore",
+      "output": "services/asian-catering-in-vellore.html"
+    },
+    {
+      "sno": 166,
+      "source_rows": [
+        166
+      ],
+      "categories": [
+        "Cuisine-Based"
+      ],
+      "catering_type": "Italian Catering",
+      "description": "Italian cuisine",
+      "search_intent": "Italian catering services",
+      "page_type": "Service / Event Page",
+      "slug": "italian-catering-in-vellore",
+      "output": "services/italian-catering-in-vellore.html"
+    },
+    {
+      "sno": 167,
+      "source_rows": [
+        167
+      ],
+      "categories": [
+        "Cuisine-Based"
+      ],
+      "catering_type": "Mediterranean Catering",
+      "description": "Mediterranean cuisine",
+      "search_intent": "Mediterranean catering services",
+      "page_type": "Service / Event Page",
+      "slug": "mediterranean-catering-in-vellore",
+      "output": "services/mediterranean-catering-in-vellore.html"
+    },
+    {
+      "sno": 168,
+      "source_rows": [
+        168
+      ],
+      "categories": [
+        "Cuisine-Based"
+      ],
+      "catering_type": "International Catering",
+      "description": "International menu formats",
+      "search_intent": "International catering services",
+      "page_type": "Service / Event Page",
+      "slug": "international-catering-in-vellore",
+      "output": "services/international-catering-in-vellore.html"
+    },
+    {
+      "sno": 169,
+      "source_rows": [
+        169
+      ],
+      "categories": [
+        "Cuisine-Based"
+      ],
+      "catering_type": "Fusion Catering",
+      "description": "Fusion cuisine",
+      "search_intent": "Fusion catering services",
+      "page_type": "Service / Event Page",
+      "slug": "fusion-catering-in-vellore",
+      "output": "services/fusion-catering-in-vellore.html"
+    },
+    {
+      "sno": 170,
+      "source_rows": [
+        170
+      ],
+      "categories": [
+        "Specialized & Dietary"
+      ],
+      "catering_type": "Jain Food Catering",
+      "description": "Jain dietary requirements",
+      "search_intent": "Jain Food catering services",
+      "page_type": "Service / Event Page",
+      "slug": "jain-food-catering-in-vellore",
+      "output": "services/jain-food-catering-in-vellore.html"
+    },
+    {
+      "sno": 171,
+      "source_rows": [
+        171
+      ],
+      "categories": [
+        "Specialized & Dietary"
+      ],
+      "catering_type": "Vegan Catering",
+      "description": "Vegan menus",
+      "search_intent": "Vegan catering services",
+      "page_type": "Service / Event Page",
+      "slug": "vegan-catering-in-vellore",
+      "output": "services/vegan-catering-in-vellore.html"
+    },
+    {
+      "sno": 172,
+      "source_rows": [
+        172
+      ],
+      "categories": [
+        "Specialized & Dietary"
+      ],
+      "catering_type": "Gluten-Free Catering",
+      "description": "Gluten-free menus",
+      "search_intent": "Gluten-Free catering services",
+      "page_type": "Service / Event Page",
+      "slug": "gluten-free-catering-in-vellore",
+      "output": "services/gluten-free-catering-in-vellore.html"
+    },
+    {
+      "sno": 173,
+      "source_rows": [
+        173
+      ],
+      "categories": [
+        "Specialized & Dietary"
+      ],
+      "catering_type": "Allergy-Aware Catering",
+      "description": "Menus adapted for food allergies",
+      "search_intent": "Allergy-Aware catering services",
+      "page_type": "Service / Event Page",
+      "slug": "allergy-aware-catering-in-vellore",
+      "output": "services/allergy-aware-catering-in-vellore.html"
+    },
+    {
+      "sno": 174,
+      "source_rows": [
+        174
+      ],
+      "categories": [
+        "Specialized & Dietary"
+      ],
+      "catering_type": "Healthy Catering",
+      "description": "Health-focused menus",
+      "search_intent": "Healthy catering services",
+      "page_type": "Service / Event Page",
+      "slug": "healthy-catering-in-vellore",
+      "output": "services/healthy-catering-in-vellore.html"
+    },
+    {
+      "sno": 175,
+      "source_rows": [
+        175
+      ],
+      "categories": [
+        "Specialized & Dietary"
+      ],
+      "catering_type": "Diet Catering",
+      "description": "Customized dietary meals",
+      "search_intent": "Diet catering services",
+      "page_type": "Service / Event Page",
+      "slug": "diet-catering-in-vellore",
+      "output": "services/diet-catering-in-vellore.html"
+    },
+    {
+      "sno": 176,
+      "source_rows": [
+        176
+      ],
+      "categories": [
+        "Specialized & Dietary"
+      ],
+      "catering_type": "Low-Calorie Catering",
+      "description": "Lower-calorie menus",
+      "search_intent": "Low-Calorie catering services",
+      "page_type": "Service / Event Page",
+      "slug": "low-calorie-catering-in-vellore",
+      "output": "services/low-calorie-catering-in-vellore.html"
+    },
+    {
+      "sno": 177,
+      "source_rows": [
+        177
+      ],
+      "categories": [
+        "Specialized & Dietary"
+      ],
+      "catering_type": "Satvik Catering",
+      "description": "Satvik/vegetarian menus",
+      "search_intent": "Satvik catering services",
+      "page_type": "Service / Event Page",
+      "slug": "satvik-catering-in-vellore",
+      "output": "services/satvik-catering-in-vellore.html"
+    },
+    {
+      "sno": 178,
+      "source_rows": [
+        178
+      ],
+      "categories": [
+        "Specialized & Dietary"
+      ],
+      "catering_type": "Ayurvedic Catering",
+      "description": "Ayurvedic-inspired menus",
+      "search_intent": "Ayurvedic catering services",
+      "page_type": "Service / Event Page",
+      "slug": "ayurvedic-catering-in-vellore",
+      "output": "services/ayurvedic-catering-in-vellore.html"
+    },
+    {
+      "sno": 179,
+      "source_rows": [
+        179
+      ],
+      "categories": [
+        "Specialized & Dietary"
+      ],
+      "catering_type": "Kids Menu Catering",
+      "description": "Child-friendly menus",
+      "search_intent": "Kids Menu catering services",
+      "page_type": "Service / Event Page",
+      "slug": "kids-menu-catering-in-vellore",
+      "output": "services/kids-menu-catering-in-vellore.html"
+    },
+    {
+      "sno": 180,
+      "source_rows": [
+        180
+      ],
+      "categories": [
+        "Specialized & Dietary"
+      ],
+      "catering_type": "Senior-Friendly Catering",
+      "description": "Menus for senior guests",
+      "search_intent": "Senior-Friendly catering services",
+      "page_type": "Service / Event Page",
+      "slug": "senior-friendly-catering-in-vellore",
+      "output": "services/senior-friendly-catering-in-vellore.html"
+    },
+    {
+      "sno": 181,
+      "source_rows": [
+        181
+      ],
+      "categories": [
+        "Specialized & Dietary"
+      ],
+      "catering_type": "Kosher Catering",
+      "description": "Kosher food service where available",
+      "search_intent": "Kosher catering services",
+      "page_type": "Service / Event Page",
+      "slug": "kosher-catering-in-vellore",
+      "output": "services/kosher-catering-in-vellore.html"
+    },
+    {
+      "sno": 182,
+      "source_rows": [
+        182
+      ],
+      "categories": [
+        "Specialized & Dietary"
+      ],
+      "catering_type": "Halal Catering",
+      "description": "Halal food service",
+      "search_intent": "Halal catering services",
+      "page_type": "Service / Event Page",
+      "slug": "halal-catering-in-vellore",
+      "output": "services/halal-catering-in-vellore.html"
+    },
+    {
+      "sno": 183,
+      "source_rows": [
+        183
+      ],
+      "categories": [
+        "Travel & Venue"
+      ],
+      "catering_type": "Hotel Catering",
+      "description": "Hotel events and banquets",
+      "search_intent": "Hotel catering services",
+      "page_type": "Service / Event Page",
+      "slug": "hotel-catering-in-vellore",
+      "output": "services/hotel-catering-in-vellore.html"
+    },
+    {
+      "sno": 184,
+      "source_rows": [
+        184
+      ],
+      "categories": [
+        "Travel & Venue"
+      ],
+      "catering_type": "Resort Catering",
+      "description": "Resort events",
+      "search_intent": "Resort catering services",
+      "page_type": "Service / Event Page",
+      "slug": "resort-catering-in-vellore",
+      "output": "services/resort-catering-in-vellore.html"
+    },
+    {
+      "sno": 185,
+      "source_rows": [
+        185
+      ],
+      "categories": [
+        "Travel & Venue"
+      ],
+      "catering_type": "Banquet Catering",
+      "description": "Banquet hall events",
+      "search_intent": "Banquet catering services",
+      "page_type": "Service / Event Page",
+      "slug": "banquet-catering-in-vellore",
+      "output": "services/banquet-catering-in-vellore.html"
+    },
+    {
+      "sno": 187,
+      "source_rows": [
+        187
+      ],
+      "categories": [
+        "Travel & Venue"
+      ],
+      "catering_type": "Convention Centre Catering",
+      "description": "Convention centres",
+      "search_intent": "Convention Centre catering services",
+      "page_type": "Service / Event Page",
+      "slug": "convention-centre-catering-in-vellore",
+      "output": "services/convention-centre-catering-in-vellore.html"
+    },
+    {
+      "sno": 188,
+      "source_rows": [
+        188
+      ],
+      "categories": [
+        "Travel & Venue"
+      ],
+      "catering_type": "Beach Wedding Catering",
+      "description": "Beach wedding events",
+      "search_intent": "Beach Wedding catering services",
+      "page_type": "Service / Event Page",
+      "slug": "beach-wedding-catering-in-vellore",
+      "output": "services/beach-wedding-catering-in-vellore.html"
+    },
+    {
+      "sno": 189,
+      "source_rows": [
+        189
+      ],
+      "categories": [
+        "Travel & Venue"
+      ],
+      "catering_type": "Farmhouse Catering",
+      "description": "Farmhouse/private estate events",
+      "search_intent": "Farmhouse catering services",
+      "page_type": "Service / Event Page",
+      "slug": "farmhouse-catering-in-vellore",
+      "output": "services/farmhouse-catering-in-vellore.html"
+    },
+    {
+      "sno": 190,
+      "source_rows": [
+        190
+      ],
+      "categories": [
+        "Travel & Venue"
+      ],
+      "catering_type": "Outdoor Venue Catering",
+      "description": "Outdoor venues",
+      "search_intent": "Outdoor Venue catering services",
+      "page_type": "Service / Event Page",
+      "slug": "outdoor-venue-catering-in-vellore",
+      "output": "services/outdoor-venue-catering-in-vellore.html"
+    },
+    {
+      "sno": 191,
+      "source_rows": [
+        191
+      ],
+      "categories": [
+        "Travel & Venue"
+      ],
+      "catering_type": "Destination Event Catering",
+      "description": "Events away from home city",
+      "search_intent": "Destination Event catering services",
+      "page_type": "Service / Event Page",
+      "slug": "destination-event-catering-in-vellore",
+      "output": "services/destination-event-catering-in-vellore.html"
+    },
+    {
+      "sno": 192,
+      "source_rows": [
+        192
+      ],
+      "categories": [
+        "Travel & Venue"
+      ],
+      "catering_type": "Travel Catering",
+      "description": "Catering while travelling/event tours",
+      "search_intent": "Travel catering services",
+      "page_type": "Service / Event Page",
+      "slug": "travel-catering-in-vellore",
+      "output": "services/travel-catering-in-vellore.html"
+    },
+    {
+      "sno": 193,
+      "source_rows": [
+        193
+      ],
+      "categories": [
+        "Travel & Venue"
+      ],
+      "catering_type": "Airport/Travel Group Catering",
+      "description": "Group travel meal arrangements",
+      "search_intent": "Airport/Travel Group catering services",
+      "page_type": "Service / Event Page",
+      "slug": "airport-travel-group-catering-in-vellore",
+      "output": "services/airport-travel-group-catering-in-vellore.html"
+    },
+    {
+      "sno": 194,
+      "source_rows": [
+        194
+      ],
+      "categories": [
+        "Religious & Spiritual"
+      ],
+      "catering_type": "Temple Wedding Catering",
+      "description": "Temple weddings",
+      "search_intent": "Temple Wedding catering services",
+      "page_type": "Service / Event Page",
+      "slug": "temple-wedding-catering-in-vellore",
+      "output": "services/temple-wedding-catering-in-vellore.html"
+    },
+    {
+      "sno": 195,
+      "source_rows": [
+        195
+      ],
+      "categories": [
+        "Religious & Spiritual"
+      ],
+      "catering_type": "Temple Festival Catering",
+      "description": "Temple festivals",
+      "search_intent": "Temple Festival catering services",
+      "page_type": "Service / Event Page",
+      "slug": "temple-festival-catering-in-vellore",
+      "output": "services/temple-festival-catering-in-vellore.html"
+    },
+    {
+      "sno": 196,
+      "source_rows": [
+        196
+      ],
+      "categories": [
+        "Religious & Spiritual"
+      ],
+      "catering_type": "Mutts/Ashrams Catering",
+      "description": "Religious institution meals",
+      "search_intent": "Mutts/Ashrams catering services",
+      "page_type": "Service / Event Page",
+      "slug": "mutts-ashrams-catering-in-vellore",
+      "output": "services/mutts-ashrams-catering-in-vellore.html"
+    },
+    {
+      "sno": 197,
+      "source_rows": [
+        197
+      ],
+      "categories": [
+        "Religious & Spiritual"
+      ],
+      "catering_type": "Spiritual Retreat Catering",
+      "description": "Retreats and spiritual programs",
+      "search_intent": "Spiritual Retreat catering services",
+      "page_type": "Service / Event Page",
+      "slug": "spiritual-retreat-catering-in-vellore",
+      "output": "services/spiritual-retreat-catering-in-vellore.html"
+    },
+    {
+      "sno": 198,
+      "source_rows": [
+        198
+      ],
+      "categories": [
+        "Religious & Spiritual"
+      ],
+      "catering_type": "Religious Conference Catering",
+      "description": "Religious conferences",
+      "search_intent": "Religious Conference catering services",
+      "page_type": "Service / Event Page",
+      "slug": "religious-conference-catering-in-vellore",
+      "output": "services/religious-conference-catering-in-vellore.html"
+    },
+    {
+      "sno": 199,
+      "source_rows": [
+        199
+      ],
+      "categories": [
+        "Religious & Spiritual"
+      ],
+      "catering_type": "Community Feast Catering",
+      "description": "Traditional/community feasts",
+      "search_intent": "Community Feast catering services",
+      "page_type": "Service / Event Page",
+      "slug": "community-feast-catering-in-vellore",
+      "output": "services/community-feast-catering-in-vellore.html"
+    },
+    {
+      "sno": 200,
+      "source_rows": [
+        200
+      ],
+      "categories": [
+        "Retail & Commercial"
+      ],
+      "catering_type": "Restaurant Catering",
+      "description": "Restaurant-led event catering",
+      "search_intent": "Restaurant catering services",
+      "page_type": "Service / Event Page",
+      "slug": "restaurant-catering-in-vellore",
+      "output": "services/restaurant-catering-in-vellore.html"
+    },
+    {
+      "sno": 201,
+      "source_rows": [
+        201
+      ],
+      "categories": [
+        "Retail & Commercial"
+      ],
+      "catering_type": "Café Catering",
+      "description": "Cafe food for events",
+      "search_intent": "Café catering services",
+      "page_type": "Service / Event Page",
+      "slug": "cafe-catering-in-vellore",
+      "output": "services/cafe-catering-in-vellore.html"
+    },
+    {
+      "sno": 202,
+      "source_rows": [
+        202
+      ],
+      "categories": [
+        "Retail & Commercial"
+      ],
+      "catering_type": "Bakery Catering",
+      "description": "Bakery items for functions",
+      "search_intent": "Bakery catering services",
+      "page_type": "Service / Event Page",
+      "slug": "bakery-catering-in-vellore",
+      "output": "services/bakery-catering-in-vellore.html"
+    },
+    {
+      "sno": 203,
+      "source_rows": [
+        203
+      ],
+      "categories": [
+        "Retail & Commercial"
+      ],
+      "catering_type": "Sweet & Savoury Catering",
+      "description": "Sweets and savouries for events",
+      "search_intent": "Sweet & Savoury catering services",
+      "page_type": "Service / Event Page",
+      "slug": "sweet-and-savoury-catering-in-vellore",
+      "output": "services/sweet-and-savoury-catering-in-vellore.html"
+    },
+    {
+      "sno": 204,
+      "source_rows": [
+        204
+      ],
+      "categories": [
+        "Retail & Commercial"
+      ],
+      "catering_type": "Meal Subscription Catering",
+      "description": "Recurring meal subscriptions",
+      "search_intent": "Meal Subscription catering services",
+      "page_type": "Service / Event Page",
+      "slug": "meal-subscription-catering-in-vellore",
+      "output": "services/meal-subscription-catering-in-vellore.html"
+    },
+    {
+      "sno": 205,
+      "source_rows": [
+        205
+      ],
+      "categories": [
+        "Retail & Commercial"
+      ],
+      "catering_type": "Daily Meal Service",
+      "description": "Regular meal delivery/service",
+      "search_intent": "Daily Meal Service catering services",
+      "page_type": "Service / Event Page",
+      "slug": "daily-meal-service-in-vellore",
+      "output": "services/daily-meal-service-in-vellore.html"
+    },
+    {
+      "sno": 206,
+      "source_rows": [
+        206
+      ],
+      "categories": [
+        "Retail & Commercial"
+      ],
+      "catering_type": "Tiffin Catering",
+      "description": "Breakfast/tiffin meal service",
+      "search_intent": "Tiffin catering services",
+      "page_type": "Service / Event Page",
+      "slug": "tiffin-catering-in-vellore",
+      "output": "services/tiffin-catering-in-vellore.html"
+    },
+    {
+      "sno": 207,
+      "source_rows": [
+        207
+      ],
+      "categories": [
+        "Retail & Commercial"
+      ],
+      "catering_type": "Mess Catering",
+      "description": "Mess/regular meal service",
+      "search_intent": "Mess catering services",
+      "page_type": "Service / Event Page",
+      "slug": "mess-catering-in-vellore",
+      "output": "services/mess-catering-in-vellore.html"
+    },
+    {
+      "sno": 208,
+      "source_rows": [
+        208
+      ],
+      "categories": [
+        "Retail & Commercial"
+      ],
+      "catering_type": "Cloud Kitchen Event Catering",
+      "description": "Event orders fulfilled by cloud kitchens",
+      "search_intent": "Cloud Kitchen Event catering services",
+      "page_type": "Service / Event Page",
+      "slug": "cloud-kitchen-event-catering-in-vellore",
+      "output": "services/cloud-kitchen-event-catering-in-vellore.html"
+    },
+    {
+      "sno": 209,
+      "source_rows": [
+        209
+      ],
+      "categories": [
+        "Special Occasions"
+      ],
+      "catering_type": "Housewarming Catering",
+      "description": "Housewarming/grihapravesam",
+      "search_intent": "Housewarming catering services",
+      "page_type": "Service / Event Page",
+      "slug": "housewarming-catering-in-vellore",
+      "output": "services/housewarming-catering-in-vellore.html"
+    },
+    {
+      "sno": 210,
+      "source_rows": [
+        210
+      ],
+      "categories": [
+        "Special Occasions"
+      ],
+      "catering_type": "Retirement Party Catering",
+      "description": "Retirement celebrations",
+      "search_intent": "Retirement Party catering services",
+      "page_type": "Service / Event Page",
+      "slug": "retirement-party-catering-in-vellore",
+      "output": "services/retirement-party-catering-in-vellore.html"
+    },
+    {
+      "sno": 211,
+      "source_rows": [
+        211
+      ],
+      "categories": [
+        "Special Occasions"
+      ],
+      "catering_type": "Farewell Party Catering",
+      "description": "Farewell functions",
+      "search_intent": "Farewell Party catering services",
+      "page_type": "Service / Event Page",
+      "slug": "farewell-party-catering-in-vellore",
+      "output": "services/farewell-party-catering-in-vellore.html"
+    },
+    {
+      "sno": 212,
+      "source_rows": [
+        212
+      ],
+      "categories": [
+        "Special Occasions"
+      ],
+      "catering_type": "Reunion Catering",
+      "description": "School/college/family reunions",
+      "search_intent": "Reunion catering services",
+      "page_type": "Service / Event Page",
+      "slug": "reunion-catering-in-vellore",
+      "output": "services/reunion-catering-in-vellore.html"
+    },
+    {
+      "sno": 213,
+      "source_rows": [
+        213
+      ],
+      "categories": [
+        "Special Occasions"
+      ],
+      "catering_type": "Graduation Party Catering",
+      "description": "Graduation celebrations",
+      "search_intent": "Graduation Party catering services",
+      "page_type": "Service / Event Page",
+      "slug": "graduation-party-catering-in-vellore",
+      "output": "services/graduation-party-catering-in-vellore.html"
+    },
+    {
+      "sno": 214,
+      "source_rows": [
+        214
+      ],
+      "categories": [
+        "Special Occasions"
+      ],
+      "catering_type": "Success Party Catering",
+      "description": "Achievement/success celebrations",
+      "search_intent": "Success Party catering services",
+      "page_type": "Service / Event Page",
+      "slug": "success-party-catering-in-vellore",
+      "output": "services/success-party-catering-in-vellore.html"
+    },
+    {
+      "sno": 215,
+      "source_rows": [
+        215
+      ],
+      "categories": [
+        "Special Occasions"
+      ],
+      "catering_type": "Promotion Party Catering",
+      "description": "Promotion celebrations",
+      "search_intent": "Promotion Party catering services",
+      "page_type": "Service / Event Page",
+      "slug": "promotion-party-catering-in-vellore",
+      "output": "services/promotion-party-catering-in-vellore.html"
+    },
+    {
+      "sno": 216,
+      "source_rows": [
+        216
+      ],
+      "categories": [
+        "Special Occasions"
+      ],
+      "catering_type": "Baby Welcome Catering",
+      "description": "Newborn welcome celebrations",
+      "search_intent": "Baby Welcome catering services",
+      "page_type": "Service / Event Page",
+      "slug": "baby-welcome-catering-in-vellore",
+      "output": "services/baby-welcome-catering-in-vellore.html"
+    },
+    {
+      "sno": 217,
+      "source_rows": [
+        217
+      ],
+      "categories": [
+        "Special Occasions"
+      ],
+      "catering_type": "Naming Day Catering",
+      "description": "Naming-day events",
+      "search_intent": "Naming Day catering services",
+      "page_type": "Service / Event Page",
+      "slug": "naming-day-catering-in-vellore",
+      "output": "services/naming-day-catering-in-vellore.html"
+    },
+    {
+      "sno": 218,
+      "source_rows": [
+        218
+      ],
+      "categories": [
+        "Special Occasions"
+      ],
+      "catering_type": "Milestone Celebration Catering",
+      "description": "Personal/business milestones",
+      "search_intent": "Milestone Celebration catering services",
+      "page_type": "Service / Event Page",
+      "slug": "milestone-celebration-catering-in-vellore",
+      "output": "services/milestone-celebration-catering-in-vellore.html"
+    },
+    {
+      "sno": 219,
+      "source_rows": [
+        219
+      ],
+      "categories": [
+        "Special Occasions"
+      ],
+      "catering_type": "Memorial Catering",
+      "description": "Memorial gatherings",
+      "search_intent": "Memorial catering services",
+      "page_type": "Service / Event Page",
+      "slug": "memorial-catering-in-vellore",
+      "output": "services/memorial-catering-in-vellore.html"
+    },
+    {
+      "sno": 220,
+      "source_rows": [
+        220
+      ],
+      "categories": [
+        "Special Occasions"
+      ],
+      "catering_type": "Condolence Catering",
+      "description": "Condolence gatherings",
+      "search_intent": "Condolence catering services",
+      "page_type": "Service / Event Page",
+      "slug": "condolence-catering-in-vellore",
+      "output": "services/condolence-catering-in-vellore.html"
+    },
+    {
+      "sno": 221,
+      "source_rows": [
+        221
+      ],
+      "categories": [
+        "Special Occasions"
+      ],
+      "catering_type": "Bereavement Meal Catering",
+      "description": "Bereavement/funeral meals",
+      "search_intent": "Bereavement Meal catering services",
+      "page_type": "Service / Event Page",
+      "slug": "bereavement-meal-catering-in-vellore",
+      "output": "services/bereavement-meal-catering-in-vellore.html"
+    },
+    {
+      "sno": 222,
+      "source_rows": [
+        222
+      ],
+      "categories": [
+        "Special Occasions"
+      ],
+      "catering_type": "Bachelor/Bachelorette Party Catering",
+      "description": "Pre-wedding parties",
+      "search_intent": "Bachelor/Bachelorette Party catering services",
+      "page_type": "Service / Event Page",
+      "slug": "bachelor-bachelorette-party-catering-in-vellore",
+      "output": "services/bachelor-bachelorette-party-catering-in-vellore.html"
+    },
+    {
+      "sno": 223,
+      "source_rows": [
+        223
+      ],
+      "categories": [
+        "Special Occasions"
+      ],
+      "catering_type": "Cocktail Party Catering",
+      "description": "Cocktail/social parties",
+      "search_intent": "Cocktail Party catering services",
+      "page_type": "Service / Event Page",
+      "slug": "cocktail-party-catering-in-vellore",
+      "output": "services/cocktail-party-catering-in-vellore.html"
+    },
+    {
+      "sno": 224,
+      "source_rows": [
+        224
+      ],
+      "categories": [
+        "Special Occasions"
+      ],
+      "catering_type": "Pool Party Catering",
+      "description": "Poolside events",
+      "search_intent": "Pool Party catering services",
+      "page_type": "Service / Event Page",
+      "slug": "pool-party-catering-in-vellore",
+      "output": "services/pool-party-catering-in-vellore.html"
+    },
+    {
+      "sno": 225,
+      "source_rows": [
+        225
+      ],
+      "categories": [
+        "Special Occasions"
+      ],
+      "catering_type": "Garden Party Catering",
+      "description": "Garden/outdoor parties",
+      "search_intent": "Garden Party catering services",
+      "page_type": "Service / Event Page",
+      "slug": "garden-party-catering-in-vellore",
+      "output": "services/garden-party-catering-in-vellore.html"
+    },
+    {
+      "sno": 226,
+      "source_rows": [
+        226
+      ],
+      "categories": [
+        "Special Occasions"
+      ],
+      "catering_type": "Lawn Party Catering",
+      "description": "Lawn events",
+      "search_intent": "Lawn Party catering services",
+      "page_type": "Service / Event Page",
+      "slug": "lawn-party-catering-in-vellore",
+      "output": "services/lawn-party-catering-in-vellore.html"
+    },
+    {
+      "sno": 227,
+      "source_rows": [
+        227
+      ],
+      "categories": [
+        "Special Occasions"
+      ],
+      "catering_type": "New Year Party Catering",
+      "description": "New Year celebrations",
+      "search_intent": "New Year Party catering services",
+      "page_type": "Service / Event Page",
+      "slug": "new-year-party-catering-in-vellore",
+      "output": "services/new-year-party-catering-in-vellore.html"
+    },
+    {
+      "sno": 228,
+      "source_rows": [
+        228
+      ],
+      "categories": [
+        "Special Occasions"
+      ],
+      "catering_type": "Valentine's Day Catering",
+      "description": "Valentine's events",
+      "search_intent": "Valentine's Day catering services",
+      "page_type": "Service / Event Page",
+      "slug": "valentine-s-day-catering-in-vellore",
+      "output": "services/valentine-s-day-catering-in-vellore.html"
+    },
+    {
+      "sno": 229,
+      "source_rows": [
+        229
+      ],
+      "categories": [
+        "Special Occasions"
+      ],
+      "catering_type": "Mother's Day Catering",
+      "description": "Mother's Day events",
+      "search_intent": "Mother's Day catering services",
+      "page_type": "Service / Event Page",
+      "slug": "mother-s-day-catering-in-vellore",
+      "output": "services/mother-s-day-catering-in-vellore.html"
+    },
+    {
+      "sno": 230,
+      "source_rows": [
+        230
+      ],
+      "categories": [
+        "Special Occasions"
+      ],
+      "catering_type": "Father's Day Catering",
+      "description": "Father's Day events",
+      "search_intent": "Father's Day catering services",
+      "page_type": "Service / Event Page",
+      "slug": "father-s-day-catering-in-vellore",
+      "output": "services/father-s-day-catering-in-vellore.html"
+    },
+    {
+      "sno": 231,
+      "source_rows": [
+        231
+      ],
+      "categories": [
+        "Special Occasions"
+      ],
+      "catering_type": "Women's Day Catering",
+      "description": "Women's Day events",
+      "search_intent": "Women's Day catering services",
+      "page_type": "Service / Event Page",
+      "slug": "women-s-day-catering-in-vellore",
+      "output": "services/women-s-day-catering-in-vellore.html"
+    },
+    {
+      "sno": 232,
+      "source_rows": [
+        232
+      ],
+      "categories": [
+        "Special Occasions"
+      ],
+      "catering_type": "Children's Day Catering",
+      "description": "Children's Day events",
+      "search_intent": "Children's Day catering services",
+      "page_type": "Service / Event Page",
+      "slug": "children-s-day-catering-in-vellore",
+      "output": "services/children-s-day-catering-in-vellore.html"
+    },
+    {
+      "sno": 233,
+      "source_rows": [
+        233
+      ],
+      "categories": [
+        "Special Occasions"
+      ],
+      "catering_type": "Friendship Day Catering",
+      "description": "Friendship Day events",
+      "search_intent": "Friendship Day catering services",
+      "page_type": "Service / Event Page",
+      "slug": "friendship-day-catering-in-vellore",
+      "output": "services/friendship-day-catering-in-vellore.html"
+    },
+    {
+      "sno": 234,
+      "source_rows": [
+        234
+      ],
+      "categories": [
+        "Special Occasions"
+      ],
+      "catering_type": "Graduation/Convocation Catering",
+      "description": "Graduation and convocation events",
+      "search_intent": "Graduation/Convocation catering services",
+      "page_type": "Service / Event Page",
+      "slug": "graduation-convocation-catering-in-vellore",
+      "output": "services/graduation-convocation-catering-in-vellore.html"
+    },
+    {
+      "sno": 235,
+      "source_rows": [
+        235
+      ],
+      "categories": [
+        "Wedding & Marriage"
+      ],
+      "catering_type": "Hindu Wedding catering",
+      "description": "Wedding ceremonies, receptions and marriage functions",
+      "search_intent": "Wedding catering services",
+      "page_type": "Service / Event Page",
+      "slug": "hindu-wedding-catering-in-vellore",
+      "output": "services/hindu-wedding-catering-in-vellore.html"
+    },
+    {
+      "sno": 236,
+      "source_rows": [
+        236
+      ],
+      "categories": [
+        "Wedding & Marriage"
+      ],
+      "catering_type": "Muslim Wedding Catering",
+      "description": "Wedding ceremonies, receptions and marriage functions",
+      "search_intent": "Wedding catering services",
+      "page_type": "Service / Event Page",
+      "slug": "muslim-wedding-catering-in-vellore",
+      "output": "services/muslim-wedding-catering-in-vellore.html"
+    },
+    {
+      "sno": 237,
+      "source_rows": [
+        237
+      ],
+      "categories": [
+        "Wedding & Marriage"
+      ],
+      "catering_type": "Christian Wedding Catering",
+      "description": "Wedding ceremonies, receptions and marriage functions",
+      "search_intent": "Wedding catering services",
+      "page_type": "Service / Event Page",
+      "slug": "christian-wedding-catering-in-vellore",
+      "output": "services/christian-wedding-catering-in-vellore.html"
+    }
+  ]
+}
