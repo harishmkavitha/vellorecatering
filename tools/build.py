@@ -1,15 +1,19 @@
 #!/usr/bin/env python3
 """
-build.py — one command to rebuild the site after any change.   Version: V1
+build.py — one command to rebuild the site after any change.   Version: V2
 
     python tools/build.py
 
 Steps:
   1. build_catalog_nav.py — build category mega-menu from catalog
   2. generate_catalog_site.py — build every Catering Type page
-  3. sync_partials.py   — push head/nav/footer into every page
-  4. build_sitemap.py   — rewrite sitemap.xml from canonical URLs
-  5. quick checks       — duplicate titles/descriptions, missing alt, broken internal links
+  3. generate_area_blog_site.py — build servicing-area and blog pages
+  4. stock_media.py apply — swap generated placeholders for real photos/videos
+                          (V2: without this step a rebuild would bring the SVGs back)
+  5. sync_partials.py   — push head/nav/footer into every page
+  6. build_sitemap.py   — rewrite sitemap.xml from canonical URLs
+  7. quick checks       — duplicate titles/descriptions, missing alt, broken internal links,
+                          leftover placeholder media
 """
 import re
 import subprocess
@@ -18,7 +22,8 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 TOOLS = ROOT / "tools"
-SKIP_DIRS = {"partials", "tools", "templates", "data", ".git", "node_modules", "assets"}
+SKIP_DIRS = {"partials", "tools", "templates", "data", ".git", "node_modules", "assets", "docs"}
+PLACEHOLDER = re.compile(r"assets/(?:img|video)/(?:pages|areas|blogs|master-generated)/")
 
 
 def run(script, *args):
@@ -45,6 +50,8 @@ def checks():
             store[v] = rel
         if len(re.findall(r"<h1[\s>]", t)) != 1:
             problems.append(f"{rel}: should have exactly one <h1>")
+        if PLACEHOLDER.search(t):
+            problems.append(f"{rel}: still references generated placeholder media")
         for tag in re.findall(r"<img\b[^>]*>", t):
             if " alt=" not in tag:
                 problems.append(f"{rel}: <img> without alt")
@@ -62,6 +69,7 @@ if __name__ == "__main__":
     run("build_catalog_nav.py")
     run("generate_catalog_site.py")
     run("generate_area_blog_site.py")
+    run("stock_media.py", "apply")
     run("sync_partials.py", "--quiet")
     run("build_sitemap.py")
     sys.exit(0 if checks() else 1)

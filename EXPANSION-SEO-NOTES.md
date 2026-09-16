@@ -51,3 +51,14 @@ Large numbers of locality pages are only useful when each page genuinely helps a
 The generated illustrations are copyright-safe local assets, but real event photography, genuine customer reviews, venue-specific experience, real menu examples and first-hand operational details should be added over time. These first-party signals make the pages more useful and credible.
 
 No website build can guarantee a #1 Google ranking. Local rankings also depend on Google Business Profile quality, verified reviews, citations/backlinks, competition, first-hand content, page experience and ongoing Search Console performance.
+
+## V4 media update
+
+- The 1,518 area SVGs, 500 blog SVGs, 944 catering SVG slots, 236 WebM loops and
+  51 master-page placeholders were replaced with real Pexels photos and videos
+  (`tools/stock_media.py`); the unused placeholder files were deleted.
+- Area and blog pages previously used SVG files as `og:image`, which WhatsApp,
+  Facebook and LinkedIn cannot display; they now use 1200×630 photos.
+- Canonical, Open Graph, schema and sitemap URLs were corrected from
+  `/vellore-catering/` to the live `/vellorecatering/` path.
+- Build validation result after the update: 1,262 HTML pages scanned, 0 problems.

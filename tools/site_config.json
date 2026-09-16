@@ -1,6 +1,6 @@
 {
-  "_version": "V1",
-  "site_url": "https://harishmkavitha.github.io/vellore-catering",
+  "_version": "V2",
+  "site_url": "https://harishmkavitha.github.io/vellorecatering",
   "business_name": "Vellore Catering",
   "legal_name": "Vellore Catering",
   "phone_display": "+91 99404 66250",
@@ -17,5 +17,24 @@
   "events_served": "3,000+",
   "og_image": "assets/img/og-vellore-catering.jpg",
   "asset_version": "1",
-  "areas_served": ["Vellore", "Kosapet", "Katpadi", "Sathuvachari", "Gandhi Nagar", "Bagayam", "Thorapadi", "Allapuram", "Kaspa", "Ranipet", "Arcot", "Walajapet", "Gudiyatham", "Ambur", "Vaniyambadi", "Arani", "Anaicut", "Kaniyambadi"]
+  "areas_served": [
+    "Vellore",
+    "Kosapet",
+    "Katpadi",
+    "Sathuvachari",
+    "Gandhi Nagar",
+    "Bagayam",
+    "Thorapadi",
+    "Allapuram",
+    "Kaspa",
+    "Ranipet",
+    "Arcot",
+    "Walajapet",
+    "Gudiyatham",
+    "Ambur",
+    "Vaniyambadi",
+    "Arani",
+    "Anaicut",
+    "Kaniyambadi"
+  ]
 }

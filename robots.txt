@@ -1,4 +1,4 @@
-# Vellore Catering | robots.txt | Version: V1
+# Vellore Catering | robots.txt | Version: V2
 User-agent: *
 Allow: /
 Disallow: /tools/
@@ -6,4 +6,4 @@ Disallow: /templates/
 Disallow: /data/
 Disallow: /partials/
 
-Sitemap: https://harishmkavitha.github.io/vellore-catering/sitemap.xml
+Sitemap: https://harishmkavitha.github.io/vellorecatering/sitemap.xml

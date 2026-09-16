@@ -1,4 +1,9 @@
 #!/usr/bin/env python3
+"""generate_area_blog_site.py — servicing-area and blog pages.   Version: V2
+
+V2: skips writing the generated SVG artwork when data/media-library.json exists,
+because tools/stock_media.py replaces those slots with real photos.
+"""
 from __future__ import annotations
 import csv, hashlib, html, json, re
 from collections import defaultdict
@@ -85,6 +90,7 @@ def read_areas():
 def catalog(): return json.loads(CAT.read_text(encoding='utf-8'))['items']
 
 def svg(path,title,subtitle,key,kind='area'):
+ if (ROOT/'data/media-library.json').exists(): return  # V2: real photos via stock_media.py
  hue=30+hnum(key,25); dots=''.join(f'<circle cx="{80+hnum(key+str(i)+"x",1040)}" cy="{60+hnum(key+str(i)+"y",510)}" r="{2+hnum(key+str(i)+"r",5)}" fill="#e0b65f" opacity=".{12+hnum(key+str(i)+"o",28)}"/>' for i in range(16))
  label='LOCAL SERVICE AREA' if kind=='area' else 'VELLORE CATERING GUIDE'
  text=f'''<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="{E(title)}"><defs><radialGradient id="g" cx="82%" cy="18%" r="80%"><stop offset="0" stop-color="hsl({hue} 45% 20%)"/><stop offset=".55" stop-color="#0b0906"/><stop offset="1" stop-color="#020202"/></radialGradient><linearGradient id="gold"><stop stop-color="#b98528"/><stop offset=".5" stop-color="#f2d17c"/><stop offset="1" stop-color="#a66f1e"/></linearGradient></defs><rect width="1200" height="630" fill="url(#g)"/>{dots}<rect x="70" y="66" width="1060" height="498" rx="30" fill="none" stroke="#d6ad52" opacity=".28"/><text x="90" y="125" fill="#d6ad52" font-size="20" font-family="Arial" letter-spacing="5">{label}</text><text x="90" y="280" fill="url(#gold)" font-size="54" font-family="Georgia" font-weight="700">{E(title[:55])}</text><text x="92" y="332" fill="#f2eadb" opacity=".86" font-size="23" font-family="Arial">{E(subtitle[:100])}</text><line x1="92" y1="385" x2="480" y2="385" stroke="#d6ad52" opacity=".5"/><text x="92" y="440" fill="#f2eadb" font-size="21" font-family="Arial">Wedding • Birthday • Seemandham • Other Caterings</text><text x="92" y="495" fill="#bfb5a6" font-size="18" font-family="Arial">Vellore Catering · WhatsApp 99404 66250</text></svg>'''

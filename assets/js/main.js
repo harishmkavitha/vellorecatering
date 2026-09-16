@@ -1,6 +1,6 @@
 /* ==========================================================================
    Vellore Catering — main.js
-   Version: V1  (see CHANGELOG.md)
+   Version: V2  (see CHANGELOG.md)
    Progressive enhancement only: every page is readable and navigable
    without JavaScript. No external libraries, no paid APIs.
    ========================================================================== */
@@ -480,7 +480,13 @@
     });
   }
 
+  // V2: page clips are real stock video now — load them only on tablet/desktop
+  // with no data-saver or 2G connection; phones keep the poster photo.
+  var pmConn = navigator.connection || {};
+  var allowPageMotion = !pmConn.saveData && !/(^|-)2g$/.test(pmConn.effectiveType || '') &&
+    window.matchMedia('(min-width: 768px)').matches;
   $$('.page-motion[data-src]').forEach(function (video) {
+    if (!allowPageMotion) return;
     function loadAndPlay() {
       if (!video.src) video.src = video.getAttribute('data-src');
       var p = video.play();

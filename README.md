@@ -1,4 +1,5 @@
-# Vellore Catering Website — V2 Multi-page Catalogue
+# Vellore Catering Website — V4 Real Photos & Videos
+<!-- README.md | Version: V3 -->
 
 A GitHub Pages-ready static website for **Vellore Catering**, built from the supplied master design and the uploaded Catering Type spreadsheet.
 
@@ -13,16 +14,50 @@ A GitHub Pages-ready static website for **Vellore Catering**, built from the sup
 - Responsive layout for desktop, laptop, tablet and mobile breakpoints.
 - CSS reveal effects, hover transitions, fixed glass navigation, scroll effects and lazy page motion.
 
-## Original/local media
+## Photos and videos (V4)
 
-The live HTML has **no Pexels image or video hotlinks**. New page artwork and motion loops are procedurally generated and stored locally:
+Every page now shows real South Indian food, catering and wedding photography
+from **Pexels** (free for commercial use, no attribution required). The curated
+list — 61 photos and 10 videos — lives in `data/media-library.json`, and
+`tools/stock_media.py` places them on all 1,262 pages:
 
-- `assets/img/pages/` — unique SVG page illustrations + unique OG PNGs
-- `assets/video/pages/` — one unique WebM loop per Catering Type page
-- `assets/img/master-generated/` — local original replacements for remote media in the supplied master pages
-- `assets/video/master-generated/` — local original motion replacements for the supplied master pages
+- each Catering Type page gets photos that suit its occasion (wedding, pooja,
+  corporate, biryani, haldi, funeral and so on); wedding, pooja and funeral
+  pages show vegetarian food only, and funeral pages show no people or sweets
+- area and blog pages get a stable, varied mix, so a page never repeats a photo
+- alt text, captions, Open Graph/Twitter images and JSON-LD images follow the photo
+- `credits.html` (noindex, linked in the footer) lists every item in use
 
-These generated visuals are illustrative placeholders, not claims of real customer events. Replace them with your own real event photography/video when available; authentic local media is normally better for trust and local SEO.
+```bash
+python tools/stock_media.py check      # 1. confirm every Pexels link works (needs internet)
+python tools/stock_media.py review     # 2. open tools/media-review.html and eyeball the photos
+python tools/stock_media.py download   # 3. optional: self-host everything, then commit
+```
+
+Out of the box, photos load from the Pexels CDN, already cropped to each slot,
+so the site looks complete as soon as you push. Running `download` saves about
+770 WebP/JPEG files to `assets/img/stock/` (roughly 80–100 MB) and short MP4
+clips to `assets/video/stock/`, then rewrites the pages to use them.
+
+For the category videos (biryani, filter coffee, curd rice, dosa counter …),
+get a free key at https://www.pexels.com/api/ and run:
+
+```bash
+# Windows PowerShell:  $env:PEXELS_API_KEY="your-key"
+# macOS / Linux:       export PEXELS_API_KEY=your-key
+python tools/stock_media.py download
+```
+
+Without a key, every page uses the verified dosa clip. Install FFmpeg so clips
+are trimmed to 12 seconds at 1280 px; `pip install pillow` for WebP output.
+
+**Swapping a photo:** edit or remove its entry in `data/media-library.json`, then
+run `python tools/stock_media.py apply`. **Adding your own event photos:** real
+photos of your own functions build more trust than stock images — replace
+library entries with your own files over time.
+
+Stock photos are representative only. Do not caption them as your own events,
+and do not suggest the people shown are your staff or customers.
 
 ## Main structure
 
@@ -44,9 +79,11 @@ vellore-catering/
 │   ├── css/main.css
 │   ├── js/main.js
 │   ├── fonts/
-│   ├── img/
-│   └── video/
+│   ├── img/        (stock/ after download)
+│   └── video/      (stock/ after download)
 ├── data/catering-catalog.json
+├── data/media-library.json   (photo & video list)
+├── credits.html
 ├── partials/
 ├── tools/
 ├── sitemap.xml
@@ -62,9 +99,9 @@ Run from the project root:
 python tools/build.py
 ```
 
-That rebuilds the mega-menu and Catering Type pages, syncs shared partials, rebuilds `sitemap.xml`, and runs duplicate/broken-link checks.
+That rebuilds the mega-menu and Catering Type pages, re-applies the stock photos and videos, syncs shared partials, rebuilds `sitemap.xml`, and runs duplicate/broken-link/placeholder checks.
 
-If you change the spreadsheet-derived catalogue, update `data/catering-catalog.json` and rebuild. `tools/generate_catalog_media.py` can regenerate missing original media assets when FFmpeg and Pillow are installed.
+If you change the spreadsheet-derived catalogue, update `data/catering-catalog.json` and rebuild. New pages pick up photos automatically.
 
 ## GitHub Pages deployment
 
@@ -72,7 +109,7 @@ If you change the spreadsheet-derived catalogue, update `data/catering-catalog.j
 2. Keep `.nojekyll` in the repository root.
 3. In GitHub: **Settings → Pages → Deploy from a branch → main / root**.
 4. The current canonical base URL is configured in `tools/site_config.json` as:
-   `https://harishmkavitha.github.io/vellore-catering`
+   `https://harishmkavitha.github.io/vellorecatering` (V4: corrected to match the live repository name)
 5. For a custom domain, run:
 
 ```bash
