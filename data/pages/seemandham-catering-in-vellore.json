@@ -1,0 +1,196 @@
+{
+  "_version": "V1",
+  "publish": true,
+  "output": "services/seemandham-catering-in-vellore.html",
+  "breadcrumb_parent": [
+    "Services",
+    "services/index.html"
+  ],
+  "nav_label": "Seemandham catering",
+  "event_label": "Seemandham catering",
+  "service_type": "Seemandham and valaikappu catering",
+  "title": "Seemandham Catering in Vellore – Valaikappu Menus | Vellore Catering World",
+  "description": "Seemandham and valaikappu catering in Vellore. Variety rice, traditional sweets and a full leaf meal for baby shower functions. Call 94459 78140.",
+  "h1": "Seemandham catering in Vellore",
+  "lead": "For the mother-to-be and the women who bless her: variety rice, sweets and gentle, home-style dishes.",
+  "tamil": "சீமந்தம், வளைகாப்பு",
+  "tamil_meaning": "seemandham and valaikappu",
+  "hero_image": {
+    "id": 18897125,
+    "alt": "Hands with henna and bangles during a traditional ceremony"
+  },
+  "intro_image": {
+    "id": 35687391,
+    "alt": "Traditional offering of flowers, fruits and grains for a ceremony"
+  },
+  "card": {
+    "text": "Variety rice, sweets and a gentle leaf meal for baby showers."
+  },
+  "intro_heading": "A traditional valaikappu spread",
+  "intro": [
+    "Seemandham and valaikappu are among the most loved family functions in Tamil Nadu. Custom calls for several kinds of mixed rice, called kalandha sadham, along with sweets, and many families also serve a full banana-leaf lunch.",
+    "We prepare the traditional varieties the way families expect, keep the spice gentle for the mother-to-be, and pack portions for her to take home."
+  ],
+  "includes_heading": "What your booking covers",
+  "includes": [
+    "Five or seven kinds of kalandha sadham, as per your custom",
+    "Sakkarai pongal, payasam and traditional sweets",
+    "A full banana-leaf lunch if you prefer",
+    "Service at home, a temple mandapam or a hall",
+    "Packed portions for the mother-to-be's family"
+  ],
+  "menu_heading": "A sample seemandham menu",
+  "menu_intro": "The variety rice list follows your family's custom. Tell us yours.",
+  "menu": [
+    {
+      "title": "Kalandha sadham",
+      "items": [
+        [
+          "Lemon rice",
+          "veg"
+        ],
+        [
+          "Puliyodharai",
+          "veg"
+        ],
+        [
+          "Coconut rice",
+          "veg"
+        ],
+        [
+          "Tomato rice",
+          "veg"
+        ],
+        [
+          "Curd rice",
+          "veg"
+        ],
+        [
+          "Sakkarai pongal",
+          "veg"
+        ],
+        [
+          "Vegetable pulao",
+          "veg"
+        ]
+      ]
+    },
+    {
+      "title": "Sweets",
+      "items": [
+        [
+          "Paal payasam",
+          "veg"
+        ],
+        [
+          "Rava kesari",
+          "veg"
+        ],
+        [
+          "Boondi laddu",
+          "veg"
+        ],
+        [
+          "Adhirasam",
+          "veg"
+        ]
+      ]
+    },
+    {
+      "title": "Sides",
+      "items": [
+        [
+          "Masala vadai",
+          "veg"
+        ],
+        [
+          "Potato fry",
+          "veg"
+        ],
+        [
+          "Vegetable kootu",
+          "veg"
+        ],
+        [
+          "Chana sundal",
+          "veg"
+        ],
+        [
+          "Appalam",
+          "veg"
+        ],
+        [
+          "Mango pickle",
+          "veg"
+        ]
+      ]
+    }
+  ],
+  "menu_link": {
+    "text": "See the seemandham menu",
+    "href": "menus.html#seemandham"
+  },
+  "why_heading": "Why families book us for seemandham",
+  "why": [
+    {
+      "icon": "leaf",
+      "title": "Gentle on the mother-to-be",
+      "text": "Less oil and mild spice, cooked the way families cook at home."
+    },
+    {
+      "icon": "pot",
+      "title": "Traditional varieties done right",
+      "text": "Puliyodharai, lemon rice and sakkarai pongal made to time-tested recipes."
+    },
+    {
+      "icon": "users",
+      "title": "A courteous serving team",
+      "text": "We work around the rituals and serve once the ceremony is complete."
+    },
+    {
+      "icon": "clock",
+      "title": "Timed with the ceremony",
+      "text": "Food is hot and ready as soon as the bangle ceremony ends."
+    }
+  ],
+  "gallery_heading": "Seemandham spreads",
+  "gallery": [
+    {
+      "id": 38003575,
+      "alt": "Indian sweets arranged on a silver table setting"
+    },
+    {
+      "id": 31199041,
+      "alt": "Idli with sambar and coconut chutney on banana leaves"
+    },
+    {
+      "id": 38259809,
+      "alt": "Henna and red bangles at a traditional ceremony"
+    },
+    {
+      "id": 9266190,
+      "alt": "South Indian meal served on a banana leaf"
+    }
+  ],
+  "faq_heading": "Seemandham catering questions",
+  "faqs": [
+    [
+      "How many kinds of rice are served at a valaikappu?",
+      "Many families serve five or seven kinds, as per their custom. Tell us yours and we will prepare them."
+    ],
+    [
+      "Can you cater a seemandham function at home?",
+      "Yes. We cater seemandham functions at homes, temple mandapams and halls around Vellore."
+    ],
+    [
+      "Can the food be made without onion and garlic?",
+      "Yes. Tell us when you book and we will prepare the full menu without onion and garlic."
+    ]
+  ],
+  "related_heading": "Other functions we cater",
+  "related": [
+    "services/wedding-catering-in-vellore.html",
+    "services/engagement-catering-in-vellore.html",
+    "services/birthday-party-catering-in-vellore.html"
+  ]
+}

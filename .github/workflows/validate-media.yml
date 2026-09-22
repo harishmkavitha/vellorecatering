@@ -1,0 +1,13 @@
+name: Validate website media
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  media-integrity:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check local media links
+        run: python tools/media_workflow.py audit-site

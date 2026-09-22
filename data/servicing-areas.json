@@ -1,0 +1,4559 @@
+{
+  "count": 506,
+  "items": [
+    {
+      "sno": 1,
+      "name": "Vellore",
+      "search_phrase": "Vellore, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Town / Administrative area",
+      "slug": "vellore",
+      "output": "servicing-areas/vellore-catering.html"
+    },
+    {
+      "sno": 2,
+      "name": "Katpadi",
+      "search_phrase": "Katpadi, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Town / Administrative area",
+      "slug": "katpadi",
+      "output": "servicing-areas/katpadi-catering.html"
+    },
+    {
+      "sno": 3,
+      "name": "Sathuvachari",
+      "search_phrase": "Sathuvachari, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "sathuvachari",
+      "output": "servicing-areas/sathuvachari-catering.html"
+    },
+    {
+      "sno": 4,
+      "name": "Gandhinagar",
+      "search_phrase": "Gandhinagar, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "gandhinagar",
+      "output": "servicing-areas/gandhinagar-catering.html"
+    },
+    {
+      "sno": 5,
+      "name": "Thorapadi",
+      "search_phrase": "Thorapadi, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "thorapadi",
+      "output": "servicing-areas/thorapadi-catering.html"
+    },
+    {
+      "sno": 6,
+      "name": "Saidapet",
+      "search_phrase": "Saidapet, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "saidapet",
+      "output": "servicing-areas/saidapet-catering.html"
+    },
+    {
+      "sno": 7,
+      "name": "Bagayam",
+      "search_phrase": "Bagayam, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "bagayam",
+      "output": "servicing-areas/bagayam-catering.html"
+    },
+    {
+      "sno": 8,
+      "name": "Vellore Fort",
+      "search_phrase": "Vellore Fort, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "vellore-fort",
+      "output": "servicing-areas/vellore-fort-catering.html"
+    },
+    {
+      "sno": 9,
+      "name": "Long Bazaar",
+      "search_phrase": "Long Bazaar, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "long-bazaar",
+      "output": "servicing-areas/long-bazaar-catering.html"
+    },
+    {
+      "sno": 10,
+      "name": "Officers Line",
+      "search_phrase": "Officers Line, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "officers-line",
+      "output": "servicing-areas/officers-line-catering.html"
+    },
+    {
+      "sno": 11,
+      "name": "Shenbakkam",
+      "search_phrase": "Shenbakkam, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "shenbakkam",
+      "output": "servicing-areas/shenbakkam-catering.html"
+    },
+    {
+      "sno": 12,
+      "name": "Konavattam",
+      "search_phrase": "Konavattam, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "konavattam",
+      "output": "servicing-areas/konavattam-catering.html"
+    },
+    {
+      "sno": 13,
+      "name": "Adukkamparai",
+      "search_phrase": "Adukkamparai, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "adukkamparai",
+      "output": "servicing-areas/adukkamparai-catering.html"
+    },
+    {
+      "sno": 14,
+      "name": "Ariyur",
+      "search_phrase": "Ariyur, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "ariyur",
+      "output": "servicing-areas/ariyur-catering.html"
+    },
+    {
+      "sno": 15,
+      "name": "Pennathur",
+      "search_phrase": "Pennathur, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "pennathur",
+      "output": "servicing-areas/pennathur-catering.html"
+    },
+    {
+      "sno": 16,
+      "name": "Pallikonda",
+      "search_phrase": "Pallikonda, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "pallikonda",
+      "output": "servicing-areas/pallikonda-catering.html"
+    },
+    {
+      "sno": 17,
+      "name": "Anaikattu",
+      "search_phrase": "Anaikattu, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "anaikattu",
+      "output": "servicing-areas/anaikattu-catering.html"
+    },
+    {
+      "sno": 18,
+      "name": "Odugathur",
+      "search_phrase": "Odugathur, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "odugathur",
+      "output": "servicing-areas/odugathur-catering.html"
+    },
+    {
+      "sno": 19,
+      "name": "Virinjipuram",
+      "search_phrase": "Virinjipuram, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "virinjipuram",
+      "output": "servicing-areas/virinjipuram-catering.html"
+    },
+    {
+      "sno": 20,
+      "name": "Poigai",
+      "search_phrase": "Poigai, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "poigai",
+      "output": "servicing-areas/poigai-catering.html"
+    },
+    {
+      "sno": 21,
+      "name": "Sathiyamangalam",
+      "search_phrase": "Sathiyamangalam, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "sathiyamangalam",
+      "output": "servicing-areas/sathiyamangalam-catering.html"
+    },
+    {
+      "sno": 22,
+      "name": "Seduvalai",
+      "search_phrase": "Seduvalai, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "seduvalai",
+      "output": "servicing-areas/seduvalai-catering.html"
+    },
+    {
+      "sno": 23,
+      "name": "Thellur",
+      "search_phrase": "Thellur, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "thellur",
+      "output": "servicing-areas/thellur-catering.html"
+    },
+    {
+      "sno": 24,
+      "name": "Abdullapuram",
+      "search_phrase": "Abdullapuram, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "abdullapuram",
+      "output": "servicing-areas/abdullapuram-catering.html"
+    },
+    {
+      "sno": 25,
+      "name": "Melmanavur",
+      "search_phrase": "Melmanavur, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "melmanavur",
+      "output": "servicing-areas/melmanavur-catering.html"
+    },
+    {
+      "sno": 26,
+      "name": "Kilmanavur",
+      "search_phrase": "Kilmanavur, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "kilmanavur",
+      "output": "servicing-areas/kilmanavur-catering.html"
+    },
+    {
+      "sno": 27,
+      "name": "Sadupperi",
+      "search_phrase": "Sadupperi, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "sadupperi",
+      "output": "servicing-areas/sadupperi-catering.html"
+    },
+    {
+      "sno": 28,
+      "name": "Sembedu",
+      "search_phrase": "Sembedu, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "sembedu",
+      "output": "servicing-areas/sembedu-catering.html"
+    },
+    {
+      "sno": 29,
+      "name": "Elavambadi",
+      "search_phrase": "Elavambadi, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "elavambadi",
+      "output": "servicing-areas/elavambadi-catering.html"
+    },
+    {
+      "sno": 30,
+      "name": "Anpundi",
+      "search_phrase": "Anpundi, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "anpundi",
+      "output": "servicing-areas/anpundi-catering.html"
+    },
+    {
+      "sno": 31,
+      "name": "Budur",
+      "search_phrase": "Budur, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "budur",
+      "output": "servicing-areas/budur-catering.html"
+    },
+    {
+      "sno": 32,
+      "name": "Genganallore",
+      "search_phrase": "Genganallore, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "genganallore",
+      "output": "servicing-areas/genganallore-catering.html"
+    },
+    {
+      "sno": 33,
+      "name": "Usur",
+      "search_phrase": "Usur, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "usur",
+      "output": "servicing-areas/usur-catering.html"
+    },
+    {
+      "sno": 34,
+      "name": "Athiyur",
+      "search_phrase": "Athiyur, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "athiyur",
+      "output": "servicing-areas/athiyur-catering.html"
+    },
+    {
+      "sno": 35,
+      "name": "Appukal",
+      "search_phrase": "Appukal, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "appukal",
+      "output": "servicing-areas/appukal-catering.html"
+    },
+    {
+      "sno": 36,
+      "name": "Devichettikuppam",
+      "search_phrase": "Devichettikuppam, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "devichettikuppam",
+      "output": "servicing-areas/devichettikuppam-catering.html"
+    },
+    {
+      "sno": 37,
+      "name": "Karadikudi",
+      "search_phrase": "Karadikudi, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "karadikudi",
+      "output": "servicing-areas/karadikudi-catering.html"
+    },
+    {
+      "sno": 38,
+      "name": "Karunkali",
+      "search_phrase": "Karunkali, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "karunkali",
+      "output": "servicing-areas/karunkali-catering.html"
+    },
+    {
+      "sno": 39,
+      "name": "Mahammadapuram",
+      "search_phrase": "Mahammadapuram, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "mahammadapuram",
+      "output": "servicing-areas/mahammadapuram-catering.html"
+    },
+    {
+      "sno": 40,
+      "name": "Ongapadi",
+      "search_phrase": "Ongapadi, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "ongapadi",
+      "output": "servicing-areas/ongapadi-catering.html"
+    },
+    {
+      "sno": 41,
+      "name": "Alleri",
+      "search_phrase": "Alleri, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "alleri",
+      "output": "servicing-areas/alleri-catering.html"
+    },
+    {
+      "sno": 42,
+      "name": "Sholavaram",
+      "search_phrase": "Sholavaram, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "sholavaram",
+      "output": "servicing-areas/sholavaram-catering.html"
+    },
+    {
+      "sno": 43,
+      "name": "Sathapalaiyam",
+      "search_phrase": "Sathapalaiyam, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "sathapalaiyam",
+      "output": "servicing-areas/sathapalaiyam-catering.html"
+    },
+    {
+      "sno": 44,
+      "name": "Palampakkam",
+      "search_phrase": "Palampakkam, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "palampakkam",
+      "output": "servicing-areas/palampakkam-catering.html"
+    },
+    {
+      "sno": 45,
+      "name": "Thuttikadu",
+      "search_phrase": "Thuttikadu, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "thuttikadu",
+      "output": "servicing-areas/thuttikadu-catering.html"
+    },
+    {
+      "sno": 46,
+      "name": "Thellai",
+      "search_phrase": "Thellai, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "thellai",
+      "output": "servicing-areas/thellai-catering.html"
+    },
+    {
+      "sno": 47,
+      "name": "Elluparai",
+      "search_phrase": "Elluparai, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "elluparai",
+      "output": "servicing-areas/elluparai-catering.html"
+    },
+    {
+      "sno": 48,
+      "name": "Kilkothur",
+      "search_phrase": "Kilkothur, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "kilkothur",
+      "output": "servicing-areas/kilkothur-catering.html"
+    },
+    {
+      "sno": 49,
+      "name": "Pinnanthurai",
+      "search_phrase": "Pinnanthurai, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "pinnanthurai",
+      "output": "servicing-areas/pinnanthurai-catering.html"
+    },
+    {
+      "sno": 50,
+      "name": "Nemandapuram",
+      "search_phrase": "Nemandapuram, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "nemandapuram",
+      "output": "servicing-areas/nemandapuram-catering.html"
+    },
+    {
+      "sno": 51,
+      "name": "Athikuppam",
+      "search_phrase": "Athikuppam, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "athikuppam",
+      "output": "servicing-areas/athikuppam-catering.html"
+    },
+    {
+      "sno": 52,
+      "name": "Madayapattu",
+      "search_phrase": "Madayapattu, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "madayapattu",
+      "output": "servicing-areas/madayapattu-catering.html"
+    },
+    {
+      "sno": 53,
+      "name": "Serpadi",
+      "search_phrase": "Serpadi, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "serpadi",
+      "output": "servicing-areas/serpadi-catering.html"
+    },
+    {
+      "sno": 54,
+      "name": "Pudukuppam",
+      "search_phrase": "Pudukuppam, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "pudukuppam",
+      "output": "servicing-areas/pudukuppam-catering.html"
+    },
+    {
+      "sno": 55,
+      "name": "Peenjamandai",
+      "search_phrase": "Peenjamandai, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "peenjamandai",
+      "output": "servicing-areas/peenjamandai-catering.html"
+    },
+    {
+      "sno": 56,
+      "name": "Katharikuppam",
+      "search_phrase": "Katharikuppam, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "katharikuppam",
+      "output": "servicing-areas/katharikuppam-catering.html"
+    },
+    {
+      "sno": 57,
+      "name": "Gengasanikuppam",
+      "search_phrase": "Gengasanikuppam, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "gengasanikuppam",
+      "output": "servicing-areas/gengasanikuppam-catering.html"
+    },
+    {
+      "sno": 58,
+      "name": "Vannanthangal",
+      "search_phrase": "Vannanthangal, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "vannanthangal",
+      "output": "servicing-areas/vannanthangal-catering.html"
+    },
+    {
+      "sno": 59,
+      "name": "Melarasampattu",
+      "search_phrase": "Melarasampattu, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "melarasampattu",
+      "output": "servicing-areas/melarasampattu-catering.html"
+    },
+    {
+      "sno": 60,
+      "name": "Umayampattu",
+      "search_phrase": "Umayampattu, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "umayampattu",
+      "output": "servicing-areas/umayampattu-catering.html"
+    },
+    {
+      "sno": 61,
+      "name": "Mullavadi",
+      "search_phrase": "Mullavadi, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "mullavadi",
+      "output": "servicing-areas/mullavadi-catering.html"
+    },
+    {
+      "sno": 62,
+      "name": "Periyapanaparai",
+      "search_phrase": "Periyapanaparai, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "periyapanaparai",
+      "output": "servicing-areas/periyapanaparai-catering.html"
+    },
+    {
+      "sno": 63,
+      "name": "Palampattu",
+      "search_phrase": "Palampattu, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "palampattu",
+      "output": "servicing-areas/palampattu-catering.html"
+    },
+    {
+      "sno": 64,
+      "name": "Jarthankollai",
+      "search_phrase": "Jarthankollai, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "jarthankollai",
+      "output": "servicing-areas/jarthankollai-catering.html"
+    },
+    {
+      "sno": 65,
+      "name": "Kil Arasampattu",
+      "search_phrase": "Kil Arasampattu, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "kil-arasampattu",
+      "output": "servicing-areas/kil-arasampattu-catering.html"
+    },
+    {
+      "sno": 66,
+      "name": "Kandaneri",
+      "search_phrase": "Kandaneri, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "kandaneri",
+      "output": "servicing-areas/kandaneri-catering.html"
+    },
+    {
+      "sno": 67,
+      "name": "Kalanipakkam",
+      "search_phrase": "Kalanipakkam, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "kalanipakkam",
+      "output": "servicing-areas/kalanipakkam-catering.html"
+    },
+    {
+      "sno": 68,
+      "name": "Okkanapuram",
+      "search_phrase": "Okkanapuram, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "okkanapuram",
+      "output": "servicing-areas/okkanapuram-catering.html"
+    },
+    {
+      "sno": 69,
+      "name": "Vasanthanadai",
+      "search_phrase": "Vasanthanadai, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "vasanthanadai",
+      "output": "servicing-areas/vasanthanadai-catering.html"
+    },
+    {
+      "sno": 70,
+      "name": "Unai",
+      "search_phrase": "Unai, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "unai",
+      "output": "servicing-areas/unai-catering.html"
+    },
+    {
+      "sno": 71,
+      "name": "Kommalankuttai",
+      "search_phrase": "Kommalankuttai, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "kommalankuttai",
+      "output": "servicing-areas/kommalankuttai-catering.html"
+    },
+    {
+      "sno": 72,
+      "name": "Brahmanamangalam",
+      "search_phrase": "Brahmanamangalam, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "brahmanamangalam",
+      "output": "servicing-areas/brahmanamangalam-catering.html"
+    },
+    {
+      "sno": 73,
+      "name": "Kilkrishnapuram",
+      "search_phrase": "Kilkrishnapuram, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "kilkrishnapuram",
+      "output": "servicing-areas/kilkrishnapuram-catering.html"
+    },
+    {
+      "sno": 74,
+      "name": "Tippasamudram",
+      "search_phrase": "Tippasamudram, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "tippasamudram",
+      "output": "servicing-areas/tippasamudram-catering.html"
+    },
+    {
+      "sno": 75,
+      "name": "Odiyathur",
+      "search_phrase": "Odiyathur, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "odiyathur",
+      "output": "servicing-areas/odiyathur-catering.html"
+    },
+    {
+      "sno": 76,
+      "name": "Vaniyambadi",
+      "search_phrase": "Vaniyambadi, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Town / Administrative area",
+      "slug": "vaniyambadi",
+      "output": "servicing-areas/vaniyambadi-catering.html"
+    },
+    {
+      "sno": 77,
+      "name": "Pulimedu",
+      "search_phrase": "Pulimedu, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "pulimedu",
+      "output": "servicing-areas/pulimedu-catering.html"
+    },
+    {
+      "sno": 78,
+      "name": "Sekkanur",
+      "search_phrase": "Sekkanur, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "sekkanur",
+      "output": "servicing-areas/sekkanur-catering.html"
+    },
+    {
+      "sno": 79,
+      "name": "Kuppam",
+      "search_phrase": "Kuppam, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Town / Administrative area",
+      "slug": "kuppam",
+      "output": "servicing-areas/kuppam-catering.html"
+    },
+    {
+      "sno": 80,
+      "name": "Murukkeri",
+      "search_phrase": "Murukkeri, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "murukkeri",
+      "output": "servicing-areas/murukkeri-catering.html"
+    },
+    {
+      "sno": 81,
+      "name": "Kattuputhur",
+      "search_phrase": "Kattuputhur, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "kattuputhur",
+      "output": "servicing-areas/kattuputhur-catering.html"
+    },
+    {
+      "sno": 82,
+      "name": "Karapattu",
+      "search_phrase": "Karapattu, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "karapattu",
+      "output": "servicing-areas/karapattu-catering.html"
+    },
+    {
+      "sno": 83,
+      "name": "Kammiyambattu",
+      "search_phrase": "Kammiyambattu, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "kammiyambattu",
+      "output": "servicing-areas/kammiyambattu-catering.html"
+    },
+    {
+      "sno": 84,
+      "name": "Kannadikuppam",
+      "search_phrase": "Kannadikuppam, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "kannadikuppam",
+      "output": "servicing-areas/kannadikuppam-catering.html"
+    },
+    {
+      "sno": 85,
+      "name": "Karumbur",
+      "search_phrase": "Karumbur, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "karumbur",
+      "output": "servicing-areas/karumbur-catering.html"
+    },
+    {
+      "sno": 86,
+      "name": "Khadavalam",
+      "search_phrase": "Khadavalam, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "khadavalam",
+      "output": "servicing-areas/khadavalam-catering.html"
+    },
+    {
+      "sno": 87,
+      "name": "Kilmurungai",
+      "search_phrase": "Kilmurungai, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "kilmurungai",
+      "output": "servicing-areas/kilmurungai-catering.html"
+    },
+    {
+      "sno": 88,
+      "name": "Komeswaram",
+      "search_phrase": "Komeswaram, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "komeswaram",
+      "output": "servicing-areas/komeswaram-catering.html"
+    },
+    {
+      "sno": 89,
+      "name": "Koothambakkam",
+      "search_phrase": "Koothambakkam, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "koothambakkam",
+      "output": "servicing-areas/koothambakkam-catering.html"
+    },
+    {
+      "sno": 90,
+      "name": "Kulithigi",
+      "search_phrase": "Kulithigi, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "kulithigi",
+      "output": "servicing-areas/kulithigi-catering.html"
+    },
+    {
+      "sno": 91,
+      "name": "Kumaramangalam",
+      "search_phrase": "Kumaramangalam, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "kumaramangalam",
+      "output": "servicing-areas/kumaramangalam-catering.html"
+    },
+    {
+      "sno": 92,
+      "name": "Kuppambattu",
+      "search_phrase": "Kuppambattu, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "kuppambattu",
+      "output": "servicing-areas/kuppambattu-catering.html"
+    },
+    {
+      "sno": 93,
+      "name": "Kuppampalayam",
+      "search_phrase": "Kuppampalayam, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "kuppampalayam",
+      "output": "servicing-areas/kuppampalayam-catering.html"
+    },
+    {
+      "sno": 94,
+      "name": "Labbaimankuppam",
+      "search_phrase": "Labbaimankuppam, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "labbaimankuppam",
+      "output": "servicing-areas/labbaimankuppam-catering.html"
+    },
+    {
+      "sno": 95,
+      "name": "Madanur",
+      "search_phrase": "Madanur, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "madanur",
+      "output": "servicing-areas/madanur-catering.html"
+    },
+    {
+      "sno": 96,
+      "name": "Malayambattu",
+      "search_phrase": "Malayambattu, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "malayambattu",
+      "output": "servicing-areas/malayambattu-catering.html"
+    },
+    {
+      "sno": 97,
+      "name": "Maniyarakuppam",
+      "search_phrase": "Maniyarakuppam, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "maniyarakuppam",
+      "output": "servicing-areas/maniyarakuppam-catering.html"
+    },
+    {
+      "sno": 98,
+      "name": "Melpallipattu",
+      "search_phrase": "Melpallipattu, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "melpallipattu",
+      "output": "servicing-areas/melpallipattu-catering.html"
+    },
+    {
+      "sno": 99,
+      "name": "Melshanankuppam",
+      "search_phrase": "Melshanankuppam, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "melshanankuppam",
+      "output": "servicing-areas/melshanankuppam-catering.html"
+    },
+    {
+      "sno": 100,
+      "name": "Minnur",
+      "search_phrase": "Minnur, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "minnur",
+      "output": "servicing-areas/minnur-catering.html"
+    },
+    {
+      "sno": 101,
+      "name": "Mittalam",
+      "search_phrase": "Mittalam, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "mittalam",
+      "output": "servicing-areas/mittalam-catering.html"
+    },
+    {
+      "sno": 102,
+      "name": "Nacharkuppam",
+      "search_phrase": "Nacharkuppam, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "nacharkuppam",
+      "output": "servicing-areas/nacharkuppam-catering.html"
+    },
+    {
+      "sno": 103,
+      "name": "Nariambattu",
+      "search_phrase": "Nariambattu, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "nariambattu",
+      "output": "servicing-areas/nariambattu-catering.html"
+    },
+    {
+      "sno": 104,
+      "name": "Nayakaneri",
+      "search_phrase": "Nayakaneri, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "nayakaneri",
+      "output": "servicing-areas/nayakaneri-catering.html"
+    },
+    {
+      "sno": 105,
+      "name": "Nedumipalayam",
+      "search_phrase": "Nedumipalayam, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "nedumipalayam",
+      "output": "servicing-areas/nedumipalayam-catering.html"
+    },
+    {
+      "sno": 106,
+      "name": "Pakkam",
+      "search_phrase": "Pakkam, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "pakkam",
+      "output": "servicing-areas/pakkam-catering.html"
+    },
+    {
+      "sno": 107,
+      "name": "Pakkampalayam",
+      "search_phrase": "Pakkampalayam, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "pakkampalayam",
+      "output": "servicing-areas/pakkampalayam-catering.html"
+    },
+    {
+      "sno": 108,
+      "name": "Palapadi",
+      "search_phrase": "Palapadi, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "palapadi",
+      "output": "servicing-areas/palapadi-catering.html"
+    },
+    {
+      "sno": 109,
+      "name": "Pallikuppam",
+      "search_phrase": "Pallikuppam, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "pallikuppam",
+      "output": "servicing-areas/pallikuppam-catering.html"
+    },
+    {
+      "sno": 110,
+      "name": "Palur",
+      "search_phrase": "Palur, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "palur",
+      "output": "servicing-areas/palur-catering.html"
+    },
+    {
+      "sno": 111,
+      "name": "Parsanapalli",
+      "search_phrase": "Parsanapalli, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "parsanapalli",
+      "output": "servicing-areas/parsanapalli-catering.html"
+    },
+    {
+      "sno": 112,
+      "name": "Alanganeri",
+      "search_phrase": "Alanganeri, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "alanganeri",
+      "output": "servicing-areas/alanganeri-catering.html"
+    },
+    {
+      "sno": 113,
+      "name": "Ammanankuppam",
+      "search_phrase": "Ammanankuppam, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "ammanankuppam",
+      "output": "servicing-areas/ammanankuppam-catering.html"
+    },
+    {
+      "sno": 114,
+      "name": "Ammavaripalle",
+      "search_phrase": "Ammavaripalle, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "ammavaripalle",
+      "output": "servicing-areas/ammavaripalle-catering.html"
+    },
+    {
+      "sno": 115,
+      "name": "Ammundi",
+      "search_phrase": "Ammundi, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "ammundi",
+      "output": "servicing-areas/ammundi-catering.html"
+    },
+    {
+      "sno": 116,
+      "name": "Angarankuppam",
+      "search_phrase": "Angarankuppam, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "angarankuppam",
+      "output": "servicing-areas/angarankuppam-catering.html"
+    },
+    {
+      "sno": 117,
+      "name": "Annangudi",
+      "search_phrase": "Annangudi, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "annangudi",
+      "output": "servicing-areas/annangudi-catering.html"
+    },
+    {
+      "sno": 118,
+      "name": "Arumbakkam",
+      "search_phrase": "Arumbakkam, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "arumbakkam",
+      "output": "servicing-areas/arumbakkam-catering.html"
+    },
+    {
+      "sno": 119,
+      "name": "Arumparuthi",
+      "search_phrase": "Arumparuthi, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "arumparuthi",
+      "output": "servicing-areas/arumparuthi-catering.html"
+    },
+    {
+      "sno": 120,
+      "name": "Balekuppam",
+      "search_phrase": "Balekuppam, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "balekuppam",
+      "output": "servicing-areas/balekuppam-catering.html"
+    },
+    {
+      "sno": 121,
+      "name": "Bomminayakkanpalayam",
+      "search_phrase": "Bomminayakkanpalayam, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "bomminayakkanpalayam",
+      "output": "servicing-areas/bomminayakkanpalayam-catering.html"
+    },
+    {
+      "sno": 122,
+      "name": "Brahmapuram",
+      "search_phrase": "Brahmapuram, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "brahmapuram",
+      "output": "servicing-areas/brahmapuram-catering.html"
+    },
+    {
+      "sno": 123,
+      "name": "Chenji",
+      "search_phrase": "Chenji, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "chenji",
+      "output": "servicing-areas/chenji-catering.html"
+    },
+    {
+      "sno": 124,
+      "name": "Cholamur",
+      "search_phrase": "Cholamur, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "cholamur",
+      "output": "servicing-areas/cholamur-catering.html"
+    },
+    {
+      "sno": 125,
+      "name": "Devarishikuppam",
+      "search_phrase": "Devarishikuppam, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "devarishikuppam",
+      "output": "servicing-areas/devarishikuppam-catering.html"
+    },
+    {
+      "sno": 126,
+      "name": "Dharapadavedu",
+      "search_phrase": "Dharapadavedu, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "dharapadavedu",
+      "output": "servicing-areas/dharapadavedu-catering.html"
+    },
+    {
+      "sno": 127,
+      "name": "Kalinjur",
+      "search_phrase": "Kalinjur, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "kalinjur",
+      "output": "servicing-areas/kalinjur-catering.html"
+    },
+    {
+      "sno": 128,
+      "name": "Kangeyanallur",
+      "search_phrase": "Kangeyanallur, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "kangeyanallur",
+      "output": "servicing-areas/kangeyanallur-catering.html"
+    },
+    {
+      "sno": 129,
+      "name": "Virudampattu",
+      "search_phrase": "Virudampattu, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "virudampattu",
+      "output": "servicing-areas/virudampattu-catering.html"
+    },
+    {
+      "sno": 130,
+      "name": "Karugambathur",
+      "search_phrase": "Karugambathur, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "karugambathur",
+      "output": "servicing-areas/karugambathur-catering.html"
+    },
+    {
+      "sno": 131,
+      "name": "Alamelumangapuram",
+      "search_phrase": "Alamelumangapuram, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "alamelumangapuram",
+      "output": "servicing-areas/alamelumangapuram-catering.html"
+    },
+    {
+      "sno": 132,
+      "name": "Arumparai",
+      "search_phrase": "Arumparai, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "arumparai",
+      "output": "servicing-areas/arumparai-catering.html"
+    },
+    {
+      "sno": 133,
+      "name": "Munjurpattu",
+      "search_phrase": "Munjurpattu, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "munjurpattu",
+      "output": "servicing-areas/munjurpattu-catering.html"
+    },
+    {
+      "sno": 134,
+      "name": "Kallukadai Garden",
+      "search_phrase": "Kallukadai Garden, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "kallukadai-garden",
+      "output": "servicing-areas/kallukadai-garden-catering.html"
+    },
+    {
+      "sno": 135,
+      "name": "Vepampattu",
+      "search_phrase": "Vepampattu, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "vepampattu",
+      "output": "servicing-areas/vepampattu-catering.html"
+    },
+    {
+      "sno": 136,
+      "name": "Anandhalai",
+      "search_phrase": "Anandhalai, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "anandhalai",
+      "output": "servicing-areas/anandhalai-catering.html"
+    },
+    {
+      "sno": 137,
+      "name": "Aminjikarai",
+      "search_phrase": "Aminjikarai, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "aminjikarai",
+      "output": "servicing-areas/aminjikarai-catering.html"
+    },
+    {
+      "sno": 138,
+      "name": "Agraharam",
+      "search_phrase": "Agraharam, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "agraharam",
+      "output": "servicing-areas/agraharam-catering.html"
+    },
+    {
+      "sno": 139,
+      "name": "Aiyur",
+      "search_phrase": "Aiyur, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "aiyur",
+      "output": "servicing-areas/aiyur-catering.html"
+    },
+    {
+      "sno": 140,
+      "name": "Vettapattu",
+      "search_phrase": "Vettapattu, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "vettapattu",
+      "output": "servicing-areas/vettapattu-catering.html"
+    },
+    {
+      "sno": 141,
+      "name": "Thiriyalam",
+      "search_phrase": "Thiriyalam, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "thiriyalam",
+      "output": "servicing-areas/thiriyalam-catering.html"
+    },
+    {
+      "sno": 142,
+      "name": "Thadagam",
+      "search_phrase": "Thadagam, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "thadagam",
+      "output": "servicing-areas/thadagam-catering.html"
+    },
+    {
+      "sno": 143,
+      "name": "Kadapanthangal",
+      "search_phrase": "Kadapanthangal, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "kadapanthangal",
+      "output": "servicing-areas/kadapanthangal-catering.html"
+    },
+    {
+      "sno": 144,
+      "name": "Suparipattu",
+      "search_phrase": "Suparipattu, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "suparipattu",
+      "output": "servicing-areas/suparipattu-catering.html"
+    },
+    {
+      "sno": 145,
+      "name": "Kasalankuppam",
+      "search_phrase": "Kasalankuppam, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "kasalankuppam",
+      "output": "servicing-areas/kasalankuppam-catering.html"
+    },
+    {
+      "sno": 146,
+      "name": "Lekkanakuppam",
+      "search_phrase": "Lekkanakuppam, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "lekkanakuppam",
+      "output": "servicing-areas/lekkanakuppam-catering.html"
+    },
+    {
+      "sno": 147,
+      "name": "Bomminakuppam",
+      "search_phrase": "Bomminakuppam, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "bomminakuppam",
+      "output": "servicing-areas/bomminakuppam-catering.html"
+    },
+    {
+      "sno": 148,
+      "name": "Gudiyatham",
+      "search_phrase": "Gudiyatham, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Town / Administrative area",
+      "slug": "gudiyatham",
+      "output": "servicing-areas/gudiyatham-catering.html"
+    },
+    {
+      "sno": 149,
+      "name": "Pernambut",
+      "search_phrase": "Pernambut, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Town / Administrative area",
+      "slug": "pernambut",
+      "output": "servicing-areas/pernambut-catering.html"
+    },
+    {
+      "sno": 150,
+      "name": "KV Kuppam",
+      "search_phrase": "KV Kuppam, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Town / Administrative area",
+      "slug": "kv-kuppam",
+      "output": "servicing-areas/kv-kuppam-catering.html"
+    },
+    {
+      "sno": 151,
+      "name": "Kilvaithinankuppam",
+      "search_phrase": "Kilvaithinankuppam, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Town / Administrative area",
+      "slug": "kilvaithinankuppam",
+      "output": "servicing-areas/kilvaithinankuppam-catering.html"
+    },
+    {
+      "sno": 152,
+      "name": "Paradarami",
+      "search_phrase": "Paradarami, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "paradarami",
+      "output": "servicing-areas/paradarami-catering.html"
+    },
+    {
+      "sno": 153,
+      "name": "Danakondapalli",
+      "search_phrase": "Danakondapalli, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "danakondapalli",
+      "output": "servicing-areas/danakondapalli-catering.html"
+    },
+    {
+      "sno": 154,
+      "name": "Dakshinapathapalayam",
+      "search_phrase": "Dakshinapathapalayam, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "dakshinapathapalayam",
+      "output": "servicing-areas/dakshinapathapalayam-catering.html"
+    },
+    {
+      "sno": 155,
+      "name": "Rangasumudram",
+      "search_phrase": "Rangasumudram, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "rangasumudram",
+      "output": "servicing-areas/rangasumudram-catering.html"
+    },
+    {
+      "sno": 156,
+      "name": "Puttavaripalli",
+      "search_phrase": "Puttavaripalli, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "puttavaripalli",
+      "output": "servicing-areas/puttavaripalli-catering.html"
+    },
+    {
+      "sno": 157,
+      "name": "Veerichettipalli",
+      "search_phrase": "Veerichettipalli, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "veerichettipalli",
+      "output": "servicing-areas/veerichettipalli-catering.html"
+    },
+    {
+      "sno": 158,
+      "name": "Varadhareddipalli",
+      "search_phrase": "Varadhareddipalli, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "varadhareddipalli",
+      "output": "servicing-areas/varadhareddipalli-catering.html"
+    },
+    {
+      "sno": 159,
+      "name": "Chengundram",
+      "search_phrase": "Chengundram, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "chengundram",
+      "output": "servicing-areas/chengundram-catering.html"
+    },
+    {
+      "sno": 160,
+      "name": "Modikuppam",
+      "search_phrase": "Modikuppam, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "modikuppam",
+      "output": "servicing-areas/modikuppam-catering.html"
+    },
+    {
+      "sno": 161,
+      "name": "Thattaparai",
+      "search_phrase": "Thattaparai, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "thattaparai",
+      "output": "servicing-areas/thattaparai-catering.html"
+    },
+    {
+      "sno": 162,
+      "name": "Chinnalapalli",
+      "search_phrase": "Chinnalapalli, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "chinnalapalli",
+      "output": "servicing-areas/chinnalapalli-catering.html"
+    },
+    {
+      "sno": 163,
+      "name": "Mukkundram",
+      "search_phrase": "Mukkundram, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "mukkundram",
+      "output": "servicing-areas/mukkundram-catering.html"
+    },
+    {
+      "sno": 164,
+      "name": "Ramalai",
+      "search_phrase": "Ramalai, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "ramalai",
+      "output": "servicing-areas/ramalai-catering.html"
+    },
+    {
+      "sno": 165,
+      "name": "Thattimanapalli",
+      "search_phrase": "Thattimanapalli, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "thattimanapalli",
+      "output": "servicing-areas/thattimanapalli-catering.html"
+    },
+    {
+      "sno": 166,
+      "name": "Kallapadi",
+      "search_phrase": "Kallapadi, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "kallapadi",
+      "output": "servicing-areas/kallapadi-catering.html"
+    },
+    {
+      "sno": 167,
+      "name": "Kondasamudram",
+      "search_phrase": "Kondasamudram, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "kondasamudram",
+      "output": "servicing-areas/kondasamudram-catering.html"
+    },
+    {
+      "sno": 168,
+      "name": "Pichanur",
+      "search_phrase": "Pichanur, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "pichanur",
+      "output": "servicing-areas/pichanur-catering.html"
+    },
+    {
+      "sno": 169,
+      "name": "Rajakuppam",
+      "search_phrase": "Rajakuppam, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "rajakuppam",
+      "output": "servicing-areas/rajakuppam-catering.html"
+    },
+    {
+      "sno": 170,
+      "name": "Nellorepettai",
+      "search_phrase": "Nellorepettai, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "nellorepettai",
+      "output": "servicing-areas/nellorepettai-catering.html"
+    },
+    {
+      "sno": 171,
+      "name": "Seruvangi",
+      "search_phrase": "Seruvangi, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "seruvangi",
+      "output": "servicing-areas/seruvangi-catering.html"
+    },
+    {
+      "sno": 172,
+      "name": "Thalayatham",
+      "search_phrase": "Thalayatham, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "thalayatham",
+      "output": "servicing-areas/thalayatham-catering.html"
+    },
+    {
+      "sno": 173,
+      "name": "Chedukkarai",
+      "search_phrase": "Chedukkarai, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "chedukkarai",
+      "output": "servicing-areas/chedukkarai-catering.html"
+    },
+    {
+      "sno": 174,
+      "name": "Melalathur",
+      "search_phrase": "Melalathur, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "melalathur",
+      "output": "servicing-areas/melalathur-catering.html"
+    },
+    {
+      "sno": 175,
+      "name": "Melmuttukur",
+      "search_phrase": "Melmuttukur, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "melmuttukur",
+      "output": "servicing-areas/melmuttukur-catering.html"
+    },
+    {
+      "sno": 176,
+      "name": "Chettikuppam",
+      "search_phrase": "Chettikuppam, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "chettikuppam",
+      "output": "servicing-areas/chettikuppam-catering.html"
+    },
+    {
+      "sno": 177,
+      "name": "Bojanapuram",
+      "search_phrase": "Bojanapuram, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "bojanapuram",
+      "output": "servicing-areas/bojanapuram-catering.html"
+    },
+    {
+      "sno": 178,
+      "name": "Singalpadi",
+      "search_phrase": "Singalpadi, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "singalpadi",
+      "output": "servicing-areas/singalpadi-catering.html"
+    },
+    {
+      "sno": 179,
+      "name": "Goodanagaram",
+      "search_phrase": "Goodanagaram, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "goodanagaram",
+      "output": "servicing-areas/goodanagaram-catering.html"
+    },
+    {
+      "sno": 180,
+      "name": "Ananganallore",
+      "search_phrase": "Ananganallore, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "ananganallore",
+      "output": "servicing-areas/ananganallore-catering.html"
+    },
+    {
+      "sno": 181,
+      "name": "Kothakuppam",
+      "search_phrase": "Kothakuppam, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "kothakuppam",
+      "output": "servicing-areas/kothakuppam-catering.html"
+    },
+    {
+      "sno": 182,
+      "name": "Chithathoor",
+      "search_phrase": "Chithathoor, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "chithathoor",
+      "output": "servicing-areas/chithathoor-catering.html"
+    },
+    {
+      "sno": 183,
+      "name": "Chokkarishikuppam",
+      "search_phrase": "Chokkarishikuppam, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "chokkarishikuppam",
+      "output": "servicing-areas/chokkarishikuppam-catering.html"
+    },
+    {
+      "sno": 184,
+      "name": "Chinnadamal Cheruvu",
+      "search_phrase": "Chinnadamal Cheruvu, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "chinnadamal-cheruvu",
+      "output": "servicing-areas/chinnadamal-cheruvu-catering.html"
+    },
+    {
+      "sno": 185,
+      "name": "Charakkal",
+      "search_phrase": "Charakkal, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "charakkal",
+      "output": "servicing-areas/charakkal-catering.html"
+    },
+    {
+      "sno": 186,
+      "name": "Erthangal",
+      "search_phrase": "Erthangal, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "erthangal",
+      "output": "servicing-areas/erthangal-catering.html"
+    },
+    {
+      "sno": 187,
+      "name": "Erukkampattu",
+      "search_phrase": "Erukkampattu, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "erukkampattu",
+      "output": "servicing-areas/erukkampattu-catering.html"
+    },
+    {
+      "sno": 188,
+      "name": "Gundalapalli",
+      "search_phrase": "Gundalapalli, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "gundalapalli",
+      "output": "servicing-areas/gundalapalli-catering.html"
+    },
+    {
+      "sno": 189,
+      "name": "Karkur",
+      "search_phrase": "Karkur, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "karkur",
+      "output": "servicing-areas/karkur-catering.html"
+    },
+    {
+      "sno": 190,
+      "name": "Karuneekasamudram",
+      "search_phrase": "Karuneekasamudram, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "karuneekasamudram",
+      "output": "servicing-areas/karuneekasamudram-catering.html"
+    },
+    {
+      "sno": 191,
+      "name": "Katherikuppam",
+      "search_phrase": "Katherikuppam, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "katherikuppam",
+      "output": "servicing-areas/katherikuppam-catering.html"
+    },
+    {
+      "sno": 192,
+      "name": "Kempasamudram",
+      "search_phrase": "Kempasamudram, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "kempasamudram",
+      "output": "servicing-areas/kempasamudram-catering.html"
+    },
+    {
+      "sno": 193,
+      "name": "Kilpatti",
+      "search_phrase": "Kilpatti, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "kilpatti",
+      "output": "servicing-areas/kilpatti-catering.html"
+    },
+    {
+      "sno": 194,
+      "name": "Kothamarikuppam",
+      "search_phrase": "Kothamarikuppam, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "kothamarikuppam",
+      "output": "servicing-areas/kothamarikuppam-catering.html"
+    },
+    {
+      "sno": 195,
+      "name": "Kothapalli",
+      "search_phrase": "Kothapalli, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "kothapalli",
+      "output": "servicing-areas/kothapalli-catering.html"
+    },
+    {
+      "sno": 196,
+      "name": "Kulidikai",
+      "search_phrase": "Kulidikai, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "kulidikai",
+      "output": "servicing-areas/kulidikai-catering.html"
+    },
+    {
+      "sno": 197,
+      "name": "Machampattu",
+      "search_phrase": "Machampattu, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "machampattu",
+      "output": "servicing-areas/machampattu-catering.html"
+    },
+    {
+      "sno": 198,
+      "name": "Mailpatti",
+      "search_phrase": "Mailpatti, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "mailpatti",
+      "output": "servicing-areas/mailpatti-catering.html"
+    },
+    {
+      "sno": 199,
+      "name": "Masigam",
+      "search_phrase": "Masigam, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "masigam",
+      "output": "servicing-areas/masigam-catering.html"
+    },
+    {
+      "sno": 200,
+      "name": "Ambur",
+      "search_phrase": "Ambur, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Town / Administrative area",
+      "slug": "ambur",
+      "output": "servicing-areas/ambur-catering.html"
+    },
+    {
+      "sno": 201,
+      "name": "Periyankuppam",
+      "search_phrase": "Periyankuppam, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "periyankuppam",
+      "output": "servicing-areas/periyankuppam-catering.html"
+    },
+    {
+      "sno": 202,
+      "name": "Puthagaram",
+      "search_phrase": "Puthagaram, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "puthagaram",
+      "output": "servicing-areas/puthagaram-catering.html"
+    },
+    {
+      "sno": 203,
+      "name": "Madhur",
+      "search_phrase": "Madhur, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "madhur",
+      "output": "servicing-areas/madhur-catering.html"
+    },
+    {
+      "sno": 204,
+      "name": "Melsanankuppam",
+      "search_phrase": "Melsanankuppam, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "melsanankuppam",
+      "output": "servicing-areas/melsanankuppam-catering.html"
+    },
+    {
+      "sno": 205,
+      "name": "Ambur R.F.",
+      "search_phrase": "Ambur R.F., Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Forest / Census locality",
+      "slug": "ambur-r-f",
+      "output": "servicing-areas/ambur-r-f-catering.html"
+    },
+    {
+      "sno": 206,
+      "name": "Arakonam",
+      "search_phrase": "Arakonam, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Town / Administrative area",
+      "slug": "arakonam",
+      "output": "servicing-areas/arakonam-catering.html"
+    },
+    {
+      "sno": 207,
+      "name": "Arakkonam",
+      "search_phrase": "Arakkonam, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Town / Administrative area",
+      "slug": "arakkonam",
+      "output": "servicing-areas/arakkonam-catering.html"
+    },
+    {
+      "sno": 208,
+      "name": "Perumuchi",
+      "search_phrase": "Perumuchi, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "perumuchi",
+      "output": "servicing-areas/perumuchi-catering.html"
+    },
+    {
+      "sno": 209,
+      "name": "Kaveripakkam",
+      "search_phrase": "Kaveripakkam, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Town / Administrative area",
+      "slug": "kaveripakkam",
+      "output": "servicing-areas/kaveripakkam-catering.html"
+    },
+    {
+      "sno": 210,
+      "name": "Nemili",
+      "search_phrase": "Nemili, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Town / Administrative area",
+      "slug": "nemili",
+      "output": "servicing-areas/nemili-catering.html"
+    },
+    {
+      "sno": 211,
+      "name": "Sholinghur",
+      "search_phrase": "Sholinghur, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Town / Administrative area",
+      "slug": "sholinghur",
+      "output": "servicing-areas/sholinghur-catering.html"
+    },
+    {
+      "sno": 212,
+      "name": "Walajapet",
+      "search_phrase": "Walajapet, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Town / Administrative area",
+      "slug": "walajapet",
+      "output": "servicing-areas/walajapet-catering.html"
+    },
+    {
+      "sno": 213,
+      "name": "Arcot",
+      "search_phrase": "Arcot, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Town / Administrative area",
+      "slug": "arcot",
+      "output": "servicing-areas/arcot-catering.html"
+    },
+    {
+      "sno": 214,
+      "name": "Ranipet",
+      "search_phrase": "Ranipet, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Town / Administrative area",
+      "slug": "ranipet",
+      "output": "servicing-areas/ranipet-catering.html"
+    },
+    {
+      "sno": 215,
+      "name": "Melvisharam",
+      "search_phrase": "Melvisharam, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Locality / Village",
+      "slug": "melvisharam",
+      "output": "servicing-areas/melvisharam-catering.html"
+    },
+    {
+      "sno": 216,
+      "name": "Ammoor",
+      "search_phrase": "Ammoor, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Locality / Village",
+      "slug": "ammoor",
+      "output": "servicing-areas/ammoor-catering.html"
+    },
+    {
+      "sno": 217,
+      "name": "Chettithangal",
+      "search_phrase": "Chettithangal, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "chettithangal",
+      "output": "servicing-areas/chettithangal-catering.html"
+    },
+    {
+      "sno": 218,
+      "name": "Narasingapuram",
+      "search_phrase": "Narasingapuram, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "narasingapuram",
+      "output": "servicing-areas/narasingapuram-catering.html"
+    },
+    {
+      "sno": 219,
+      "name": "Thiruvalam",
+      "search_phrase": "Thiruvalam, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Locality / Village",
+      "slug": "thiruvalam",
+      "output": "servicing-areas/thiruvalam-catering.html"
+    },
+    {
+      "sno": 220,
+      "name": "Ponnai",
+      "search_phrase": "Ponnai, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "ponnai",
+      "output": "servicing-areas/ponnai-catering.html"
+    },
+    {
+      "sno": 221,
+      "name": "Navlock",
+      "search_phrase": "Navlock, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "navlock",
+      "output": "servicing-areas/navlock-catering.html"
+    },
+    {
+      "sno": 222,
+      "name": "Vannivedu",
+      "search_phrase": "Vannivedu, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "vannivedu",
+      "output": "servicing-areas/vannivedu-catering.html"
+    },
+    {
+      "sno": 223,
+      "name": "Thengal",
+      "search_phrase": "Thengal, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "thengal",
+      "output": "servicing-areas/thengal-catering.html"
+    },
+    {
+      "sno": 224,
+      "name": "Kilminnal",
+      "search_phrase": "Kilminnal, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "kilminnal",
+      "output": "servicing-areas/kilminnal-catering.html"
+    },
+    {
+      "sno": 225,
+      "name": "Arapakkam",
+      "search_phrase": "Arapakkam, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "arapakkam",
+      "output": "servicing-areas/arapakkam-catering.html"
+    },
+    {
+      "sno": 226,
+      "name": "Melakuppam",
+      "search_phrase": "Melakuppam, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "melakuppam",
+      "output": "servicing-areas/melakuppam-catering.html"
+    },
+    {
+      "sno": 227,
+      "name": "Thimmanacherikuppam",
+      "search_phrase": "Thimmanacherikuppam, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "thimmanacherikuppam",
+      "output": "servicing-areas/thimmanacherikuppam-catering.html"
+    },
+    {
+      "sno": 228,
+      "name": "Nandiyalam",
+      "search_phrase": "Nandiyalam, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "nandiyalam",
+      "output": "servicing-areas/nandiyalam-catering.html"
+    },
+    {
+      "sno": 229,
+      "name": "Veppur",
+      "search_phrase": "Veppur, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "veppur",
+      "output": "servicing-areas/veppur-catering.html"
+    },
+    {
+      "sno": 230,
+      "name": "Gudimallur",
+      "search_phrase": "Gudimallur, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "gudimallur",
+      "output": "servicing-areas/gudimallur-catering.html"
+    },
+    {
+      "sno": 231,
+      "name": "Chennesamudram",
+      "search_phrase": "Chennesamudram, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "chennesamudram",
+      "output": "servicing-areas/chennesamudram-catering.html"
+    },
+    {
+      "sno": 232,
+      "name": "Kadapperi",
+      "search_phrase": "Kadapperi, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "kadapperi",
+      "output": "servicing-areas/kadapperi-catering.html"
+    },
+    {
+      "sno": 233,
+      "name": "Poondi",
+      "search_phrase": "Poondi, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "poondi",
+      "output": "servicing-areas/poondi-catering.html"
+    },
+    {
+      "sno": 234,
+      "name": "Thirumalaicheri",
+      "search_phrase": "Thirumalaicheri, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "thirumalaicheri",
+      "output": "servicing-areas/thirumalaicheri-catering.html"
+    },
+    {
+      "sno": 235,
+      "name": "Thalanur",
+      "search_phrase": "Thalanur, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "thalanur",
+      "output": "servicing-areas/thalanur-catering.html"
+    },
+    {
+      "sno": 236,
+      "name": "Kathiavadi",
+      "search_phrase": "Kathiavadi, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "kathiavadi",
+      "output": "servicing-areas/kathiavadi-catering.html"
+    },
+    {
+      "sno": 237,
+      "name": "Ayilam",
+      "search_phrase": "Ayilam, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "ayilam",
+      "output": "servicing-areas/ayilam-catering.html"
+    },
+    {
+      "sno": 238,
+      "name": "Arunkundram",
+      "search_phrase": "Arunkundram, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "arunkundram",
+      "output": "servicing-areas/arunkundram-catering.html"
+    },
+    {
+      "sno": 239,
+      "name": "Kilkuppam",
+      "search_phrase": "Kilkuppam, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "kilkuppam",
+      "output": "servicing-areas/kilkuppam-catering.html"
+    },
+    {
+      "sno": 240,
+      "name": "Koorambadi",
+      "search_phrase": "Koorambadi, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "koorambadi",
+      "output": "servicing-areas/koorambadi-catering.html"
+    },
+    {
+      "sno": 241,
+      "name": "Sathambakkam",
+      "search_phrase": "Sathambakkam, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "sathambakkam",
+      "output": "servicing-areas/sathambakkam-catering.html"
+    },
+    {
+      "sno": 242,
+      "name": "Thiruparkadal",
+      "search_phrase": "Thiruparkadal, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "thiruparkadal",
+      "output": "servicing-areas/thiruparkadal-catering.html"
+    },
+    {
+      "sno": 243,
+      "name": "Kalmelkuppam",
+      "search_phrase": "Kalmelkuppam, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "kalmelkuppam",
+      "output": "servicing-areas/kalmelkuppam-catering.html"
+    },
+    {
+      "sno": 244,
+      "name": "Tirupathur",
+      "search_phrase": "Tirupathur, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Town / Administrative area",
+      "slug": "tirupathur",
+      "output": "servicing-areas/tirupathur-catering.html"
+    },
+    {
+      "sno": 245,
+      "name": "Jolarpet",
+      "search_phrase": "Jolarpet, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Town / Administrative area",
+      "slug": "jolarpet",
+      "output": "servicing-areas/jolarpet-catering.html"
+    },
+    {
+      "sno": 246,
+      "name": "Natrampalli",
+      "search_phrase": "Natrampalli, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "natrampalli",
+      "output": "servicing-areas/natrampalli-catering.html"
+    },
+    {
+      "sno": 247,
+      "name": "Kandili",
+      "search_phrase": "Kandili, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "kandili",
+      "output": "servicing-areas/kandili-catering.html"
+    },
+    {
+      "sno": 248,
+      "name": "Alangayam",
+      "search_phrase": "Alangayam, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Town / Administrative area",
+      "slug": "alangayam",
+      "output": "servicing-areas/alangayam-catering.html"
+    },
+    {
+      "sno": 249,
+      "name": "Madhanur",
+      "search_phrase": "Madhanur, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Town / Administrative area",
+      "slug": "madhanur",
+      "output": "servicing-areas/madhanur-catering.html"
+    },
+    {
+      "sno": 250,
+      "name": "Pernampattu",
+      "search_phrase": "Pernampattu, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "pernampattu",
+      "output": "servicing-areas/pernampattu-catering.html"
+    },
+    {
+      "sno": 251,
+      "name": "Anaicut",
+      "search_phrase": "Anaicut, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Town / Administrative area",
+      "slug": "anaicut",
+      "output": "servicing-areas/anaicut-catering.html"
+    },
+    {
+      "sno": 252,
+      "name": "Kaniyambadi",
+      "search_phrase": "Kaniyambadi, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Town / Administrative area",
+      "slug": "kaniyambadi",
+      "output": "servicing-areas/kaniyambadi-catering.html"
+    },
+    {
+      "sno": 253,
+      "name": "Vellore Town",
+      "search_phrase": "Vellore Town, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "vellore-town",
+      "output": "servicing-areas/vellore-town-catering.html"
+    },
+    {
+      "sno": 254,
+      "name": "Vellore Cantonment",
+      "search_phrase": "Vellore Cantonment, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "vellore-cantonment",
+      "output": "servicing-areas/vellore-cantonment-catering.html"
+    },
+    {
+      "sno": 255,
+      "name": "CMC Vellore",
+      "search_phrase": "CMC Vellore, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "cmc-vellore",
+      "output": "servicing-areas/cmc-vellore-catering.html"
+    },
+    {
+      "sno": 256,
+      "name": "CMC Outgate",
+      "search_phrase": "CMC Outgate, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "cmc-outgate",
+      "output": "servicing-areas/cmc-outgate-catering.html"
+    },
+    {
+      "sno": 257,
+      "name": "Katpadi Junction",
+      "search_phrase": "Katpadi Junction, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "katpadi-junction",
+      "output": "servicing-areas/katpadi-junction-catering.html"
+    },
+    {
+      "sno": 258,
+      "name": "Katpadi Road",
+      "search_phrase": "Katpadi Road, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "katpadi-road",
+      "output": "servicing-areas/katpadi-road-catering.html"
+    },
+    {
+      "sno": 259,
+      "name": "Chittoor Road",
+      "search_phrase": "Chittoor Road, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "chittoor-road",
+      "output": "servicing-areas/chittoor-road-catering.html"
+    },
+    {
+      "sno": 260,
+      "name": "Bangalore Road",
+      "search_phrase": "Bangalore Road, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "bangalore-road",
+      "output": "servicing-areas/bangalore-road-catering.html"
+    },
+    {
+      "sno": 261,
+      "name": "Chennai Bangalore Highway",
+      "search_phrase": "Chennai Bangalore Highway, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "chennai-bangalore-highway",
+      "output": "servicing-areas/chennai-bangalore-highway-catering.html"
+    },
+    {
+      "sno": 262,
+      "name": "Cuddalore Road",
+      "search_phrase": "Cuddalore Road, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "cuddalore-road",
+      "output": "servicing-areas/cuddalore-road-catering.html"
+    },
+    {
+      "sno": 263,
+      "name": "Officer's Line",
+      "search_phrase": "Officer's Line, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "officer-s-line",
+      "output": "servicing-areas/officer-s-line-catering.html"
+    },
+    {
+      "sno": 264,
+      "name": "Green Circle",
+      "search_phrase": "Green Circle, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "green-circle",
+      "output": "servicing-areas/green-circle-catering.html"
+    },
+    {
+      "sno": 265,
+      "name": "New Bus Stand",
+      "search_phrase": "New Bus Stand, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "new-bus-stand",
+      "output": "servicing-areas/new-bus-stand-catering.html"
+    },
+    {
+      "sno": 266,
+      "name": "Old Bus Stand",
+      "search_phrase": "Old Bus Stand, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "old-bus-stand",
+      "output": "servicing-areas/old-bus-stand-catering.html"
+    },
+    {
+      "sno": 267,
+      "name": "Vellore Bus Stand",
+      "search_phrase": "Vellore Bus Stand, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "vellore-bus-stand",
+      "output": "servicing-areas/vellore-bus-stand-catering.html"
+    },
+    {
+      "sno": 268,
+      "name": "Fort Roundana",
+      "search_phrase": "Fort Roundana, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "fort-roundana",
+      "output": "servicing-areas/fort-roundana-catering.html"
+    },
+    {
+      "sno": 269,
+      "name": "Fort Main Road",
+      "search_phrase": "Fort Main Road, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "fort-main-road",
+      "output": "servicing-areas/fort-main-road-catering.html"
+    },
+    {
+      "sno": 270,
+      "name": "Old Katpadi Road",
+      "search_phrase": "Old Katpadi Road, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "old-katpadi-road",
+      "output": "servicing-areas/old-katpadi-road-catering.html"
+    },
+    {
+      "sno": 271,
+      "name": "New Katpadi Road",
+      "search_phrase": "New Katpadi Road, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "new-katpadi-road",
+      "output": "servicing-areas/new-katpadi-road-catering.html"
+    },
+    {
+      "sno": 272,
+      "name": "Gandhi Nagar",
+      "search_phrase": "Gandhi Nagar, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "gandhi-nagar",
+      "output": "servicing-areas/gandhi-nagar-catering.html"
+    },
+    {
+      "sno": 273,
+      "name": "Phase 1 Sathuvachari",
+      "search_phrase": "Phase 1 Sathuvachari, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "phase-1-sathuvachari",
+      "output": "servicing-areas/phase-1-sathuvachari-catering.html"
+    },
+    {
+      "sno": 274,
+      "name": "South Avenue Road",
+      "search_phrase": "South Avenue Road, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "south-avenue-road",
+      "output": "servicing-areas/south-avenue-road-catering.html"
+    },
+    {
+      "sno": 275,
+      "name": "Perumal Koil Street",
+      "search_phrase": "Perumal Koil Street, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "perumal-koil-street",
+      "output": "servicing-areas/perumal-koil-street-catering.html"
+    },
+    {
+      "sno": 276,
+      "name": "Anna Salai",
+      "search_phrase": "Anna Salai, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "anna-salai",
+      "output": "servicing-areas/anna-salai-catering.html"
+    },
+    {
+      "sno": 277,
+      "name": "Long Bazar",
+      "search_phrase": "Long Bazar, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "long-bazar",
+      "output": "servicing-areas/long-bazar-catering.html"
+    },
+    {
+      "sno": 278,
+      "name": "Main Bazaar",
+      "search_phrase": "Main Bazaar, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "main-bazaar",
+      "output": "servicing-areas/main-bazaar-catering.html"
+    },
+    {
+      "sno": 279,
+      "name": "Sainathapuram",
+      "search_phrase": "Sainathapuram, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "sainathapuram",
+      "output": "servicing-areas/sainathapuram-catering.html"
+    },
+    {
+      "sno": 280,
+      "name": "Allapuram",
+      "search_phrase": "Allapuram, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "allapuram",
+      "output": "servicing-areas/allapuram-catering.html"
+    },
+    {
+      "sno": 281,
+      "name": "Vasanthapuram",
+      "search_phrase": "Vasanthapuram, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "vasanthapuram",
+      "output": "servicing-areas/vasanthapuram-catering.html"
+    },
+    {
+      "sno": 282,
+      "name": "Mullai Nagar",
+      "search_phrase": "Mullai Nagar, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "mullai-nagar",
+      "output": "servicing-areas/mullai-nagar-catering.html"
+    },
+    {
+      "sno": 283,
+      "name": "Vellore Collectorate",
+      "search_phrase": "Vellore Collectorate, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "vellore-collectorate",
+      "output": "servicing-areas/vellore-collectorate-catering.html"
+    },
+    {
+      "sno": 284,
+      "name": "Thottapalayam",
+      "search_phrase": "Thottapalayam, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "thottapalayam",
+      "output": "servicing-areas/thottapalayam-catering.html"
+    },
+    {
+      "sno": 285,
+      "name": "Chinnallapuram",
+      "search_phrase": "Chinnallapuram, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "chinnallapuram",
+      "output": "servicing-areas/chinnallapuram-catering.html"
+    },
+    {
+      "sno": 286,
+      "name": "Kaspa",
+      "search_phrase": "Kaspa, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "kaspa",
+      "output": "servicing-areas/kaspa-catering.html"
+    },
+    {
+      "sno": 287,
+      "name": "Sankaranpalayam",
+      "search_phrase": "Sankaranpalayam, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "sankaranpalayam",
+      "output": "servicing-areas/sankaranpalayam-catering.html"
+    },
+    {
+      "sno": 288,
+      "name": "Konar Street",
+      "search_phrase": "Konar Street, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "konar-street",
+      "output": "servicing-areas/konar-street-catering.html"
+    },
+    {
+      "sno": 289,
+      "name": "Kosalai",
+      "search_phrase": "Kosalai, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "kosalai",
+      "output": "servicing-areas/kosalai-catering.html"
+    },
+    {
+      "sno": 290,
+      "name": "Kosapet",
+      "search_phrase": "Kosapet, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "kosapet",
+      "output": "servicing-areas/kosapet-catering.html"
+    },
+    {
+      "sno": 291,
+      "name": "Vellore North",
+      "search_phrase": "Vellore North, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "vellore-north",
+      "output": "servicing-areas/vellore-north-catering.html"
+    },
+    {
+      "sno": 292,
+      "name": "Vellore South",
+      "search_phrase": "Vellore South, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "vellore-south",
+      "output": "servicing-areas/vellore-south-catering.html"
+    },
+    {
+      "sno": 293,
+      "name": "Vellore East",
+      "search_phrase": "Vellore East, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "vellore-east",
+      "output": "servicing-areas/vellore-east-catering.html"
+    },
+    {
+      "sno": 294,
+      "name": "Vellore West",
+      "search_phrase": "Vellore West, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "vellore-west",
+      "output": "servicing-areas/vellore-west-catering.html"
+    },
+    {
+      "sno": 295,
+      "name": "Sathuvachari Phase 1",
+      "search_phrase": "Sathuvachari Phase 1, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "sathuvachari-phase-1",
+      "output": "servicing-areas/sathuvachari-phase-1-catering.html"
+    },
+    {
+      "sno": 296,
+      "name": "Sathuvachari Phase 2",
+      "search_phrase": "Sathuvachari Phase 2, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "sathuvachari-phase-2",
+      "output": "servicing-areas/sathuvachari-phase-2-catering.html"
+    },
+    {
+      "sno": 297,
+      "name": "Rangarajapuram",
+      "search_phrase": "Rangarajapuram, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "rangarajapuram",
+      "output": "servicing-areas/rangarajapuram-catering.html"
+    },
+    {
+      "sno": 298,
+      "name": "Periyar Nagar",
+      "search_phrase": "Periyar Nagar, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "periyar-nagar",
+      "output": "servicing-areas/periyar-nagar-catering.html"
+    },
+    {
+      "sno": 299,
+      "name": "Kalyanapuram",
+      "search_phrase": "Kalyanapuram, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "kalyanapuram",
+      "output": "servicing-areas/kalyanapuram-catering.html"
+    },
+    {
+      "sno": 300,
+      "name": "Gandhi Nagar Katpadi",
+      "search_phrase": "Gandhi Nagar Katpadi, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "gandhi-nagar-katpadi",
+      "output": "servicing-areas/gandhi-nagar-katpadi-catering.html"
+    },
+    {
+      "sno": 301,
+      "name": "Rajalakshmi Nagar",
+      "search_phrase": "Rajalakshmi Nagar, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "rajalakshmi-nagar",
+      "output": "servicing-areas/rajalakshmi-nagar-catering.html"
+    },
+    {
+      "sno": 302,
+      "name": "Balaji Nagar",
+      "search_phrase": "Balaji Nagar, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "balaji-nagar",
+      "output": "servicing-areas/balaji-nagar-catering.html"
+    },
+    {
+      "sno": 303,
+      "name": "Officers Line Vellore",
+      "search_phrase": "Officers Line Vellore, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "officers-line-vellore",
+      "output": "servicing-areas/officers-line-vellore-catering.html"
+    },
+    {
+      "sno": 304,
+      "name": "CMC Hospital Road",
+      "search_phrase": "CMC Hospital Road, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "cmc-hospital-road",
+      "output": "servicing-areas/cmc-hospital-road-catering.html"
+    },
+    {
+      "sno": 305,
+      "name": "Arni Road",
+      "search_phrase": "Arni Road, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "arni-road",
+      "output": "servicing-areas/arni-road-catering.html"
+    },
+    {
+      "sno": 306,
+      "name": "Chennai Road Vellore",
+      "search_phrase": "Chennai Road Vellore, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "chennai-road-vellore",
+      "output": "servicing-areas/chennai-road-vellore-catering.html"
+    },
+    {
+      "sno": 307,
+      "name": "Chittoor Road Vellore",
+      "search_phrase": "Chittoor Road Vellore, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "chittoor-road-vellore",
+      "output": "servicing-areas/chittoor-road-vellore-catering.html"
+    },
+    {
+      "sno": 308,
+      "name": "Pernambut Road",
+      "search_phrase": "Pernambut Road, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "pernambut-road",
+      "output": "servicing-areas/pernambut-road-catering.html"
+    },
+    {
+      "sno": 309,
+      "name": "Gudiyatham Road",
+      "search_phrase": "Gudiyatham Road, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "gudiyatham-road",
+      "output": "servicing-areas/gudiyatham-road-catering.html"
+    },
+    {
+      "sno": 310,
+      "name": "Anaicut Road",
+      "search_phrase": "Anaicut Road, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "anaicut-road",
+      "output": "servicing-areas/anaicut-road-catering.html"
+    },
+    {
+      "sno": 311,
+      "name": "Odugathur Road",
+      "search_phrase": "Odugathur Road, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "odugathur-road",
+      "output": "servicing-areas/odugathur-road-catering.html"
+    },
+    {
+      "sno": 312,
+      "name": "Pallikonda Road",
+      "search_phrase": "Pallikonda Road, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "pallikonda-road",
+      "output": "servicing-areas/pallikonda-road-catering.html"
+    },
+    {
+      "sno": 313,
+      "name": "Pennathur Road",
+      "search_phrase": "Pennathur Road, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "pennathur-road",
+      "output": "servicing-areas/pennathur-road-catering.html"
+    },
+    {
+      "sno": 314,
+      "name": "Kaniyambadi Road",
+      "search_phrase": "Kaniyambadi Road, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "kaniyambadi-road",
+      "output": "servicing-areas/kaniyambadi-road-catering.html"
+    },
+    {
+      "sno": 315,
+      "name": "Katpadi Main Road",
+      "search_phrase": "Katpadi Main Road, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "katpadi-main-road",
+      "output": "servicing-areas/katpadi-main-road-catering.html"
+    },
+    {
+      "sno": 316,
+      "name": "Vellore Main Road",
+      "search_phrase": "Vellore Main Road, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "vellore-main-road",
+      "output": "servicing-areas/vellore-main-road-catering.html"
+    },
+    {
+      "sno": 317,
+      "name": "Thorapadi Road",
+      "search_phrase": "Thorapadi Road, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "thorapadi-road",
+      "output": "servicing-areas/thorapadi-road-catering.html"
+    },
+    {
+      "sno": 318,
+      "name": "Bagayam Road",
+      "search_phrase": "Bagayam Road, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "bagayam-road",
+      "output": "servicing-areas/bagayam-road-catering.html"
+    },
+    {
+      "sno": 319,
+      "name": "Adukkamparai Road",
+      "search_phrase": "Adukkamparai Road, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "adukkamparai-road",
+      "output": "servicing-areas/adukkamparai-road-catering.html"
+    },
+    {
+      "sno": 320,
+      "name": "Ariyur Road",
+      "search_phrase": "Ariyur Road, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "ariyur-road",
+      "output": "servicing-areas/ariyur-road-catering.html"
+    },
+    {
+      "sno": 321,
+      "name": "Sathiyamangalam Road",
+      "search_phrase": "Sathiyamangalam Road, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "sathiyamangalam-road",
+      "output": "servicing-areas/sathiyamangalam-road-catering.html"
+    },
+    {
+      "sno": 322,
+      "name": "Saidapet Road",
+      "search_phrase": "Saidapet Road, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "saidapet-road",
+      "output": "servicing-areas/saidapet-road-catering.html"
+    },
+    {
+      "sno": 323,
+      "name": "Shenbakkam Road",
+      "search_phrase": "Shenbakkam Road, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "shenbakkam-road",
+      "output": "servicing-areas/shenbakkam-road-catering.html"
+    },
+    {
+      "sno": 324,
+      "name": "Gandhi Nagar Road",
+      "search_phrase": "Gandhi Nagar Road, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "gandhi-nagar-road",
+      "output": "servicing-areas/gandhi-nagar-road-catering.html"
+    },
+    {
+      "sno": 325,
+      "name": "VIT Campus",
+      "search_phrase": "VIT Campus, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "vit-campus",
+      "output": "servicing-areas/vit-campus-catering.html"
+    },
+    {
+      "sno": 326,
+      "name": "VIT Road",
+      "search_phrase": "VIT Road, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "vit-road",
+      "output": "servicing-areas/vit-road-catering.html"
+    },
+    {
+      "sno": 327,
+      "name": "Ruhsa Campus",
+      "search_phrase": "Ruhsa Campus, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "ruhsa-campus",
+      "output": "servicing-areas/ruhsa-campus-catering.html"
+    },
+    {
+      "sno": 328,
+      "name": "Thiruvalluvar University",
+      "search_phrase": "Thiruvalluvar University, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "thiruvalluvar-university",
+      "output": "servicing-areas/thiruvalluvar-university-catering.html"
+    },
+    {
+      "sno": 329,
+      "name": "Vellore Institute of Technology",
+      "search_phrase": "Vellore Institute of Technology, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "vellore-institute-of-technology",
+      "output": "servicing-areas/vellore-institute-of-technology-catering.html"
+    },
+    {
+      "sno": 330,
+      "name": "Christian Medical College",
+      "search_phrase": "Christian Medical College, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "christian-medical-college",
+      "output": "servicing-areas/christian-medical-college-catering.html"
+    },
+    {
+      "sno": 331,
+      "name": "CMC Golden Jubilee Road",
+      "search_phrase": "CMC Golden Jubilee Road, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "cmc-golden-jubilee-road",
+      "output": "servicing-areas/cmc-golden-jubilee-road-catering.html"
+    },
+    {
+      "sno": 332,
+      "name": "Vellore Fort Road",
+      "search_phrase": "Vellore Fort Road, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "vellore-fort-road",
+      "output": "servicing-areas/vellore-fort-road-catering.html"
+    },
+    {
+      "sno": 333,
+      "name": "Fort Market",
+      "search_phrase": "Fort Market, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "fort-market",
+      "output": "servicing-areas/fort-market-catering.html"
+    },
+    {
+      "sno": 334,
+      "name": "Bakiyath",
+      "search_phrase": "Bakiyath, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "bakiyath",
+      "output": "servicing-areas/bakiyath-catering.html"
+    },
+    {
+      "sno": 335,
+      "name": "Virupakshipuram",
+      "search_phrase": "Virupakshipuram, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "virupakshipuram",
+      "output": "servicing-areas/virupakshipuram-catering.html"
+    },
+    {
+      "sno": 336,
+      "name": "Palavansathu",
+      "search_phrase": "Palavansathu, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "palavansathu",
+      "output": "servicing-areas/palavansathu-catering.html"
+    },
+    {
+      "sno": 337,
+      "name": "Karugampattur",
+      "search_phrase": "Karugampattur, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "karugampattur",
+      "output": "servicing-areas/karugampattur-catering.html"
+    },
+    {
+      "sno": 338,
+      "name": "Gandhinagar Katpadi",
+      "search_phrase": "Gandhinagar Katpadi, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "gandhinagar-katpadi",
+      "output": "servicing-areas/gandhinagar-katpadi-catering.html"
+    },
+    {
+      "sno": 339,
+      "name": "Ariyur Katpadi",
+      "search_phrase": "Ariyur Katpadi, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "ariyur-katpadi",
+      "output": "servicing-areas/ariyur-katpadi-catering.html"
+    },
+    {
+      "sno": 340,
+      "name": "K.V. Kuppam Town",
+      "search_phrase": "K.V. Kuppam Town, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "k-v-kuppam-town",
+      "output": "servicing-areas/k-v-kuppam-town-catering.html"
+    },
+    {
+      "sno": 341,
+      "name": "Gudiyatham Town",
+      "search_phrase": "Gudiyatham Town, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "gudiyatham-town",
+      "output": "servicing-areas/gudiyatham-town-catering.html"
+    },
+    {
+      "sno": 342,
+      "name": "Pernambut Town",
+      "search_phrase": "Pernambut Town, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "pernambut-town",
+      "output": "servicing-areas/pernambut-town-catering.html"
+    },
+    {
+      "sno": 343,
+      "name": "Ambur Town",
+      "search_phrase": "Ambur Town, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "ambur-town",
+      "output": "servicing-areas/ambur-town-catering.html"
+    },
+    {
+      "sno": 344,
+      "name": "Arakonam Town",
+      "search_phrase": "Arakonam Town, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "arakonam-town",
+      "output": "servicing-areas/arakonam-town-catering.html"
+    },
+    {
+      "sno": 345,
+      "name": "Arcot Town",
+      "search_phrase": "Arcot Town, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "arcot-town",
+      "output": "servicing-areas/arcot-town-catering.html"
+    },
+    {
+      "sno": 346,
+      "name": "Ranipet Town",
+      "search_phrase": "Ranipet Town, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "ranipet-town",
+      "output": "servicing-areas/ranipet-town-catering.html"
+    },
+    {
+      "sno": 347,
+      "name": "Walajapet Town",
+      "search_phrase": "Walajapet Town, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "walajapet-town",
+      "output": "servicing-areas/walajapet-town-catering.html"
+    },
+    {
+      "sno": 348,
+      "name": "Sholinghur Town",
+      "search_phrase": "Sholinghur Town, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "sholinghur-town",
+      "output": "servicing-areas/sholinghur-town-catering.html"
+    },
+    {
+      "sno": 349,
+      "name": "Tirupathur Town",
+      "search_phrase": "Tirupathur Town, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "tirupathur-town",
+      "output": "servicing-areas/tirupathur-town-catering.html"
+    },
+    {
+      "sno": 350,
+      "name": "Vaniyambadi Town",
+      "search_phrase": "Vaniyambadi Town, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "vaniyambadi-town",
+      "output": "servicing-areas/vaniyambadi-town-catering.html"
+    },
+    {
+      "sno": 351,
+      "name": "Jolarpet Town",
+      "search_phrase": "Jolarpet Town, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "jolarpet-town",
+      "output": "servicing-areas/jolarpet-town-catering.html"
+    },
+    {
+      "sno": 352,
+      "name": "Kaveripakkam Town",
+      "search_phrase": "Kaveripakkam Town, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "kaveripakkam-town",
+      "output": "servicing-areas/kaveripakkam-town-catering.html"
+    },
+    {
+      "sno": 353,
+      "name": "Nemili Town",
+      "search_phrase": "Nemili Town, Vellore, Tamil Nadu",
+      "region": "Vellore district / Vellore region",
+      "area_type": "Locality / Village",
+      "slug": "nemili-town",
+      "output": "servicing-areas/nemili-town-catering.html"
+    },
+    {
+      "sno": 354,
+      "name": "Chittoor",
+      "search_phrase": "Chittoor, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Town / Administrative area",
+      "slug": "chittoor",
+      "output": "servicing-areas/chittoor-catering.html"
+    },
+    {
+      "sno": 355,
+      "name": "Palamaner",
+      "search_phrase": "Palamaner, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Town / Administrative area",
+      "slug": "palamaner",
+      "output": "servicing-areas/palamaner-catering.html"
+    },
+    {
+      "sno": 356,
+      "name": "Puttur",
+      "search_phrase": "Puttur, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Town / Administrative area",
+      "slug": "puttur",
+      "output": "servicing-areas/puttur-catering.html"
+    },
+    {
+      "sno": 357,
+      "name": "Gudipala",
+      "search_phrase": "Gudipala, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Town / Administrative area",
+      "slug": "gudipala",
+      "output": "servicing-areas/gudipala-catering.html"
+    },
+    {
+      "sno": 358,
+      "name": "Bangarupalem",
+      "search_phrase": "Bangarupalem, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Town / Administrative area",
+      "slug": "bangarupalem",
+      "output": "servicing-areas/bangarupalem-catering.html"
+    },
+    {
+      "sno": 359,
+      "name": "Vijayapuram",
+      "search_phrase": "Vijayapuram, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Locality / Village",
+      "slug": "vijayapuram",
+      "output": "servicing-areas/vijayapuram-catering.html"
+    },
+    {
+      "sno": 360,
+      "name": "Nagari",
+      "search_phrase": "Nagari, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Town / Administrative area",
+      "slug": "nagari",
+      "output": "servicing-areas/nagari-catering.html"
+    },
+    {
+      "sno": 361,
+      "name": "Ramapuram",
+      "search_phrase": "Ramapuram, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Locality / Village",
+      "slug": "ramapuram",
+      "output": "servicing-areas/ramapuram-catering.html"
+    },
+    {
+      "sno": 362,
+      "name": "Pallipattu",
+      "search_phrase": "Pallipattu, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Locality / Village",
+      "slug": "pallipattu",
+      "output": "servicing-areas/pallipattu-catering.html"
+    },
+    {
+      "sno": 363,
+      "name": "Tiruttani",
+      "search_phrase": "Tiruttani, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Town / Administrative area",
+      "slug": "tiruttani",
+      "output": "servicing-areas/tiruttani-catering.html"
+    },
+    {
+      "sno": 364,
+      "name": "Walajabad",
+      "search_phrase": "Walajabad, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Locality / Village",
+      "slug": "walajabad",
+      "output": "servicing-areas/walajabad-catering.html"
+    },
+    {
+      "sno": 365,
+      "name": "Kanchipuram",
+      "search_phrase": "Kanchipuram, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Town / Administrative area",
+      "slug": "kanchipuram",
+      "output": "servicing-areas/kanchipuram-catering.html"
+    },
+    {
+      "sno": 366,
+      "name": "Sriperumbudur",
+      "search_phrase": "Sriperumbudur, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Town / Administrative area",
+      "slug": "sriperumbudur",
+      "output": "servicing-areas/sriperumbudur-catering.html"
+    },
+    {
+      "sno": 367,
+      "name": "Rathinagiri",
+      "search_phrase": "Rathinagiri, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Locality / Village",
+      "slug": "rathinagiri",
+      "output": "servicing-areas/rathinagiri-catering.html"
+    },
+    {
+      "sno": 368,
+      "name": "Lalapet",
+      "search_phrase": "Lalapet, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Locality / Village",
+      "slug": "lalapet",
+      "output": "servicing-areas/lalapet-catering.html"
+    },
+    {
+      "sno": 369,
+      "name": "Timiri",
+      "search_phrase": "Timiri, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Locality / Village",
+      "slug": "timiri",
+      "output": "servicing-areas/timiri-catering.html"
+    },
+    {
+      "sno": 370,
+      "name": "Kalavai",
+      "search_phrase": "Kalavai, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Locality / Village",
+      "slug": "kalavai",
+      "output": "servicing-areas/kalavai-catering.html"
+    },
+    {
+      "sno": 371,
+      "name": "Panapakkam",
+      "search_phrase": "Panapakkam, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Locality / Village",
+      "slug": "panapakkam",
+      "output": "servicing-areas/panapakkam-catering.html"
+    },
+    {
+      "sno": 372,
+      "name": "Banavaram",
+      "search_phrase": "Banavaram, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Locality / Village",
+      "slug": "banavaram",
+      "output": "servicing-areas/banavaram-catering.html"
+    },
+    {
+      "sno": 373,
+      "name": "Thirumalpur",
+      "search_phrase": "Thirumalpur, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Locality / Village",
+      "slug": "thirumalpur",
+      "output": "servicing-areas/thirumalpur-catering.html"
+    },
+    {
+      "sno": 374,
+      "name": "Sevur",
+      "search_phrase": "Sevur, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Locality / Village",
+      "slug": "sevur",
+      "output": "servicing-areas/sevur-catering.html"
+    },
+    {
+      "sno": 375,
+      "name": "Thimiri",
+      "search_phrase": "Thimiri, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Locality / Village",
+      "slug": "thimiri",
+      "output": "servicing-areas/thimiri-catering.html"
+    },
+    {
+      "sno": 376,
+      "name": "Navalpur",
+      "search_phrase": "Navalpur, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Locality / Village",
+      "slug": "navalpur",
+      "output": "servicing-areas/navalpur-catering.html"
+    },
+    {
+      "sno": 377,
+      "name": "Sakkaramallur",
+      "search_phrase": "Sakkaramallur, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Locality / Village",
+      "slug": "sakkaramallur",
+      "output": "servicing-areas/sakkaramallur-catering.html"
+    },
+    {
+      "sno": 378,
+      "name": "Vilapakkam",
+      "search_phrase": "Vilapakkam, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Locality / Village",
+      "slug": "vilapakkam",
+      "output": "servicing-areas/vilapakkam-catering.html"
+    },
+    {
+      "sno": 379,
+      "name": "Kannamangalam",
+      "search_phrase": "Kannamangalam, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Locality / Village",
+      "slug": "kannamangalam",
+      "output": "servicing-areas/kannamangalam-catering.html"
+    },
+    {
+      "sno": 380,
+      "name": "Polur",
+      "search_phrase": "Polur, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Town / Administrative area",
+      "slug": "polur",
+      "output": "servicing-areas/polur-catering.html"
+    },
+    {
+      "sno": 381,
+      "name": "Kalambur",
+      "search_phrase": "Kalambur, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Town / Administrative area",
+      "slug": "kalambur",
+      "output": "servicing-areas/kalambur-catering.html"
+    },
+    {
+      "sno": 382,
+      "name": "Padavedu",
+      "search_phrase": "Padavedu, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Town / Administrative area",
+      "slug": "padavedu",
+      "output": "servicing-areas/padavedu-catering.html"
+    },
+    {
+      "sno": 383,
+      "name": "Vettavalam",
+      "search_phrase": "Vettavalam, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Locality / Village",
+      "slug": "vettavalam",
+      "output": "servicing-areas/vettavalam-catering.html"
+    },
+    {
+      "sno": 384,
+      "name": "Tiruvannamalai",
+      "search_phrase": "Tiruvannamalai, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Town / Administrative area",
+      "slug": "tiruvannamalai",
+      "output": "servicing-areas/tiruvannamalai-catering.html"
+    },
+    {
+      "sno": 385,
+      "name": "Chengam",
+      "search_phrase": "Chengam, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Town / Administrative area",
+      "slug": "chengam",
+      "output": "servicing-areas/chengam-catering.html"
+    },
+    {
+      "sno": 386,
+      "name": "Cheyyar",
+      "search_phrase": "Cheyyar, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Town / Administrative area",
+      "slug": "cheyyar",
+      "output": "servicing-areas/cheyyar-catering.html"
+    },
+    {
+      "sno": 387,
+      "name": "Vandavasi",
+      "search_phrase": "Vandavasi, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Town / Administrative area",
+      "slug": "vandavasi",
+      "output": "servicing-areas/vandavasi-catering.html"
+    },
+    {
+      "sno": 388,
+      "name": "Arani",
+      "search_phrase": "Arani, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Town / Administrative area",
+      "slug": "arani",
+      "output": "servicing-areas/arani-catering.html"
+    },
+    {
+      "sno": 389,
+      "name": "Chetpet",
+      "search_phrase": "Chetpet, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Town / Administrative area",
+      "slug": "chetpet",
+      "output": "servicing-areas/chetpet-catering.html"
+    },
+    {
+      "sno": 390,
+      "name": "Devikapuram",
+      "search_phrase": "Devikapuram, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Town / Administrative area",
+      "slug": "devikapuram",
+      "output": "servicing-areas/devikapuram-catering.html"
+    },
+    {
+      "sno": 391,
+      "name": "Kilpennathur",
+      "search_phrase": "Kilpennathur, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Town / Administrative area",
+      "slug": "kilpennathur",
+      "output": "servicing-areas/kilpennathur-catering.html"
+    },
+    {
+      "sno": 392,
+      "name": "Thandarampattu",
+      "search_phrase": "Thandarampattu, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Locality / Village",
+      "slug": "thandarampattu",
+      "output": "servicing-areas/thandarampattu-catering.html"
+    },
+    {
+      "sno": 393,
+      "name": "Polur Road",
+      "search_phrase": "Polur Road, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "polur-road",
+      "output": "servicing-areas/polur-road-catering.html"
+    },
+    {
+      "sno": 394,
+      "name": "Arani Road",
+      "search_phrase": "Arani Road, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "arani-road",
+      "output": "servicing-areas/arani-road-catering.html"
+    },
+    {
+      "sno": 395,
+      "name": "Chengam Road",
+      "search_phrase": "Chengam Road, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "chengam-road",
+      "output": "servicing-areas/chengam-road-catering.html"
+    },
+    {
+      "sno": 396,
+      "name": "Palamaner Road",
+      "search_phrase": "Palamaner Road, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "palamaner-road",
+      "output": "servicing-areas/palamaner-road-catering.html"
+    },
+    {
+      "sno": 397,
+      "name": "Ambur Road",
+      "search_phrase": "Ambur Road, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "ambur-road",
+      "output": "servicing-areas/ambur-road-catering.html"
+    },
+    {
+      "sno": 398,
+      "name": "Vaniyambadi Road",
+      "search_phrase": "Vaniyambadi Road, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "vaniyambadi-road",
+      "output": "servicing-areas/vaniyambadi-road-catering.html"
+    },
+    {
+      "sno": 399,
+      "name": "Tirupattur Road",
+      "search_phrase": "Tirupattur Road, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "tirupattur-road",
+      "output": "servicing-areas/tirupattur-road-catering.html"
+    },
+    {
+      "sno": 400,
+      "name": "Chennai Road",
+      "search_phrase": "Chennai Road, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "chennai-road",
+      "output": "servicing-areas/chennai-road-catering.html"
+    },
+    {
+      "sno": 401,
+      "name": "Ranipet Road",
+      "search_phrase": "Ranipet Road, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "ranipet-road",
+      "output": "servicing-areas/ranipet-road-catering.html"
+    },
+    {
+      "sno": 402,
+      "name": "Arcot Road",
+      "search_phrase": "Arcot Road, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "arcot-road",
+      "output": "servicing-areas/arcot-road-catering.html"
+    },
+    {
+      "sno": 403,
+      "name": "Arakkonam Road",
+      "search_phrase": "Arakkonam Road, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "arakkonam-road",
+      "output": "servicing-areas/arakkonam-road-catering.html"
+    },
+    {
+      "sno": 404,
+      "name": "Madhanur Road",
+      "search_phrase": "Madhanur Road, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "madhanur-road",
+      "output": "servicing-areas/madhanur-road-catering.html"
+    },
+    {
+      "sno": 405,
+      "name": "Jolarpet Road",
+      "search_phrase": "Jolarpet Road, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "jolarpet-road",
+      "output": "servicing-areas/jolarpet-road-catering.html"
+    },
+    {
+      "sno": 406,
+      "name": "Gudiyatham Bazaar",
+      "search_phrase": "Gudiyatham Bazaar, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "gudiyatham-bazaar",
+      "output": "servicing-areas/gudiyatham-bazaar-catering.html"
+    },
+    {
+      "sno": 407,
+      "name": "Ambur Bazaar",
+      "search_phrase": "Ambur Bazaar, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "ambur-bazaar",
+      "output": "servicing-areas/ambur-bazaar-catering.html"
+    },
+    {
+      "sno": 408,
+      "name": "Vaniyambadi Bazaar",
+      "search_phrase": "Vaniyambadi Bazaar, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "vaniyambadi-bazaar",
+      "output": "servicing-areas/vaniyambadi-bazaar-catering.html"
+    },
+    {
+      "sno": 409,
+      "name": "Tirupattur Bazaar",
+      "search_phrase": "Tirupattur Bazaar, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "tirupattur-bazaar",
+      "output": "servicing-areas/tirupattur-bazaar-catering.html"
+    },
+    {
+      "sno": 410,
+      "name": "Ranipet Bazaar",
+      "search_phrase": "Ranipet Bazaar, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "ranipet-bazaar",
+      "output": "servicing-areas/ranipet-bazaar-catering.html"
+    },
+    {
+      "sno": 411,
+      "name": "Arcot Bazaar",
+      "search_phrase": "Arcot Bazaar, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "arcot-bazaar",
+      "output": "servicing-areas/arcot-bazaar-catering.html"
+    },
+    {
+      "sno": 412,
+      "name": "Walajapet Bazaar",
+      "search_phrase": "Walajapet Bazaar, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "walajapet-bazaar",
+      "output": "servicing-areas/walajapet-bazaar-catering.html"
+    },
+    {
+      "sno": 413,
+      "name": "Sholinghur Bazaar",
+      "search_phrase": "Sholinghur Bazaar, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "sholinghur-bazaar",
+      "output": "servicing-areas/sholinghur-bazaar-catering.html"
+    },
+    {
+      "sno": 414,
+      "name": "Arakkonam Bazaar",
+      "search_phrase": "Arakkonam Bazaar, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "arakkonam-bazaar",
+      "output": "servicing-areas/arakkonam-bazaar-catering.html"
+    },
+    {
+      "sno": 415,
+      "name": "Kaveripakkam Bazaar",
+      "search_phrase": "Kaveripakkam Bazaar, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "kaveripakkam-bazaar",
+      "output": "servicing-areas/kaveripakkam-bazaar-catering.html"
+    },
+    {
+      "sno": 416,
+      "name": "Nemili Bazaar",
+      "search_phrase": "Nemili Bazaar, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "nemili-bazaar",
+      "output": "servicing-areas/nemili-bazaar-catering.html"
+    },
+    {
+      "sno": 417,
+      "name": "Pernambut Bazaar",
+      "search_phrase": "Pernambut Bazaar, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "pernambut-bazaar",
+      "output": "servicing-areas/pernambut-bazaar-catering.html"
+    },
+    {
+      "sno": 418,
+      "name": "KV Kuppam Bazaar",
+      "search_phrase": "KV Kuppam Bazaar, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "kv-kuppam-bazaar",
+      "output": "servicing-areas/kv-kuppam-bazaar-catering.html"
+    },
+    {
+      "sno": 419,
+      "name": "Pallikonda Bazaar",
+      "search_phrase": "Pallikonda Bazaar, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "pallikonda-bazaar",
+      "output": "servicing-areas/pallikonda-bazaar-catering.html"
+    },
+    {
+      "sno": 420,
+      "name": "Katpadi Bazaar",
+      "search_phrase": "Katpadi Bazaar, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "katpadi-bazaar",
+      "output": "servicing-areas/katpadi-bazaar-catering.html"
+    },
+    {
+      "sno": 421,
+      "name": "Thiruvalam Bazaar",
+      "search_phrase": "Thiruvalam Bazaar, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "thiruvalam-bazaar",
+      "output": "servicing-areas/thiruvalam-bazaar-catering.html"
+    },
+    {
+      "sno": 422,
+      "name": "Ponnai Bazaar",
+      "search_phrase": "Ponnai Bazaar, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "ponnai-bazaar",
+      "output": "servicing-areas/ponnai-bazaar-catering.html"
+    },
+    {
+      "sno": 423,
+      "name": "Anaicut Bazaar",
+      "search_phrase": "Anaicut Bazaar, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "anaicut-bazaar",
+      "output": "servicing-areas/anaicut-bazaar-catering.html"
+    },
+    {
+      "sno": 424,
+      "name": "Odugathur Bazaar",
+      "search_phrase": "Odugathur Bazaar, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "odugathur-bazaar",
+      "output": "servicing-areas/odugathur-bazaar-catering.html"
+    },
+    {
+      "sno": 425,
+      "name": "Pennathur Bazaar",
+      "search_phrase": "Pennathur Bazaar, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "pennathur-bazaar",
+      "output": "servicing-areas/pennathur-bazaar-catering.html"
+    },
+    {
+      "sno": 426,
+      "name": "Anaikattu Bazaar",
+      "search_phrase": "Anaikattu Bazaar, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "anaikattu-bazaar",
+      "output": "servicing-areas/anaikattu-bazaar-catering.html"
+    },
+    {
+      "sno": 427,
+      "name": "Kaniyambadi Bazaar",
+      "search_phrase": "Kaniyambadi Bazaar, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "kaniyambadi-bazaar",
+      "output": "servicing-areas/kaniyambadi-bazaar-catering.html"
+    },
+    {
+      "sno": 428,
+      "name": "Adukkamparai Junction",
+      "search_phrase": "Adukkamparai Junction, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "adukkamparai-junction",
+      "output": "servicing-areas/adukkamparai-junction-catering.html"
+    },
+    {
+      "sno": 429,
+      "name": "Ariyur Junction",
+      "search_phrase": "Ariyur Junction, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "ariyur-junction",
+      "output": "servicing-areas/ariyur-junction-catering.html"
+    },
+    {
+      "sno": 430,
+      "name": "Pallikonda Junction",
+      "search_phrase": "Pallikonda Junction, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "pallikonda-junction",
+      "output": "servicing-areas/pallikonda-junction-catering.html"
+    },
+    {
+      "sno": 431,
+      "name": "Pennathur Junction",
+      "search_phrase": "Pennathur Junction, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "pennathur-junction",
+      "output": "servicing-areas/pennathur-junction-catering.html"
+    },
+    {
+      "sno": 432,
+      "name": "Thiruvalam Junction",
+      "search_phrase": "Thiruvalam Junction, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "thiruvalam-junction",
+      "output": "servicing-areas/thiruvalam-junction-catering.html"
+    },
+    {
+      "sno": 433,
+      "name": "Ponnai Junction",
+      "search_phrase": "Ponnai Junction, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "ponnai-junction",
+      "output": "servicing-areas/ponnai-junction-catering.html"
+    },
+    {
+      "sno": 434,
+      "name": "Madhanur Junction",
+      "search_phrase": "Madhanur Junction, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "madhanur-junction",
+      "output": "servicing-areas/madhanur-junction-catering.html"
+    },
+    {
+      "sno": 435,
+      "name": "Ambur Junction",
+      "search_phrase": "Ambur Junction, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "ambur-junction",
+      "output": "servicing-areas/ambur-junction-catering.html"
+    },
+    {
+      "sno": 436,
+      "name": "Vaniyambadi Junction",
+      "search_phrase": "Vaniyambadi Junction, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "vaniyambadi-junction",
+      "output": "servicing-areas/vaniyambadi-junction-catering.html"
+    },
+    {
+      "sno": 437,
+      "name": "Jolarpet Junction",
+      "search_phrase": "Jolarpet Junction, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "jolarpet-junction",
+      "output": "servicing-areas/jolarpet-junction-catering.html"
+    },
+    {
+      "sno": 438,
+      "name": "Tirupattur Junction",
+      "search_phrase": "Tirupattur Junction, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "tirupattur-junction",
+      "output": "servicing-areas/tirupattur-junction-catering.html"
+    },
+    {
+      "sno": 439,
+      "name": "Ranipet Junction",
+      "search_phrase": "Ranipet Junction, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "ranipet-junction",
+      "output": "servicing-areas/ranipet-junction-catering.html"
+    },
+    {
+      "sno": 440,
+      "name": "Walajapet Junction",
+      "search_phrase": "Walajapet Junction, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "walajapet-junction",
+      "output": "servicing-areas/walajapet-junction-catering.html"
+    },
+    {
+      "sno": 441,
+      "name": "Arcot Junction",
+      "search_phrase": "Arcot Junction, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "arcot-junction",
+      "output": "servicing-areas/arcot-junction-catering.html"
+    },
+    {
+      "sno": 442,
+      "name": "Arakkonam Junction",
+      "search_phrase": "Arakkonam Junction, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "arakkonam-junction",
+      "output": "servicing-areas/arakkonam-junction-catering.html"
+    },
+    {
+      "sno": 443,
+      "name": "Kaveripakkam Junction",
+      "search_phrase": "Kaveripakkam Junction, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "kaveripakkam-junction",
+      "output": "servicing-areas/kaveripakkam-junction-catering.html"
+    },
+    {
+      "sno": 444,
+      "name": "Sholinghur Junction",
+      "search_phrase": "Sholinghur Junction, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "sholinghur-junction",
+      "output": "servicing-areas/sholinghur-junction-catering.html"
+    },
+    {
+      "sno": 445,
+      "name": "Nemili Junction",
+      "search_phrase": "Nemili Junction, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "nemili-junction",
+      "output": "servicing-areas/nemili-junction-catering.html"
+    },
+    {
+      "sno": 446,
+      "name": "Gudiyatham Junction",
+      "search_phrase": "Gudiyatham Junction, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "gudiyatham-junction",
+      "output": "servicing-areas/gudiyatham-junction-catering.html"
+    },
+    {
+      "sno": 447,
+      "name": "Pernambut Junction",
+      "search_phrase": "Pernambut Junction, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "pernambut-junction",
+      "output": "servicing-areas/pernambut-junction-catering.html"
+    },
+    {
+      "sno": 448,
+      "name": "KV Kuppam Junction",
+      "search_phrase": "KV Kuppam Junction, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "kv-kuppam-junction",
+      "output": "servicing-areas/kv-kuppam-junction-catering.html"
+    },
+    {
+      "sno": 449,
+      "name": "Anaicut Junction",
+      "search_phrase": "Anaicut Junction, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "anaicut-junction",
+      "output": "servicing-areas/anaicut-junction-catering.html"
+    },
+    {
+      "sno": 450,
+      "name": "Odugathur Junction",
+      "search_phrase": "Odugathur Junction, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "odugathur-junction",
+      "output": "servicing-areas/odugathur-junction-catering.html"
+    },
+    {
+      "sno": 451,
+      "name": "Kaniyambadi Junction",
+      "search_phrase": "Kaniyambadi Junction, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "kaniyambadi-junction",
+      "output": "servicing-areas/kaniyambadi-junction-catering.html"
+    },
+    {
+      "sno": 452,
+      "name": "Sathuvachari Junction",
+      "search_phrase": "Sathuvachari Junction, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "sathuvachari-junction",
+      "output": "servicing-areas/sathuvachari-junction-catering.html"
+    },
+    {
+      "sno": 453,
+      "name": "Bagayam Junction",
+      "search_phrase": "Bagayam Junction, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "bagayam-junction",
+      "output": "servicing-areas/bagayam-junction-catering.html"
+    },
+    {
+      "sno": 454,
+      "name": "Vellore Fort Junction",
+      "search_phrase": "Vellore Fort Junction, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "vellore-fort-junction",
+      "output": "servicing-areas/vellore-fort-junction-catering.html"
+    },
+    {
+      "sno": 455,
+      "name": "Green Circle Vellore",
+      "search_phrase": "Green Circle Vellore, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "green-circle-vellore",
+      "output": "servicing-areas/green-circle-vellore-catering.html"
+    },
+    {
+      "sno": 456,
+      "name": "Old Bus Stand Vellore",
+      "search_phrase": "Old Bus Stand Vellore, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "old-bus-stand-vellore",
+      "output": "servicing-areas/old-bus-stand-vellore-catering.html"
+    },
+    {
+      "sno": 457,
+      "name": "New Bus Stand Vellore",
+      "search_phrase": "New Bus Stand Vellore, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "new-bus-stand-vellore",
+      "output": "servicing-areas/new-bus-stand-vellore-catering.html"
+    },
+    {
+      "sno": 458,
+      "name": "Katpadi CMC Road",
+      "search_phrase": "Katpadi CMC Road, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "katpadi-cmc-road",
+      "output": "servicing-areas/katpadi-cmc-road-catering.html"
+    },
+    {
+      "sno": 459,
+      "name": "Thorapadi CMC Road",
+      "search_phrase": "Thorapadi CMC Road, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "thorapadi-cmc-road",
+      "output": "servicing-areas/thorapadi-cmc-road-catering.html"
+    },
+    {
+      "sno": 460,
+      "name": "Sathuvachari Bus Stop",
+      "search_phrase": "Sathuvachari Bus Stop, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Locality / Village",
+      "slug": "sathuvachari-bus-stop",
+      "output": "servicing-areas/sathuvachari-bus-stop-catering.html"
+    },
+    {
+      "sno": 461,
+      "name": "Katpadi Bus Stand",
+      "search_phrase": "Katpadi Bus Stand, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "katpadi-bus-stand",
+      "output": "servicing-areas/katpadi-bus-stand-catering.html"
+    },
+    {
+      "sno": 462,
+      "name": "Gudiyatham Bus Stand",
+      "search_phrase": "Gudiyatham Bus Stand, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "gudiyatham-bus-stand",
+      "output": "servicing-areas/gudiyatham-bus-stand-catering.html"
+    },
+    {
+      "sno": 463,
+      "name": "Ambur Bus Stand",
+      "search_phrase": "Ambur Bus Stand, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "ambur-bus-stand",
+      "output": "servicing-areas/ambur-bus-stand-catering.html"
+    },
+    {
+      "sno": 464,
+      "name": "Vaniyambadi Bus Stand",
+      "search_phrase": "Vaniyambadi Bus Stand, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "vaniyambadi-bus-stand",
+      "output": "servicing-areas/vaniyambadi-bus-stand-catering.html"
+    },
+    {
+      "sno": 465,
+      "name": "Tirupattur Bus Stand",
+      "search_phrase": "Tirupattur Bus Stand, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "tirupattur-bus-stand",
+      "output": "servicing-areas/tirupattur-bus-stand-catering.html"
+    },
+    {
+      "sno": 466,
+      "name": "Ranipet Bus Stand",
+      "search_phrase": "Ranipet Bus Stand, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "ranipet-bus-stand",
+      "output": "servicing-areas/ranipet-bus-stand-catering.html"
+    },
+    {
+      "sno": 467,
+      "name": "Arcot Bus Stand",
+      "search_phrase": "Arcot Bus Stand, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "arcot-bus-stand",
+      "output": "servicing-areas/arcot-bus-stand-catering.html"
+    },
+    {
+      "sno": 468,
+      "name": "Walajapet Bus Stand",
+      "search_phrase": "Walajapet Bus Stand, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "walajapet-bus-stand",
+      "output": "servicing-areas/walajapet-bus-stand-catering.html"
+    },
+    {
+      "sno": 469,
+      "name": "Arakkonam Bus Stand",
+      "search_phrase": "Arakkonam Bus Stand, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "arakkonam-bus-stand",
+      "output": "servicing-areas/arakkonam-bus-stand-catering.html"
+    },
+    {
+      "sno": 470,
+      "name": "Sholinghur Bus Stand",
+      "search_phrase": "Sholinghur Bus Stand, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "sholinghur-bus-stand",
+      "output": "servicing-areas/sholinghur-bus-stand-catering.html"
+    },
+    {
+      "sno": 471,
+      "name": "Pernambut Bus Stand",
+      "search_phrase": "Pernambut Bus Stand, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "pernambut-bus-stand",
+      "output": "servicing-areas/pernambut-bus-stand-catering.html"
+    },
+    {
+      "sno": 472,
+      "name": "KV Kuppam Bus Stand",
+      "search_phrase": "KV Kuppam Bus Stand, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "kv-kuppam-bus-stand",
+      "output": "servicing-areas/kv-kuppam-bus-stand-catering.html"
+    },
+    {
+      "sno": 473,
+      "name": "Pallikonda Bus Stand",
+      "search_phrase": "Pallikonda Bus Stand, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "pallikonda-bus-stand",
+      "output": "servicing-areas/pallikonda-bus-stand-catering.html"
+    },
+    {
+      "sno": 474,
+      "name": "Pennathur Bus Stand",
+      "search_phrase": "Pennathur Bus Stand, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "pennathur-bus-stand",
+      "output": "servicing-areas/pennathur-bus-stand-catering.html"
+    },
+    {
+      "sno": 475,
+      "name": "Odugathur Bus Stand",
+      "search_phrase": "Odugathur Bus Stand, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "odugathur-bus-stand",
+      "output": "servicing-areas/odugathur-bus-stand-catering.html"
+    },
+    {
+      "sno": 476,
+      "name": "Thiruvalam Bus Stand",
+      "search_phrase": "Thiruvalam Bus Stand, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "thiruvalam-bus-stand",
+      "output": "servicing-areas/thiruvalam-bus-stand-catering.html"
+    },
+    {
+      "sno": 477,
+      "name": "Ponnai Bus Stand",
+      "search_phrase": "Ponnai Bus Stand, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "ponnai-bus-stand",
+      "output": "servicing-areas/ponnai-bus-stand-catering.html"
+    },
+    {
+      "sno": 478,
+      "name": "Nemili Bus Stand",
+      "search_phrase": "Nemili Bus Stand, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "nemili-bus-stand",
+      "output": "servicing-areas/nemili-bus-stand-catering.html"
+    },
+    {
+      "sno": 479,
+      "name": "Kaveripakkam Bus Stand",
+      "search_phrase": "Kaveripakkam Bus Stand, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "kaveripakkam-bus-stand",
+      "output": "servicing-areas/kaveripakkam-bus-stand-catering.html"
+    },
+    {
+      "sno": 480,
+      "name": "Jolarpet Bus Stand",
+      "search_phrase": "Jolarpet Bus Stand, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "jolarpet-bus-stand",
+      "output": "servicing-areas/jolarpet-bus-stand-catering.html"
+    },
+    {
+      "sno": 481,
+      "name": "Madhanur Bus Stand",
+      "search_phrase": "Madhanur Bus Stand, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Road / Junction / Landmark",
+      "slug": "madhanur-bus-stand",
+      "output": "servicing-areas/madhanur-bus-stand-catering.html"
+    },
+    {
+      "sno": 482,
+      "name": "Rathnagiri",
+      "search_phrase": "Rathnagiri, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Locality / Village",
+      "slug": "rathnagiri",
+      "output": "servicing-areas/rathnagiri-catering.html"
+    },
+    {
+      "sno": 483,
+      "name": "Kailasagiri",
+      "search_phrase": "Kailasagiri, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Locality / Village",
+      "slug": "kailasagiri",
+      "output": "servicing-areas/kailasagiri-catering.html"
+    },
+    {
+      "sno": 484,
+      "name": "Vellore R.F.",
+      "search_phrase": "Vellore R.F., Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Forest / Census locality",
+      "slug": "vellore-r-f",
+      "output": "servicing-areas/vellore-r-f-catering.html"
+    },
+    {
+      "sno": 485,
+      "name": "Arasampattu R.F.",
+      "search_phrase": "Arasampattu R.F., Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Forest / Census locality",
+      "slug": "arasampattu-r-f",
+      "output": "servicing-areas/arasampattu-r-f-catering.html"
+    },
+    {
+      "sno": 486,
+      "name": "Karuthamalai R.F.",
+      "search_phrase": "Karuthamalai R.F., Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Forest / Census locality",
+      "slug": "karuthamalai-r-f",
+      "output": "servicing-areas/karuthamalai-r-f-catering.html"
+    },
+    {
+      "sno": 487,
+      "name": "Palamadai R.F.",
+      "search_phrase": "Palamadai R.F., Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Forest / Census locality",
+      "slug": "palamadai-r-f",
+      "output": "servicing-areas/palamadai-r-f-catering.html"
+    },
+    {
+      "sno": 488,
+      "name": "Puthur R.F.",
+      "search_phrase": "Puthur R.F., Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Forest / Census locality",
+      "slug": "puthur-r-f",
+      "output": "servicing-areas/puthur-r-f-catering.html"
+    },
+    {
+      "sno": 489,
+      "name": "Paravamalai R.F.",
+      "search_phrase": "Paravamalai R.F., Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Forest / Census locality",
+      "slug": "paravamalai-r-f",
+      "output": "servicing-areas/paravamalai-r-f-catering.html"
+    },
+    {
+      "sno": 490,
+      "name": "Pallikonda R.F.",
+      "search_phrase": "Pallikonda R.F., Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Forest / Census locality",
+      "slug": "pallikonda-r-f",
+      "output": "servicing-areas/pallikonda-r-f-catering.html"
+    },
+    {
+      "sno": 491,
+      "name": "Nallimalai R.F.",
+      "search_phrase": "Nallimalai R.F., Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Forest / Census locality",
+      "slug": "nallimalai-r-f",
+      "output": "servicing-areas/nallimalai-r-f-catering.html"
+    },
+    {
+      "sno": 492,
+      "name": "Athiyur R.F.",
+      "search_phrase": "Athiyur R.F., Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Forest / Census locality",
+      "slug": "athiyur-r-f",
+      "output": "servicing-areas/athiyur-r-f-catering.html"
+    },
+    {
+      "sno": 493,
+      "name": "Appukal R.F.",
+      "search_phrase": "Appukal R.F., Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Forest / Census locality",
+      "slug": "appukal-r-f",
+      "output": "servicing-areas/appukal-r-f-catering.html"
+    },
+    {
+      "sno": 494,
+      "name": "Kaniyambadi R.F.",
+      "search_phrase": "Kaniyambadi R.F., Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Forest / Census locality",
+      "slug": "kaniyambadi-r-f",
+      "output": "servicing-areas/kaniyambadi-r-f-catering.html"
+    },
+    {
+      "sno": 495,
+      "name": "Thellai R.F.",
+      "search_phrase": "Thellai R.F., Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Forest / Census locality",
+      "slug": "thellai-r-f",
+      "output": "servicing-areas/thellai-r-f-catering.html"
+    },
+    {
+      "sno": 496,
+      "name": "Ammundi R.F.",
+      "search_phrase": "Ammundi R.F., Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Forest / Census locality",
+      "slug": "ammundi-r-f",
+      "output": "servicing-areas/ammundi-r-f-catering.html"
+    },
+    {
+      "sno": 497,
+      "name": "Bomminayakkanpalayam R.F.",
+      "search_phrase": "Bomminayakkanpalayam R.F., Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Forest / Census locality",
+      "slug": "bomminayakkanpalayam-r-f",
+      "output": "servicing-areas/bomminayakkanpalayam-r-f-catering.html"
+    },
+    {
+      "sno": 498,
+      "name": "Chenji R.F.",
+      "search_phrase": "Chenji R.F., Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Forest / Census locality",
+      "slug": "chenji-r-f",
+      "output": "servicing-areas/chenji-r-f-catering.html"
+    },
+    {
+      "sno": 499,
+      "name": "Pallalakuppam R.F.",
+      "search_phrase": "Pallalakuppam R.F., Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Forest / Census locality",
+      "slug": "pallalakuppam-r-f",
+      "output": "servicing-areas/pallalakuppam-r-f-catering.html"
+    },
+    {
+      "sno": 500,
+      "name": "Karapattu R.F.",
+      "search_phrase": "Karapattu R.F., Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Forest / Census locality",
+      "slug": "karapattu-r-f",
+      "output": "servicing-areas/karapattu-r-f-catering.html"
+    },
+    {
+      "sno": 501,
+      "name": "Veerasettipalli R.F.",
+      "search_phrase": "Veerasettipalli R.F., Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Forest / Census locality",
+      "slug": "veerasettipalli-r-f",
+      "output": "servicing-areas/veerasettipalli-r-f-catering.html"
+    },
+    {
+      "sno": 502,
+      "name": "Arasampattu",
+      "search_phrase": "Arasampattu, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Locality / Village",
+      "slug": "arasampattu",
+      "output": "servicing-areas/arasampattu-catering.html"
+    },
+    {
+      "sno": 503,
+      "name": "Karuthamalai",
+      "search_phrase": "Karuthamalai, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Locality / Village",
+      "slug": "karuthamalai",
+      "output": "servicing-areas/karuthamalai-catering.html"
+    },
+    {
+      "sno": 504,
+      "name": "Palamadai",
+      "search_phrase": "Palamadai, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Locality / Village",
+      "slug": "palamadai",
+      "output": "servicing-areas/palamadai-catering.html"
+    },
+    {
+      "sno": 505,
+      "name": "Puthur",
+      "search_phrase": "Puthur, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Locality / Village",
+      "slug": "puthur",
+      "output": "servicing-areas/puthur-catering.html"
+    },
+    {
+      "sno": 506,
+      "name": "Paravamalai",
+      "search_phrase": "Paravamalai, Vellore, Tamil Nadu",
+      "region": "Vellore & nearby",
+      "area_type": "Locality / Village",
+      "slug": "paravamalai",
+      "output": "servicing-areas/paravamalai-catering.html"
+    }
+  ]
+}

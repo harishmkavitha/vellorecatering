@@ -1,0 +1,964 @@
+{
+ "_version": "V1",
+ "_about": "Curated free-licence media for Vellore Catering World. Every item is from Pexels (https://www.pexels.com/license/): free for commercial use, no attribution required, may be modified. Do not imply that people shown endorse the business or are its customers/staff. Edit this file, then run: python tools/stock_media.py apply",
+ "photo_url": "https://images.pexels.com/photos/{id}/pexels-photo-{id}.{ext}?auto=compress&cs=tinysrgb&fit=crop&w={w}&h={h}{extra}",
+ "photos": [
+  {
+   "key": "sadya-kerala",
+   "pexels_id": 5410418,
+   "ext": "jpeg",
+   "page": "https://www.pexels.com/photo/sadya-dish-on-banana-leaf-5410418/",
+   "alt": "Kerala-style sadya feast served on a banana leaf",
+   "tags": [
+    "feast",
+    "veg",
+    "kerala",
+    "festival",
+    "wedding",
+    "traditional"
+   ],
+   "people": false
+  },
+  {
+   "key": "feast-sweets",
+   "pexels_id": 9266190,
+   "ext": "jpeg",
+   "page": "https://www.pexels.com/photo/assorted-food-on-a-banana-leaf-9266190/",
+   "alt": "South Indian vegetarian meal with many dishes and sweets on a banana leaf",
+   "tags": [
+    "feast",
+    "veg",
+    "wedding",
+    "festival",
+    "traditional"
+   ],
+   "people": false
+  },
+  {
+   "key": "feast-elaborate",
+   "pexels_id": 14132112,
+   "ext": "jpeg",
+   "page": "https://www.pexels.com/photo/close-up-shot-of-a-delicious-cuisine-14132112/",
+   "alt": "Elaborate South Indian meal arranged on a banana leaf",
+   "tags": [
+    "feast",
+    "veg",
+    "wedding",
+    "traditional",
+    "solemn"
+   ],
+   "people": false
+  },
+  {
+   "key": "meal-rice-curry",
+   "pexels_id": 10078274,
+   "ext": "jpeg",
+   "page": "https://www.pexels.com/photo/traditional-food-on-a-table-10078274/",
+   "alt": "Traditional South Indian meal with rice, curry and snacks",
+   "tags": [
+    "feast",
+    "everyday",
+    "institutional",
+    "solemn"
+   ],
+   "people": false
+  },
+  {
+   "key": "leaf-dosa-coffee",
+   "pexels_id": 14831547,
+   "ext": "jpeg",
+   "page": "https://www.pexels.com/photo/abundance-of-food-on-leaf-14831547/",
+   "alt": "Dosa, curry, bananas and coffee served on a banana leaf",
+   "tags": [
+    "tiffin",
+    "breakfast",
+    "coffee",
+    "everyday"
+   ],
+   "people": false
+  },
+  {
+   "key": "kerala-fish-meal",
+   "pexels_id": 13243817,
+   "ext": "jpeg",
+   "page": "https://www.pexels.com/photo/tray-with-rice-and-bowls-of-sauces-13243817/",
+   "alt": "Kerala rice meal with curries and fried fish on a banana leaf",
+   "tags": [
+    "feast",
+    "nonveg",
+    "kerala"
+   ],
+   "people": false
+  },
+  {
+   "key": "tiffin-spread",
+   "pexels_id": 35539315,
+   "ext": "jpeg",
+   "page": "https://www.pexels.com/photo/traditional-south-indian-breakfast-spread-35539315/",
+   "alt": "South Indian tiffin spread of dosa, idli, chutneys and sambar on banana leaves",
+   "tags": [
+    "tiffin",
+    "breakfast",
+    "veg",
+    "traditional",
+    "hero"
+   ],
+   "people": false
+  },
+  {
+   "key": "breakfast-tea",
+   "pexels_id": 12392923,
+   "ext": "jpeg",
+   "page": "https://www.pexels.com/photo/food-on-a-table-12392923/",
+   "alt": "South Indian breakfast served on a banana leaf with tea",
+   "tags": [
+    "tiffin",
+    "breakfast",
+    "veg",
+    "coffee",
+    "hightea"
+   ],
+   "people": false
+  },
+  {
+   "key": "idli-sambar",
+   "pexels_id": 31199041,
+   "ext": "jpeg",
+   "page": "https://www.pexels.com/photo/traditional-south-indian-idli-with-sambar-and-chutney-31199041/",
+   "alt": "Idli with sambar and coconut chutney on banana leaves",
+   "tags": [
+    "tiffin",
+    "breakfast",
+    "veg",
+    "healthy",
+    "solemn"
+   ],
+   "people": false
+  },
+  {
+   "key": "idli-chutneys",
+   "pexels_id": 36854501,
+   "ext": "jpeg",
+   "page": "https://www.pexels.com/photo/south-indian-breakfast-with-idli-and-chutneys-36854501/",
+   "alt": "Idli served with an assortment of chutneys and sambar",
+   "tags": [
+    "tiffin",
+    "breakfast",
+    "veg",
+    "healthy",
+    "solemn"
+   ],
+   "people": false
+  },
+  {
+   "key": "dosa-banana-leaf",
+   "pexels_id": 5560763,
+   "ext": "jpeg",
+   "page": "https://www.pexels.com/photo/a-pair-of-tosei-on-a-wooden-tray-with-banana-leaf-5560763/",
+   "alt": "Dosa with chutneys and sambar on banana leaves",
+   "tags": [
+    "tiffin",
+    "veg",
+    "livecounter",
+    "solemn"
+   ],
+   "people": false
+  },
+  {
+   "key": "dosa-rustic",
+   "pexels_id": 39051060,
+   "ext": "jpeg",
+   "page": "https://www.pexels.com/photo/traditional-indian-dosa-with-chutney-and-sambar-39051060/",
+   "alt": "Crispy dosa with chutney and sambar",
+   "tags": [
+    "tiffin",
+    "veg",
+    "livecounter"
+   ],
+   "people": false
+  },
+  {
+   "key": "masala-dosa-mysuru",
+   "pexels_id": 32229637,
+   "ext": "png",
+   "page": "https://www.pexels.com/photo/traditional-south-indian-masala-dosa-on-banana-leaf-32229637/",
+   "alt": "Masala dosa with coconut chutney on a banana leaf",
+   "tags": [
+    "tiffin",
+    "veg",
+    "livecounter",
+    "healthy"
+   ],
+   "people": false
+  },
+  {
+   "key": "masala-dosa-chutneys",
+   "pexels_id": 38201890,
+   "ext": "png",
+   "page": "https://www.pexels.com/photo/crispy-masala-dosa-with-chutneys-in-bengaluru-38201890/",
+   "alt": "Masala dosa with spicy chutneys on a banana leaf",
+   "tags": [
+    "tiffin",
+    "veg",
+    "livecounter"
+   ],
+   "people": false
+  },
+  {
+   "key": "uttapam-leaf",
+   "pexels_id": 38229508,
+   "ext": "jpeg",
+   "page": "https://www.pexels.com/photo/delicious-south-indian-pancakes-on-banana-leaf-38229508/",
+   "alt": "South Indian pancakes served on a fresh banana leaf",
+   "tags": [
+    "tiffin",
+    "veg",
+    "breakfast",
+    "healthy",
+    "solemn"
+   ],
+   "people": false
+  },
+  {
+   "key": "vada-leaf",
+   "pexels_id": 38201889,
+   "ext": "png",
+   "page": "https://www.pexels.com/photo/traditional-indian-breakfast-on-banana-leaf-38201889/",
+   "alt": "Crispy medu vadai with chutneys and sambar on a banana leaf",
+   "tags": [
+    "tiffin",
+    "veg",
+    "snacks",
+    "traditional"
+   ],
+   "people": false
+  },
+  {
+   "key": "vada-dark",
+   "pexels_id": 20422135,
+   "ext": "jpeg",
+   "page": "https://www.pexels.com/photo/meal-on-plate-and-sauces-20422135/",
+   "alt": "Medu vadai with chutneys on a dark background",
+   "tags": [
+    "tiffin",
+    "veg",
+    "snacks"
+   ],
+   "people": false
+  },
+  {
+   "key": "vada-sambar-dark",
+   "pexels_id": 20422132,
+   "ext": "jpeg",
+   "page": "https://www.pexels.com/photo/sauces-and-meal-on-plate-20422132/",
+   "alt": "Medu vadai with sambar and chutneys",
+   "tags": [
+    "tiffin",
+    "veg",
+    "snacks",
+    "hightea"
+   ],
+   "people": false
+  },
+  {
+   "key": "poori-chana",
+   "pexels_id": 20422124,
+   "ext": "jpeg",
+   "page": "https://www.pexels.com/photo/meals-on-black-background-20422124/",
+   "alt": "Poori with chana masala and condiments",
+   "tags": [
+    "tiffin",
+    "veg",
+    "northindian"
+   ],
+   "people": false
+  },
+  {
+   "key": "biryani-egg",
+   "pexels_id": 35539329,
+   "ext": "jpeg",
+   "page": "https://www.pexels.com/photo/traditional-indian-biryani-served-on-banana-leaves-35539329/",
+   "alt": "Biryani served on banana leaves with boiled egg",
+   "tags": [
+    "biryani",
+    "nonveg",
+    "hero"
+   ],
+   "people": false
+  },
+  {
+   "key": "biryani-sides",
+   "pexels_id": 12392831,
+   "ext": "jpeg",
+   "page": "https://www.pexels.com/photo/close-up-photo-of-delicious-biryani-12392831/",
+   "alt": "Biryani with side dishes on a banana leaf",
+   "tags": [
+    "biryani",
+    "everyday"
+   ],
+   "people": false
+  },
+  {
+   "key": "chicken-idli",
+   "pexels_id": 10810653,
+   "ext": "jpeg",
+   "page": "https://www.pexels.com/photo/food-on-tray-10810653/",
+   "alt": "Chicken curry with cashews and soft idli on a banana leaf",
+   "tags": [
+    "nonveg",
+    "biryani",
+    "tiffin"
+   ],
+   "people": false
+  },
+  {
+   "key": "tandoori-chicken",
+   "pexels_id": 29699526,
+   "ext": "jpeg",
+   "page": "https://www.pexels.com/photo/spicy-tandoori-chicken-with-mint-chutney-29699526/",
+   "alt": "Tandoori chicken with mint chutney and onion salad",
+   "tags": [
+    "nonveg",
+    "northindian",
+    "cocktail"
+   ],
+   "people": false
+  },
+  {
+   "key": "chicken-chafing",
+   "pexels_id": 32689476,
+   "ext": "jpeg",
+   "page": "https://www.pexels.com/photo/buffet-style-chicken-curry-dish-presentation-32689476/",
+   "alt": "Chicken curry in a buffet chafing dish",
+   "tags": [
+    "nonveg",
+    "buffet"
+   ],
+   "people": false
+  },
+  {
+   "key": "buffet-greenery",
+   "pexels_id": 36916402,
+   "ext": "jpeg",
+   "page": "https://www.pexels.com/photo/buffet-with-curry-dishes-in-elegant-setting-36916402/",
+   "alt": "Buffet counter with stainless steel chafing dishes and greenery",
+   "tags": [
+    "buffet",
+    "corporate",
+    "hero",
+    "wedding"
+   ],
+   "people": false
+  },
+  {
+   "key": "buffet-copper",
+   "pexels_id": 36388477,
+   "ext": "jpeg",
+   "page": "https://www.pexels.com/photo/copper-buffet-warmers-at-a-restaurant-event-36388477/",
+   "alt": "Copper buffet warmers arranged for a dinner event",
+   "tags": [
+    "buffet",
+    "premium",
+    "wedding",
+    "corporate",
+    "hero"
+   ],
+   "people": false
+  },
+  {
+   "key": "buffet-outdoor",
+   "pexels_id": 39388384,
+   "ext": "jpeg",
+   "page": "https://www.pexels.com/photo/vibrant-outdoor-buffet-with-diverse-cuisine-39388384/",
+   "alt": "Outdoor buffet with steel serving dishes",
+   "tags": [
+    "buffet",
+    "outdoor",
+    "corporate",
+    "institutional"
+   ],
+   "people": false
+  },
+  {
+   "key": "buffet-outdoor-2",
+   "pexels_id": 39388383,
+   "ext": "jpeg",
+   "page": "https://www.pexels.com/photo/buffet-with-diverse-dishes-at-outdoor-event-39388383/",
+   "alt": "Buffet spread with a variety of dishes at an outdoor event",
+   "tags": [
+    "buffet",
+    "outdoor",
+    "institutional"
+   ],
+   "people": false
+  },
+  {
+   "key": "curry-steel",
+   "pexels_id": 35726506,
+   "ext": "jpeg",
+   "page": "https://www.pexels.com/photo/savory-indian-curry-with-lime-garnish-35726506/",
+   "alt": "Indian curry with lime and coriander in a steel serving dish",
+   "tags": [
+    "buffet",
+    "northindian",
+    "everyday"
+   ],
+   "people": false
+  },
+  {
+   "key": "sweets-golden",
+   "pexels_id": 32044781,
+   "ext": "jpeg",
+   "page": "https://www.pexels.com/photo/festive-display-of-traditional-sweets-32044781/",
+   "alt": "Golden tray of traditional sweets",
+   "tags": [
+    "sweets",
+    "festival",
+    "celebration",
+    "wedding"
+   ],
+   "people": false
+  },
+  {
+   "key": "sweets-silver",
+   "pexels_id": 38003575,
+   "ext": "jpeg",
+   "page": "https://www.pexels.com/photo/elegant-silver-table-setting-with-indian-sweets-38003575/",
+   "alt": "Traditional Indian sweets on a silver table setting",
+   "tags": [
+    "sweets",
+    "premium",
+    "celebration",
+    "festival"
+   ],
+   "people": false
+  },
+  {
+   "key": "gajar-halwa",
+   "pexels_id": 35782620,
+   "ext": "jpeg",
+   "page": "https://www.pexels.com/photo/delicious-gajar-ka-halwa-at-buffet-table-35782620/",
+   "alt": "Gajar halwa served at a buffet table",
+   "tags": [
+    "sweets",
+    "northindian",
+    "buffet"
+   ],
+   "people": false
+  },
+  {
+   "key": "snacks-platter",
+   "pexels_id": 31177727,
+   "ext": "jpeg",
+   "page": "https://www.pexels.com/photo/delicious-variety-of-fried-snacks-on-display-31177727/",
+   "alt": "Platter of samosas, wraps and cutlets for a party",
+   "tags": [
+    "snacks",
+    "celebration",
+    "cocktail",
+    "corporate"
+   ],
+   "people": false
+  },
+  {
+   "key": "samosa-tiered",
+   "pexels_id": 19659595,
+   "ext": "jpeg",
+   "page": "https://www.pexels.com/photo/fried-fish-displayed-with-slices-of-lemon-19659595/",
+   "alt": "Tiered tray of samosas with lemon slices",
+   "tags": [
+    "snacks",
+    "hightea",
+    "corporate"
+   ],
+   "people": false
+  },
+  {
+   "key": "samosa-tiered-2",
+   "pexels_id": 19659579,
+   "ext": "jpeg",
+   "page": "https://www.pexels.com/photo/fried-fish-and-lemon-slices-on-plates-19659579/",
+   "alt": "Samosas with lemon slices on a tiered serving tray",
+   "tags": [
+    "snacks",
+    "hightea"
+   ],
+   "people": false
+  },
+  {
+   "key": "samosa-wicker",
+   "pexels_id": 35985960,
+   "ext": "jpeg",
+   "page": "https://www.pexels.com/photo/assorted-dumplings-and-samosas-on-wicker-tray-35985960/",
+   "alt": "Samosas and dumplings on a wicker tray",
+   "tags": [
+    "snacks",
+    "hightea",
+    "fusion"
+   ],
+   "people": false
+  },
+  {
+   "key": "samosa-tray",
+   "pexels_id": 37068875,
+   "ext": "jpeg",
+   "page": "https://www.pexels.com/photo/freshly-made-samosas-in-catering-tray-37068875/",
+   "alt": "Tray of freshly made samosas",
+   "tags": [
+    "snacks",
+    "everyday",
+    "institutional"
+   ],
+   "people": false
+  },
+  {
+   "key": "appetiser-cups",
+   "pexels_id": 37976941,
+   "ext": "jpeg",
+   "page": "https://www.pexels.com/photo/elegant-wedding-reception-food-display-37976941/",
+   "alt": "Appetiser cups displayed at a wedding reception",
+   "tags": [
+    "cocktail",
+    "reception",
+    "wedding",
+    "premium"
+   ],
+   "people": false
+  },
+  {
+   "key": "appetiser-tray",
+   "pexels_id": 34321369,
+   "ext": "jpeg",
+   "page": "https://www.pexels.com/photo/catering-event-with-gourmet-appetizers-on-tray-34321369/",
+   "alt": "Appetisers served on a tray at a social event",
+   "tags": [
+    "cocktail",
+    "corporate",
+    "premium",
+    "fusion"
+   ],
+   "people": false
+  },
+  {
+   "key": "cook-traditional",
+   "pexels_id": 36855811,
+   "ext": "jpeg",
+   "page": "https://www.pexels.com/photo/traditional-chef-preparing-authentic-indian-dish-36855811/",
+   "alt": "Senior cook in traditional attire preparing an Indian dish",
+   "tags": [
+    "chef",
+    "livecounter",
+    "traditional",
+    "people"
+   ],
+   "people": true
+  },
+  {
+   "key": "couple-outdoor",
+   "pexels_id": 29153204,
+   "ext": "jpeg",
+   "page": "https://www.pexels.com/photo/joyful-indian-couple-celebrating-wedding-29153204/",
+   "alt": "Smiling couple in traditional attire at an outdoor wedding",
+   "tags": [
+    "wedding",
+    "couple",
+    "people"
+   ],
+   "people": true
+  },
+  {
+   "key": "couple-tree",
+   "pexels_id": 36497421,
+   "ext": "jpeg",
+   "page": "https://www.pexels.com/photo/couple-posing-under-a-tree-in-traditional-attire-36497421/",
+   "alt": "Couple in traditional attire posing under a tree",
+   "tags": [
+    "wedding",
+    "couple",
+    "people",
+    "prewedding"
+   ],
+   "people": true
+  },
+  {
+   "key": "couple-attire",
+   "pexels_id": 32519470,
+   "ext": "jpeg",
+   "page": "https://www.pexels.com/photo/traditional-indian-wedding-couple-embrace-32519470/",
+   "alt": "Couple in traditional wedding attire",
+   "tags": [
+    "wedding",
+    "couple",
+    "people"
+   ],
+   "people": true
+  },
+  {
+   "key": "couple-hyderabad",
+   "pexels_id": 37912248,
+   "ext": "jpeg",
+   "page": "https://www.pexels.com/photo/romantic-couple-on-a-beach-in-hyderabad-37912248/",
+   "alt": "Couple in traditional attire at a seaside photo shoot",
+   "tags": [
+    "prewedding",
+    "couple",
+    "people",
+    "destination"
+   ],
+   "people": true
+  },
+  {
+   "key": "bride-red-gold",
+   "pexels_id": 7669984,
+   "ext": "jpeg",
+   "page": "https://www.pexels.com/photo/woman-in-red-and-gold-traditional-sari-7669984/",
+   "alt": "Bride in a red and gold silk sari with traditional jewellery",
+   "tags": [
+    "wedding",
+    "bride",
+    "people"
+   ],
+   "people": true
+  },
+  {
+   "key": "bride-silk",
+   "pexels_id": 12708653,
+   "ext": "jpeg",
+   "page": "https://www.pexels.com/photo/close-up-shot-of-a-beautiful-woman-in-traditional-clothing-12708653/",
+   "alt": "Bride in a traditional silk sari and gold jewellery",
+   "tags": [
+    "wedding",
+    "bride",
+    "people"
+   ],
+   "people": true
+  },
+  {
+   "key": "woman-red-saree",
+   "pexels_id": 20507025,
+   "ext": "jpeg",
+   "page": "https://www.pexels.com/photo/portrait-of-smiling-woman-in-traditional-clothing-20507025/",
+   "alt": "Smiling woman in a traditional red saree and jewellery",
+   "tags": [
+    "wedding",
+    "festival",
+    "people",
+    "celebration"
+   ],
+   "people": true
+  },
+  {
+   "key": "bride-jewellery",
+   "pexels_id": 19021379,
+   "ext": "jpeg",
+   "page": "https://www.pexels.com/photo/bride-wearing-traditional-jewelry-19021379/",
+   "alt": "Bride in vibrant traditional attire and jewellery",
+   "tags": [
+    "wedding",
+    "bride",
+    "people"
+   ],
+   "people": true
+  },
+  {
+   "key": "bride-outdoor",
+   "pexels_id": 39141382,
+   "ext": "jpeg",
+   "page": "https://www.pexels.com/photo/elegant-indian-bridal-portrait-outdoors-39141382/",
+   "alt": "Bride in traditional attire with gold jewellery",
+   "tags": [
+    "wedding",
+    "bride",
+    "people"
+   ],
+   "people": true
+  },
+  {
+   "key": "groom-family",
+   "pexels_id": 32923331,
+   "ext": "jpeg",
+   "page": "https://www.pexels.com/photo/traditional-indian-wedding-ceremony-scene-32923331/",
+   "alt": "Groom surrounded by family during a wedding ceremony",
+   "tags": [
+    "wedding",
+    "family",
+    "people",
+    "ritual"
+   ],
+   "people": true
+  },
+  {
+   "key": "ritual-hands",
+   "pexels_id": 12584892,
+   "ext": "jpeg",
+   "page": "https://www.pexels.com/photo/wedding-12584892/",
+   "alt": "Hands joined during a traditional wedding ritual",
+   "tags": [
+    "ritual",
+    "wedding",
+    "engagement",
+    "traditional"
+   ],
+   "people": false
+  },
+  {
+   "key": "ritual-feet",
+   "pexels_id": 12584893,
+   "ext": "jpeg",
+   "page": "https://www.pexels.com/photo/foot-of-groom-during-wedding-ceremony-12584893/",
+   "alt": "Bride and groom during a traditional wedding ceremony",
+   "tags": [
+    "ritual",
+    "wedding",
+    "traditional"
+   ],
+   "people": false
+  },
+  {
+   "key": "bangles-coconut",
+   "pexels_id": 12584890,
+   "ext": "jpeg",
+   "page": "https://www.pexels.com/photo/a-woman-wearing-bangles-12584890/",
+   "alt": "Bangles and coconut at a traditional ceremony",
+   "tags": [
+    "ritual",
+    "valaikappu",
+    "traditional",
+    "family"
+   ],
+   "people": false
+  },
+  {
+   "key": "henna-bangles",
+   "pexels_id": 38259809,
+   "ext": "jpeg",
+   "page": "https://www.pexels.com/photo/traditional-indian-wedding-ritual-with-henna-38259809/",
+   "alt": "Henna-decorated hands with red bangles at a traditional ritual",
+   "tags": [
+    "ritual",
+    "valaikappu",
+    "mehendi",
+    "family"
+   ],
+   "people": false
+  },
+  {
+   "key": "rings-henna",
+   "pexels_id": 35354268,
+   "ext": "jpeg",
+   "page": "https://www.pexels.com/photo/romantic-wedding-shot-focused-on-rings-and-henna-35354268/",
+   "alt": "Couple holding rings, hands decorated with henna",
+   "tags": [
+    "engagement",
+    "ritual",
+    "mehendi"
+   ],
+   "people": false
+  },
+  {
+   "key": "haldi-bride",
+   "pexels_id": 29226160,
+   "ext": "jpeg",
+   "page": "https://www.pexels.com/photo/traditional-indian-haldi-ceremony-close-up-29226160/",
+   "alt": "Bride during a traditional haldi ceremony",
+   "tags": [
+    "haldi",
+    "prewedding",
+    "people"
+   ],
+   "people": true
+  },
+  {
+   "key": "haldi-marigold",
+   "pexels_id": 35508972,
+   "ext": "jpeg",
+   "page": "https://www.pexels.com/photo/traditional-indian-haldi-ceremony-celebration-35508972/",
+   "alt": "Haldi ceremony with bright marigold decor",
+   "tags": [
+    "haldi",
+    "prewedding",
+    "people"
+   ],
+   "people": true
+  },
+  {
+   "key": "haldi-joy",
+   "pexels_id": 32500047,
+   "ext": "jpeg",
+   "page": "https://www.pexels.com/photo/vibrant-haldi-ceremony-at-indian-wedding-32500047/",
+   "alt": "Joyful moment at a haldi ceremony",
+   "tags": [
+    "haldi",
+    "prewedding",
+    "people"
+   ],
+   "people": true
+  },
+  {
+   "key": "haldi-flowers",
+   "pexels_id": 29226150,
+   "ext": "jpeg",
+   "page": "https://www.pexels.com/photo/south-asian-bride-during-pre-wedding-ritual-29226150/",
+   "alt": "Bride at a pre-wedding ritual with flowers and turmeric",
+   "tags": [
+    "haldi",
+    "prewedding",
+    "people"
+   ],
+   "people": true
+  },
+  {
+   "key": "haldi-hands",
+   "pexels_id": 27960941,
+   "ext": "jpeg",
+   "page": "https://www.pexels.com/photo/a-woman-in-yellow-dress-with-hands-covered-in-yellow-paint-27960941/",
+   "alt": "Bride surrounded by turmeric-covered hands at a haldi ceremony",
+   "tags": [
+    "haldi",
+    "prewedding",
+    "people"
+   ],
+   "people": true
+  },
+  {
+   "key": "harvest-offering",
+   "pexels_id": 35687391,
+   "ext": "jpeg",
+   "page": "https://www.pexels.com/photo/traditional-harvest-festival-offering-arrangement-35687391/",
+   "alt": "Harvest festival offering of flowers, fruits and grains",
+   "tags": [
+    "festival",
+    "traditional",
+    "pongal"
+   ],
+   "people": false
+  }
+ ],
+ "videos": [
+  {
+   "key": "dosa-griddle",
+   "pexels_id": 36747875,
+   "page": "https://www.pexels.com/video/dosa-preparation-on-hot-griddle-36747875/",
+   "title": "Dosa being made on a hot griddle",
+   "tags": [
+    "default",
+    "tiffin",
+    "livecounter"
+   ],
+   "verified_file": "https://videos.pexels.com/video-files/36747875/15573928_1920_1080_25fps.mp4",
+   "poster": "dosa-rustic"
+  },
+  {
+   "key": "curd-rice",
+   "pexels_id": 35832582,
+   "page": "https://www.pexels.com/video/traditional-south-indian-curd-rice-dish-35832582/",
+   "title": "South Indian curd rice being served",
+   "tags": [
+    "feast",
+    "healthy",
+    "solemn",
+    "traditional"
+   ],
+   "verified_file": null,
+   "poster": "idli-sambar"
+  },
+  {
+   "key": "curry-rice",
+   "pexels_id": 37331734,
+   "page": "https://www.pexels.com/video/traditional-indian-curry-and-rice-dishes-37331734/",
+   "title": "Indian curry and rice dishes",
+   "tags": [
+    "feast",
+    "buffet",
+    "wedding",
+    "everyday",
+    "corporate"
+   ],
+   "verified_file": null,
+   "poster": "meal-rice-curry"
+  },
+  {
+   "key": "dosa-street",
+   "pexels_id": 30115751,
+   "page": "https://www.pexels.com/video/street-vendor-cooking-traditional-dosa-30115751/",
+   "title": "Cook making a traditional dosa",
+   "tags": [
+    "livecounter",
+    "tiffin"
+   ],
+   "verified_file": null,
+   "poster": "dosa-banana-leaf"
+  },
+  {
+   "key": "biryani-toppings",
+   "pexels_id": 30044490,
+   "page": "https://www.pexels.com/video/delicious-indian-biryani-with-crispy-toppings-30044490/",
+   "title": "Biryani with crispy toppings",
+   "tags": [
+    "biryani",
+    "nonveg"
+   ],
+   "verified_file": null,
+   "poster": "biryani-egg"
+  },
+  {
+   "key": "hot-drink",
+   "pexels_id": 10265230,
+   "page": "https://www.pexels.com/video/man-preparing-hot-drink-10265230/",
+   "title": "Hot drink being prepared",
+   "tags": [
+    "coffee",
+    "hightea"
+   ],
+   "verified_file": null,
+   "poster": "breakfast-tea"
+  },
+  {
+   "key": "festival-lamps",
+   "pexels_id": 8811062,
+   "page": "https://www.pexels.com/video/people-celebrating-diwali-8811062/",
+   "title": "Family celebrating the festival of lights",
+   "tags": [
+    "festival",
+    "celebration"
+   ],
+   "verified_file": null,
+   "poster": "sweets-golden"
+  },
+  {
+   "key": "pakora-frying",
+   "pexels_id": 35140790,
+   "page": "https://www.pexels.com/video/busy-street-stall-frying-delicious-indian-pakoras-35140790/",
+   "title": "Pakoras frying in a large kadai",
+   "tags": [
+    "snacks",
+    "cocktail"
+   ],
+   "verified_file": null,
+   "poster": "snacks-platter"
+  },
+  {
+   "key": "dal-naan",
+   "pexels_id": 36180237,
+   "page": "https://www.pexels.com/video/delicious-indian-dal-served-with-naan-bread-36180237/",
+   "title": "Dal served with naan bread",
+   "tags": [
+    "northindian"
+   ],
+   "verified_file": null,
+   "poster": "curry-steel"
+  },
+  {
+   "key": "puri-kadai",
+   "pexels_id": 38858153,
+   "page": "https://www.pexels.com/video/frying-indian-street-food-puri-on-hot-kadai-38858153/",
+   "title": "Puri frying in a hot kadai",
+   "tags": [
+    "tiffin",
+    "institutional"
+   ],
+   "verified_file": null,
+   "poster": "poori-chana"
+  }
+ ]
+}

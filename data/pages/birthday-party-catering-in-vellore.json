@@ -1,0 +1,200 @@
+{
+  "_version": "V1",
+  "publish": true,
+  "output": "services/birthday-party-catering-in-vellore.html",
+  "breadcrumb_parent": [
+    "Services",
+    "services/index.html"
+  ],
+  "nav_label": "Birthday party catering",
+  "event_label": "Birthday party catering",
+  "service_type": "Birthday party catering",
+  "title": "Birthday Party Catering in Vellore – Kids Menus | Vellore Catering World",
+  "description": "Birthday party catering in Vellore for first birthdays, kids' parties and milestone birthdays. Kid-friendly buffets and biryani. Call 94459 78140.",
+  "h1": "Birthday party catering in Vellore",
+  "lead": "First birthdays, school-age parties and sixtieth celebrations. We build a menu the children will finish and the grown-ups will ask about.",
+  "tamil": "பிறந்தநாள் விருந்து",
+  "tamil_meaning": "the birthday feast",
+  "hero_image": {
+    "id": 31972418,
+    "alt": "Indoor birthday party with cakes and balloon decorations"
+  },
+  "intro_image": {
+    "id": 6148507,
+    "alt": "Children gathered around a birthday cake at a party"
+  },
+  "card": {
+    "text": "Kid-friendly buffets, snacks and biryani for birthday parties."
+  },
+  "intro_heading": "Party food, sorted",
+  "intro": [
+    "A birthday party has two audiences: children who want fried rice and noodles, and elders who want a proper meal. Our birthday menus mix both, so every guest finds something they enjoy.",
+    "We cater birthday parties at homes, apartment clubhouses and party halls across Vellore, from small family gatherings to large first-birthday functions."
+  ],
+  "includes_heading": "What your booking covers",
+  "includes": [
+    "Kid-friendly buffet with mild spice levels",
+    "Snack counter for the time before the cake cutting",
+    "Veg, non-veg or mixed menus",
+    "Buffet setup, serving team and clean-up",
+    "Return-gift snack packs on request"
+  ],
+  "menu_heading": "A sample birthday party menu",
+  "menu_intro": "Choose the snacks, the kids' counter, the main meal, or all three.",
+  "menu": [
+    {
+      "title": "Party snacks",
+      "items": [
+        [
+          "Veg puffs",
+          "veg"
+        ],
+        [
+          "Mini samosa",
+          "veg"
+        ],
+        [
+          "Paneer 65",
+          "veg"
+        ],
+        [
+          "Chicken lollipop",
+          "nonveg"
+        ],
+        [
+          "French fries",
+          "veg"
+        ],
+        [
+          "Fruit punch",
+          "veg"
+        ]
+      ]
+    },
+    {
+      "title": "Kids' favourites",
+      "items": [
+        [
+          "Veg fried rice",
+          "veg"
+        ],
+        [
+          "Hakka noodles",
+          "veg"
+        ],
+        [
+          "Gobi manchurian",
+          "veg"
+        ],
+        [
+          "Mini idli with sambar",
+          "veg"
+        ],
+        [
+          "Chilli chicken",
+          "nonveg"
+        ]
+      ]
+    },
+    {
+      "title": "Main meal",
+      "items": [
+        [
+          "Chicken biryani",
+          "nonveg"
+        ],
+        [
+          "Vegetable biryani",
+          "veg"
+        ],
+        [
+          "Onion raita",
+          "veg"
+        ],
+        [
+          "Chapati and kurma",
+          "veg"
+        ],
+        [
+          "Curd rice",
+          "veg"
+        ],
+        [
+          "Gulab jamun",
+          "veg"
+        ],
+        [
+          "Ice cream",
+          "veg"
+        ]
+      ]
+    }
+  ],
+  "menu_link": {
+    "text": "See the birthday party menu",
+    "href": "menus.html#birthday"
+  },
+  "why_heading": "Why parents book us for birthdays",
+  "why": [
+    {
+      "icon": "users",
+      "title": "Mild for children, full flavour for elders",
+      "text": "We adjust spice levels counter by counter so both groups eat well."
+    },
+    {
+      "icon": "clock",
+      "title": "Timed around your cake cutting",
+      "text": "Snacks first and the meal after the cake, so the party flows."
+    },
+    {
+      "icon": "shield",
+      "title": "A clean, careful kitchen",
+      "text": "Fresh oil, covered transport and hot food kept hot at the venue."
+    },
+    {
+      "icon": "spark",
+      "title": "A neat buffet setup",
+      "text": "Counters arranged to suit your venue and party theme."
+    }
+  ],
+  "gallery_heading": "Party spreads",
+  "gallery": [
+    {
+      "id": 31177727,
+      "alt": "Samosas and fried snacks for a birthday party"
+    },
+    {
+      "id": 27177048,
+      "alt": "Family celebrating a birthday with balloon decorations"
+    },
+    {
+      "id": 35539329,
+      "alt": "Biryani served on banana leaves"
+    },
+    {
+      "id": 35782620,
+      "alt": "Dessert tray on a party buffet"
+    }
+  ],
+  "faq_heading": "Birthday catering questions",
+  "faqs": [
+    [
+      "Do you cater small birthday parties at home?",
+      "Yes. Share your guest count and venue, and we will suggest a menu and service style that suits a smaller gathering."
+    ],
+    [
+      "Can you make the food less spicy for children?",
+      "Yes. We keep a mild version of the main dishes for children and regular spice for adults."
+    ],
+    [
+      "Can you arrange the birthday cake as well?",
+      "Ask us when you book and we will tell you what we can arrange along with your menu."
+    ]
+  ],
+  "related_heading": "Other functions we cater",
+  "related": [
+    "services/wedding-catering-in-vellore.html",
+    "services/engagement-catering-in-vellore.html",
+    "services/seemandham-catering-in-vellore.html"
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "_version": "V1",
+  "publish": true,
+  "output": "services/engagement-catering-in-vellore.html",
+  "breadcrumb_parent": [
+    "Services",
+    "services/index.html"
+  ],
+  "nav_label": "Engagement catering",
+  "event_label": "Engagement catering",
+  "service_type": "Engagement catering",
+  "title": "Engagement Catering in Vellore – Nichayathartham | Vellore Catering World",
+  "description": "Engagement and nichayathartham catering in Vellore. Traditional lunch, evening snacks and sweet boxes, veg or non-veg. Call 94459 78140 for a quote.",
+  "h1": "Engagement catering in Vellore",
+  "lead": "Nichayathartham is when two families sit down together for the first time. We make sure the food makes that first meal easy and warm.",
+  "tamil": "நிச்சயதார்த்தம்",
+  "tamil_meaning": "the engagement",
+  "hero_image": {
+    "id": 4128977,
+    "alt": "Couple exchanging a ritual during a traditional engagement ceremony"
+  },
+  "intro_image": {
+    "id": 32060316,
+    "alt": "Couple in traditional attire at their engagement function"
+  },
+  "card": {
+    "text": "Lunch, evening snacks and sweet boxes for the nichayathartham."
+  },
+  "intro_heading": "Food that brings two families together",
+  "intro": [
+    "Engagement functions in Vellore range from fifty relatives at home to a full hall with a stage. We scale the menu to your function: a traditional leaf lunch, an evening tiffin with sweets and snacks, or a dinner buffet after the ring ceremony.",
+    "We also pack sweet and savoury boxes for the thambulam and for guests to take home, so your family does not have to place a separate sweet shop order."
+  ],
+  "includes_heading": "What your booking covers",
+  "includes": [
+    "Lunch, evening tiffin or dinner menus, veg or non-veg",
+    "Welcome drinks and snacks while the ceremony is on",
+    "Sweet and savoury boxes for guests and the thambulam",
+    "Service at home, a temple hall or a marriage hall",
+    "Serving team and clean-up"
+  ],
+  "menu_heading": "A sample engagement menu",
+  "menu_intro": "Pick one meal or all three. Quantities are planned to your guest list.",
+  "menu": [
+    {
+      "title": "Welcome and snacks",
+      "items": [
+        [
+          "Rose milk",
+          "veg"
+        ],
+        [
+          "Badam milk",
+          "veg"
+        ],
+        [
+          "Mini samosa",
+          "veg"
+        ],
+        [
+          "Vegetable cutlet",
+          "veg"
+        ],
+        [
+          "Mysore pak",
+          "veg"
+        ],
+        [
+          "Kara boondi",
+          "veg"
+        ]
+      ]
+    },
+    {
+      "title": "Engagement lunch",
+      "items": [
+        [
+          "Semiya payasam",
+          "veg"
+        ],
+        [
+          "Cabbage poriyal",
+          "veg"
+        ],
+        [
+          "Potato roast",
+          "veg"
+        ],
+        [
+          "Paruppu vadai",
+          "veg"
+        ],
+        [
+          "Sambar",
+          "veg"
+        ],
+        [
+          "Tomato rasam",
+          "veg"
+        ],
+        [
+          "More kuzhambu",
+          "veg"
+        ],
+        [
+          "Curd rice",
+          "veg"
+        ],
+        [
+          "Appalam",
+          "veg"
+        ]
+      ]
+    },
+    {
+      "title": "Evening dinner",
+      "items": [
+        [
+          "Ghee rice",
+          "veg"
+        ],
+        [
+          "Paneer butter masala",
+          "veg"
+        ],
+        [
+          "Parotta and salna",
+          "veg"
+        ],
+        [
+          "Chicken Chettinad",
+          "nonveg"
+        ],
+        [
+          "Egg masala",
+          "nonveg"
+        ],
+        [
+          "Carrot halwa",
+          "veg"
+        ]
+      ]
+    }
+  ],
+  "menu_link": {
+    "text": "See the engagement menu",
+    "href": "menus.html#engagement"
+  },
+  "why_heading": "Why families book us for engagements",
+  "why": [
+    {
+      "icon": "users",
+      "title": "Right-sized for your guest list",
+      "text": "Home function or hall, we plan quantities so nothing runs short and little is wasted."
+    },
+    {
+      "icon": "spark",
+      "title": "Presentation that suits the occasion",
+      "text": "Neat counters, polished serving ware and a uniformed team that looks good in the photographs."
+    },
+    {
+      "icon": "pot",
+      "title": "Sweet boxes from our kitchen",
+      "text": "Mysore pak, laddu and mixture packed fresh for the thambulam and return gifts."
+    },
+    {
+      "icon": "clock",
+      "title": "One call for the whole function",
+      "text": "Snacks, lunch or dinner and sweet boxes, all arranged by one team."
+    }
+  ],
+  "gallery_heading": "Engagement spreads",
+  "gallery": [
+    {
+      "id": 32044781,
+      "alt": "Golden tray of traditional sweets for an engagement function"
+    },
+    {
+      "id": 37976941,
+      "alt": "Appetiser cups served at an engagement reception"
+    },
+    {
+      "id": 35539324,
+      "alt": "Indian thali with an assortment of dishes"
+    },
+    {
+      "id": 9471423,
+      "alt": "Bride's henna and jewellery at an engagement ceremony"
+    }
+  ],
+  "faq_heading": "Engagement catering questions",
+  "faqs": [
+    [
+      "Can you cater an engagement function at home?",
+      "Yes. For home functions we bring the cooked food, serving ware and our team, and we can cook on site if there is space."
+    ],
+    [
+      "Do you prepare sweet boxes for the engagement?",
+      "Yes. We prepare sweet and savoury boxes in the quantity you need. Tell us the count when you book."
+    ],
+    [
+      "Can we have a veg lunch and a non-veg dinner?",
+      "Yes. Many families keep the ceremony meal vegetarian and serve non-veg at dinner. We cook the two in separate batches."
+    ]
+  ],
+  "related_heading": "Other functions we cater",
+  "related": [
+    "services/wedding-catering-in-vellore.html",
+    "services/seemandham-catering-in-vellore.html",
+    "services/birthday-party-catering-in-vellore.html"
+  ]
+}

@@ -1,0 +1,6 @@
+# Vellore Catering | .gitignore | Version: V1
+__pycache__/
+*.pyc
+assets/video/stock/*.source.mp4
+.DS_Store
+Thumbs.db
