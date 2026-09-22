@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "services/wedding-catering-in-vellore.html",
+    "services/reception-catering-in-vellore.html"
+  ],
+  "text_similarity_percent": 5.51,
+  "text_difference_percent": 94.49,
+  "normalized_heading_overlap_percent": 3.31,
+  "normalized_heading_difference_percent": 96.69,
+  "original_requirement_pass": true,
+  "business_critical_strict_pass": true,
+  "strict_rule": "text similarity <=35% AND normalized heading overlap <=20%"
+}
