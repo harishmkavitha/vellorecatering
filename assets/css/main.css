@@ -431,7 +431,8 @@ section.is-flush { padding-block: 0; }
   border-bottom: 1px solid var(--c-line);
 }
 .page-hero__media { position: absolute; inset: 0; z-index: -2; }
-.page-hero__media img { width: 100%; height: 100%; object-fit: cover; animation: kenburns 26s var(--ease) infinite alternate; }
+.page-hero__media picture { position: absolute; inset: 0; display: block; width: 100%; height: 100%; max-width: none; }
+.page-hero__media img { width: 100%; height: 100%; object-fit: cover; object-position: center center; animation: kenburns 26s var(--ease) infinite alternate; }
 .page-hero__media::after {
   content: ""; position: absolute; inset: 0;
   background: linear-gradient(90deg, rgba(0,0,0,.93) 0%, rgba(0,0,0,.72) 55%, rgba(0,0,0,.45) 100%), linear-gradient(0deg, #000 0%, rgba(0,0,0,0) 45%);
