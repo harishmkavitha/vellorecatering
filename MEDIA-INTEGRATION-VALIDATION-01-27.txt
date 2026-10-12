@@ -1,0 +1,43 @@
+VELLORE CATERING WORLD — MEDIA INTEGRATION VALIDATION
+=====================================================
+
+Source code base: Full GitHub-ready website v12
+Integrated batches: 01 through 27
+
+Batches 01–11
+-------------
+- Existing page-specific local image sets retained from v12.
+- 11 local MP4 showcase videos retained and referenced by their service pages.
+- No external Pexels/Unsplash media references on these completed pages.
+
+Batches 12–27
+-------------
+- 16 service pages updated.
+- Each page uses 3 responsive hero variants (desktop/tablet/mobile).
+- Each page uses 5 page-specific content images.
+- Each page uses 1 additional 1920x1080 CSS-motion image.
+- Total integrated Batch 12–27 generated images: 144.
+- Old remote Pexels video sections replaced by local CSS-motion images.
+- No MP4 added for Batches 12–27 by design.
+- No external Pexels/Unsplash media references remain on these pages.
+
+Responsive behavior
+-------------------
+- Mobile hero: 1080x1350
+- Tablet hero: 1536x1024
+- Desktop hero: 1920x1080
+- <picture> media queries choose the correct hero automatically.
+- Non-hero images use local WebP assets and lazy loading.
+
+CSS Motion
+----------
+- main.css contains VCW BATCH 12-27 CSS MOTION MEDIA rules.
+- Motion uses subtle scale, pan, brightness and saturation changes.
+- prefers-reduced-motion is respected.
+
+Validation
+----------
+- Completed batch pages checked: 27
+- Missing local media references on completed batch pages: 0
+- External Pexels/Unsplash media references on completed batch pages: 0
+- Local MP4 videos retained: 11

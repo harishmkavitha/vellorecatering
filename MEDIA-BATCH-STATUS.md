@@ -1,16 +1,33 @@
-# Media Batch Status
+# Media Batch Status — Final 37-Batch Production Set
 
-| Batch | Page | Status | Responsive local media |
-|---|---|---|---|
-| 01 | Wedding Catering | COMPLETE — FINAL CLEAN | Yes |
-| 02 | Reception Catering | COMPLETE — FINAL CLEAN | Yes |
-| 03 | Engagement Catering | NEXT | Pending |
+All **37 planned media-production batches are complete and integrated** into the GitHub-ready website.
 
-Quality rules for future business-critical batches:
-- No blurred/soft images.
-- No competitor/company names or logos inside generated images.
-- No watermarks or random branded signage.
-- Unique faces/scenes/compositions between important pages.
-- Desktop/mobile hero variants; tablet variant where useful.
-- Every actual page-specific image/video slot is replaced, not only a sample subset.
-- Media must match the page topic and surrounding section content.
+| Batch range | Scope | Status |
+|---|---|---|
+| 01–11 | Core wedding / marriage pages with local responsive media and MP4 where originally produced | COMPLETE |
+| 12–27 | Business-critical service pages using responsive local imagery + CSS-motion images | COMPLETE |
+| 28–32 | Bridal Shower through Post-Wedding Catering | COMPLETE + INTEGRATED |
+| 33 | Homepage | COMPLETE + INTEGRATED |
+| 34 | Catering Services Index | COMPLETE + INTEGRATED |
+| 35 | Menus | COMPLETE + INTEGRATED |
+| 36 | Gallery | COMPLETE + INTEGRATED |
+| 37 | Contact | COMPLETE + INTEGRATED |
+
+## Final production rules retained
+
+- No blurred/soft final images intentionally used.
+- No competitor catering-company branding in final generated assets.
+- No intentional watermarks or readable third-party signage.
+- Important pages use page-specific scenes rather than cloned media.
+- Responsive hero variants are used where produced.
+- Image-only batches use CSS motion instead of remote video.
+- Local media integrity must continue to pass `python tools/media_workflow.py audit-site` before every push.
+
+## Current audit
+
+- 1262 public HTML pages checked.
+- 4269 local media references checked.
+- 0 broken local media references.
+- 37 completed batch pages contain 0 Pexels/Unsplash media references.
+
+Lower-priority pages outside this 37-batch plan still contain online stock-media references and can be migrated later in controlled thematic batches.

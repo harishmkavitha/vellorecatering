@@ -1,1 +1,29 @@
-audit-site: 1262 public HTML pages, 3824 local media references checked, 0 problem(s)
+VELLORE CATERING WORLD — FULL SITE MEDIA AUDIT
+==============================================
+
+Audit date/build: Batches 01–37 integrated
+
+LOCAL MEDIA INTEGRITY
+- Public HTML pages scanned by built-in project audit: 1262
+- Local media references checked: 4269
+- Broken/missing local media references: 0
+
+COMPLETED PRODUCTION BATCHES
+- Batches completed and integrated: 37 / 37
+- Completed-batch pages with Pexels/Unsplash media references: 0
+- New Batch 28–37 images added: 104
+- New images with incorrect filename dimensions: 0
+- New images not referenced by HTML: 0
+
+RESPONSIVE / MOTION IMPLEMENTATION
+- Batches 28–32 use desktop/tablet/mobile hero variants.
+- Batches 28–32 use CSS-motion images in former video areas.
+- Homepage video area uses local CSS-motion imagery.
+- Gallery video area uses local CSS-motion imagery.
+- prefers-reduced-motion remains supported by the existing page-motion rules; homepage motion has its own reduced-motion rule.
+
+REMAINING ONLINE MEDIA OUTSIDE THE 37-BATCH PLAN
+- Online Pexels/Unsplash URL occurrences: 42,348
+- HTML pages containing those references: 1,213
+- These are lower-priority pages outside the completed 37-batch production scope.
+- They are not broken local links and can be replaced later using controlled thematic libraries/batches.

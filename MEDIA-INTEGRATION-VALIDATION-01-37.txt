@@ -1,0 +1,73 @@
+VELLORE CATERING WORLD — MEDIA INTEGRATION VALIDATION
+=====================================================
+
+Source code base
+----------------
+- Base package: Vellore_Catering_World_Full_GitHub_Ready_v13_Batches_01_27.zip
+- Batches 01–27 retained from the base without changing their existing local media files.
+- Batches 28–37 added to the code and connected to their real HTML pages.
+
+Batches 28–32 — service pages
+-----------------------------
+- 5 service pages integrated.
+- Each page uses 3 responsive hero variants:
+  * desktop 1920x1080
+  * tablet 1536x1024
+  * mobile 1080x1350
+- Each page uses 5 additional page-specific 1800x1400 images.
+- Each page uses 1 local 1920x1080 CSS-motion image instead of a remote video.
+- Total new images for Batches 28–32: 45.
+
+Batch 33 — Homepage
+-------------------
+- 17 planned homepage image slots switched to local WebP files.
+- Former remote homepage video slot replaced by 1 local 1920x1080 CSS-motion image.
+- Total: 18 local images.
+
+Batch 34 — Catering Services Index
+----------------------------------
+- Added a dedicated page-exclusive media showcase because the original dashboard had 0 required media slots.
+- Responsive hero trio + 5 category images + 1 CSS-motion services-overview image.
+- Total: 9 local images.
+
+Batch 35 — Menus
+----------------
+- All 9 exact dashboard image slots connected to local WebP files.
+- Total: 9 local images.
+
+Batch 36 — Gallery
+------------------
+- All 21 exact dashboard gallery image slots connected to local WebP files.
+- Former remote gallery video slot replaced by 1 local 1920x1080 CSS-motion image.
+- Total: 22 local images.
+
+Batch 37 — Contact
+------------------
+- Exact dashboard Contact image connected:
+  assets/images/contact/01-image-1920x1080.webp
+- Total: 1 local image.
+
+New media verification
+----------------------
+- New Batch 28–37 WebP files: 104
+- New Batch 28–37 image dimension mismatches: 0
+- New Batch 28–37 unreferenced WebP files: 0
+- All 104 new images are referenced by website HTML.
+
+Completed-batch page verification
+---------------------------------
+- Completed batch pages checked: 37
+- External Pexels/Unsplash media references on completed Batch 01–37 pages: 0
+- Old Batches 01–27 service media retained unchanged during merge: 314 files verified by SHA-256 snapshot.
+
+Full public-site local-media audit
+----------------------------------
+Command: python tools/media_workflow.py audit-site
+Result:
+  1262 public HTML pages
+  4269 local media references checked
+  0 problems
+
+Important scope note
+--------------------
+The 37 planned production batches are now local and integrated. The wider site still contains online Pexels/Unsplash media on lower-priority pages that were intentionally outside the 37-batch production plan (for example many servicing-area, guide/blog and long-tail service pages). Current scan: 42,348 stock-media URL occurrences across 1,213 HTML pages. These do not create broken local links and can be migrated later in controlled thematic batches.

@@ -1,0 +1,44 @@
+[
+  {
+    "page": "wedding-catering-in-vellore.html",
+    "similarity_percent": 15.25,
+    "difference_percent": 84.75,
+    "heading_overlap_percent": 2.53,
+    "strict_pass": true
+  },
+  {
+    "page": "reception-catering-in-vellore.html",
+    "similarity_percent": 5.54,
+    "difference_percent": 94.46,
+    "heading_overlap_percent": 2.73,
+    "strict_pass": true
+  },
+  {
+    "page": "engagement-catering-in-vellore.html",
+    "similarity_percent": 13.31,
+    "difference_percent": 86.69,
+    "heading_overlap_percent": 2.31,
+    "strict_pass": true
+  },
+  {
+    "page": "nichayathartham-catering-in-vellore.html",
+    "similarity_percent": 8.86,
+    "difference_percent": 91.14,
+    "heading_overlap_percent": 1.57,
+    "strict_pass": true
+  },
+  {
+    "page": "marriage-hall-catering-in-vellore.html",
+    "similarity_percent": 13.62,
+    "difference_percent": 86.38,
+    "heading_overlap_percent": 2.87,
+    "strict_pass": true
+  },
+  {
+    "page": "hindu-wedding-catering-in-vellore.html",
+    "similarity_percent": 13.66,
+    "difference_percent": 86.34,
+    "heading_overlap_percent": 2.11,
+    "strict_pass": true
+  }
+]
