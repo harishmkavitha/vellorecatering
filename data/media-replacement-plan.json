@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "site": "https://harishmkavitha.github.io/vellorecatering",
+  "site": "https://vellorecatering.in",
   "strategy": {
     "rule": "Important pages get page-exclusive media. Low-priority pages may later reuse a controlled thematic library.",
     "activation": "Keep current online media until every required local file for a page passes validation; activate the whole page atomically.",
@@ -4304,8 +4304,8 @@
           "poster_auto_generated": true
         }
       ],
-      "original_og_image": "https://harishmkavitha.github.io/vellorecatering/assets/img/og-vellore-catering.jpg",
-      "original_twitter_image": "https://harishmkavitha.github.io/vellorecatering/assets/img/og-vellore-catering.jpg"
+      "original_og_image": "https://vellorecatering.in/assets/img/og-vellore-catering.jpg",
+      "original_twitter_image": "https://vellorecatering.in/assets/img/og-vellore-catering.jpg"
     },
     {
       "page": "contact.html",
@@ -4335,8 +4335,8 @@
           "required": true
         }
       ],
-      "original_og_image": "https://harishmkavitha.github.io/vellorecatering/assets/img/og-vellore-catering.jpg",
-      "original_twitter_image": "https://harishmkavitha.github.io/vellorecatering/assets/img/og-vellore-catering.jpg"
+      "original_og_image": "https://vellorecatering.in/assets/img/og-vellore-catering.jpg",
+      "original_twitter_image": "https://vellorecatering.in/assets/img/og-vellore-catering.jpg"
     }
   ]
 }

@@ -6,4 +6,4 @@ Disallow: /templates/
 Disallow: /data/
 Disallow: /partials/
 
-Sitemap: https://harishmkavitha.github.io/vellorecatering/sitemap.xml
+Sitemap: https://vellorecatering.in/sitemap.xml
