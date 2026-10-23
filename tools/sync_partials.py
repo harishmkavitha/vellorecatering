@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 sync_partials.py - push partials/*.html into every page between marker comments.
-Version: V1
+Version: V2
 
 Run from the project root:
 
@@ -33,7 +33,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 PARTIALS = ROOT / "partials"
-SKIP_DIRS = {"partials", "tools", "templates", "data", ".git", "node_modules", "assets"}
+SKIP_DIRS = {"partials", "tools", "templates", "data", "docs", ".git", "node_modules", "assets"}
 
 # paths inside partials that need depth-aware rewriting
 PATH_ATTR = re.compile(r'((?:href|src)=")(?!https?:|mailto:|tel:|#|/|data:)([^"]+)(")')

@@ -1,6 +1,7 @@
 {
-  "_version": "V2",
+  "_version": "V4",
   "site_url": "https://vellorecatering.in",
+  "ga4_measurement_id": "G-SP3B9FK19N",
   "business_name": "Vellore Catering World",
   "legal_name": "Vellore Catering World",
   "phone_display": "+91 94459 78140",
@@ -16,7 +17,7 @@
   "founded": 2000,
   "events_served": "3,000+",
   "og_image": "assets/img/og-vellore-catering.jpg",
-  "asset_version": "1",
+  "asset_version": "2",
   "areas_served": [
     "Vellore",
     "Kosapet",

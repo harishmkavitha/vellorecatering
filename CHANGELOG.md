@@ -1,5 +1,91 @@
 # Changelog
-<!-- CHANGELOG.md | Version: V3 -->
+<!-- CHANGELOG.md | Version: V4 -->
+
+## V6 — 23 October 2026 — Google Analytics 4
+
+Measures three things the business actually asked for: how many people land on the
+site, how many tap a **Call** button, and how many tap a **WhatsApp** button.
+
+GA4 property "Vellore Catering World", web stream `vellorecatering.in`,
+Measurement ID **`G-SP3B9FK19N`** (recorded in `tools/site_config.json`).
+
+**Page views** are automatic — `page_view` on all 1,262 pages, plus scrolls, outbound
+clicks and site search from GA4's Enhanced measurement.
+
+**Call and WhatsApp taps** are two custom events, emitted from `assets/js/main.js`:
+
+| Event | Fires on |
+|---|---|
+| `call_click` | any `tel:` link — ~6 per page |
+| `whatsapp_click` | any `wa.me` link (~5 per page) **and** the enquiry form's WhatsApp hand-off |
+
+Each event carries three parameters:
+
+- `location` — `floating_button`, `header`, `footer`, `hero`, `enquiry_form`,
+  `enquiry_form_submit`, the enclosing `section` id (`contact`, `pricing`, `enquire` …),
+  or `page_body`. Anything with `data-track-location` overrides all of these.
+- `page_type` — `home`, `service`, `area`, `blog`, `contact` or `other`, read from the
+  body class the generators already set. This separates calls from the 236 service
+  pages, the 507 locality pages and the ~500 blog articles.
+- `link_text` — the visible label, trimmed to 60 characters, or `icon only`.
+
+One delegated listener on `document` handles all ~13,800 links sitewide rather than
+binding thousands of handlers. It runs in the capture phase so the event is queued
+before navigation begins; gtag sends via `navigator.sendBeacon`, which survives the
+page going away. **No click is ever cancelled or delayed to record an event**, and if
+`gtag` is missing — blocked, offline, not yet loaded — the click proceeds untouched.
+
+**Why a new script instead of `sync_partials.py`.** The tag belongs in
+`partials/head.html`, and it is there. But the published pages have since been run
+through an HTML prettifier (alphabetised attributes, self-closing tags), so the partial
+no longer matches them byte-for-byte: re-syncing would rewrite all 1,262 pages
+cosmetically and bury the real change in a ~20,000-line diff. `tools/add_analytics.py`
+inserts only the tag, in the style the pages already use, immediately before the
+`<!-- @head:end -->` marker — inside the head block, so a future `sync_partials.py` run
+regenerates it from the partial rather than leaving a duplicate. It is idempotent, it
+refuses to stack a second Google tag on a page that already has one, and
+`--remove` reverses it.
+
+**Cache busting.** `main.js?v=1` → `?v=2` on all 1,262 pages (`asset_version` in
+`site_config.json` bumped to match), otherwise returning visitors would keep the old
+file and never report a click. `main.css` is unchanged and stays at `?v=15`.
+
+**Privacy policy.** `privacy.html` claimed the site set no analytics cookies, which
+stopped being true. It now names Google Analytics, the `_ga` cookies and what is
+recorded, states that enquiry details are never sent to Google, confirms no advertising
+or remarketing use, and links Google's opt-out add-on. "Who receives your data" names
+Google. No consent banner was added — see the note below.
+
+**Verified in Chromium** against the real pages, not in theory: on the home, service,
+locality and contact pages, `call_click` and `whatsapp_click` both reach `dataLayer`
+with the right `page_type`; `location` resolves to `floating_button`, `header`,
+`footer`, `hero`, `enquiry_form` and section ids; submitting the enquiry form emits
+`whatsapp_click` / `enquiry_form_submit`; an ordinary link emits nothing; and no page
+throws a JavaScript error. The CI media audit still passes unchanged.
+
+**Still to do by hand in GA4:** mark `call_click` and `whatsapp_click` as key events.
+GA4 only offers an event for marking once it has been seen at least once, so this
+cannot be done until real traffic arrives.
+
+**No consent banner.** GA4's cookies are first-party and analytics-only, and a banner
+defaulting to "off" would suppress most of the data the business wants. Under the DPDP
+Act the honest disclosure now in `privacy.html` is the baseline; a consent gate is a
+business decision, not a technical gap. Adding one later means wrapping the `gtag`
+call in `assets/js/main.js` and the tag in `partials/head.html` behind a stored choice.
+
+### Files in V6
+
+| File | Version | Change |
+|---|---|---|
+| `tools/add_analytics.py` | V1 | new — idempotent GA4 tag injector, with `--check` and `--remove` |
+| `partials/head.html` | V2 | gtag.js snippet (source of truth for future syncs) |
+| `assets/js/main.js` | V3 | section 12 click tracker; `whatsapp_click` on form submit |
+| `privacy.html` | V3 | analytics and cookies disclosed accurately; date updated |
+| `tools/site_config.json` | V4 | `ga4_measurement_id`; `asset_version` → `2` |
+| `tools/sync_partials.py` | V2 | skips `docs/` (it was reporting the moved reports as marker-less) |
+| 1,262 `.html` pages | unchanged | gtag.js block added; `main.js?v=1` → `?v=2` |
+| `README.md` | V5 | analytics section |
+| `CHANGELOG.md` | V4 | this entry |
 
 ## V5 — 23 October 2026 — live domain canonicals, and internal files taken off the public site
 

@@ -1,5 +1,5 @@
-# Vellore Catering World Website — V4 Real Photos & Videos
-<!-- README.md | Version: V4 -->
+# Vellore Catering World Website — V6 Analytics
+<!-- README.md | Version: V5 -->
 
 A GitHub Pages-ready static website for **Vellore Catering World**, built from the supplied master design and the uploaded Catering Type spreadsheet.
 
@@ -108,6 +108,56 @@ Everything internal lives in `docs/`, which `robots.txt` disallows and which
 their output to `docs/reports/` and tag the HTML reports `noindex, nofollow`.
 
 **When you add a new note, audit or report, put it in `docs/` — not the root.**
+
+## Analytics (V6)
+
+Google Analytics 4 property **Vellore Catering World**, Measurement ID
+`G-SP3B9FK19N`, stored in `tools/site_config.json` as `ga4_measurement_id`.
+
+The tag lives in `partials/head.html`. To put it on (or take it off) every page:
+
+```bash
+python tools/add_analytics.py --check    # report what would change
+python tools/add_analytics.py            # insert / update the tag
+python tools/add_analytics.py --remove   # take it out again
+```
+
+It is idempotent, and it will not stack a second Google tag on a page that already
+has one. **Change the Measurement ID in `site_config.json`, then re-run it** — do not
+edit the ID across 1,262 pages by hand.
+
+Three things are measured:
+
+| What | How |
+|---|---|
+| Landings on any page | `page_view`, automatic via gtag.js |
+| Call button taps | `call_click`, from any `tel:` link |
+| WhatsApp button taps | `whatsapp_click`, from any `wa.me` link and the enquiry form |
+
+The two custom events come from section 12 of `assets/js/main.js` — one delegated
+listener for the whole site. Each carries `location` (`floating_button`, `header`,
+`footer`, `hero`, `enquiry_form`, `enquiry_form_submit`, a `section` id, or
+`page_body`), `page_type` (`home` / `service` / `area` / `blog` / `contact`) and
+`link_text`.
+
+To label a specific button yourself, add `data-track-location="whatever"` to it or any
+ancestor — that wins over everything above.
+
+**If you change `assets/js/main.js`, bump `asset_version` in `site_config.json` and
+update the `main.js?v=` query on the pages**, or returning visitors keep the cached
+file and stop reporting.
+
+### Careful with `sync_partials.py`
+
+The published pages have been run through an HTML prettifier since the partials were
+last synced, so `partials/*.html` no longer match them byte-for-byte.
+`python tools/sync_partials.py --check` reports all 1,262 pages as drifted, and
+running it would rewrite every one of them cosmetically — a ~20,000-line diff that
+hides whatever you actually changed.
+
+Prefer a targeted script (`add_analytics.py` is the model) for a change to the head or
+footer of every page. If you do decide to re-sync, do it as its own commit with nothing
+else in it.
 
 ## Rebuild after edits
 

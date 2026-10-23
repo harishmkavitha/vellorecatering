@@ -1,6 +1,6 @@
 /* ==========================================================================
    Vellore Catering World — main.js
-   Version: V2  (see CHANGELOG.md)
+   Version: V3  (see CHANGELOG.md)
    Progressive enhancement only: every page is readable and navigable
    without JavaScript. No external libraries, no paid APIs.
    ========================================================================== */
@@ -402,6 +402,17 @@
         '(Sent from ' + doc.title.split('|')[0].trim() + ')'
       ];
       var url = 'https://wa.me/' + WA_NUMBER + '?text=' + encodeURIComponent(lines.join('\n'));
+
+      // V3: this hand-off is a window.open, not a link click, so the
+      // delegated tracker in section 12 cannot see it. Record it here.
+      // A completed form is a stronger signal than a bare button tap, so
+      // it gets its own location value rather than sharing 'enquiry_form'.
+      track('whatsapp_click', {
+        location: 'enquiry_form_submit',
+        page_type: PAGE_TYPE,
+        link_text: eventType
+      });
+
       if (status) status.textContent = 'Opening WhatsApp with your details…';
       var win = window.open(url, '_blank');
       if (win) { win.opener = null; }
@@ -508,4 +519,78 @@
      11. Footer year
      --------------------------------------------------------------- */
   $$('[data-year]').forEach(function (el) { el.textContent = new Date().getFullYear(); });
+
+  /* ---------------------------------------------------------------
+     12. Analytics: call and WhatsApp click tracking (V3)
+
+     Sends two GA4 events:
+       call_click      - any tel: link, anywhere on the page
+       whatsapp_click  - any wa.me link, plus the enquiry form hand-off
+
+     Each carries a `location` so the floating buttons can be told apart
+     from the header, footer and in-page calls to action, and a
+     `page_type` so calls from service pages can be told apart from
+     calls from locality or blog pages.
+
+     There are ~6 call links and ~5 WhatsApp links per page, so this is
+     one delegated listener rather than thousands of bound handlers.
+
+     Everything here is optional: if gtag is missing because the tag is
+     blocked, offline or not yet loaded, the click proceeds untouched.
+     Nothing is ever cancelled or delayed to record an event.
+     --------------------------------------------------------------- */
+  function track(name, params) {
+    if (typeof window.gtag !== 'function') return;
+    try { window.gtag('event', name, params || {}); } catch (err) { /* never break a click */ }
+  }
+  window.VC_TRACK = track;
+
+  // Which kind of page is this? Taken from the body class the generators set.
+  function pageType() {
+    var cls = body.className || '';
+    if (/\bpage-home\b/.test(cls)) return 'home';
+    if (/\barea-page\b/.test(cls)) return 'area';
+    if (/\bblog-page\b/.test(cls)) return 'blog';
+    if (/\bpage-contact\b/.test(cls)) return 'contact';
+    if (body.getAttribute('data-page-key')) return 'service';
+    return 'other';
+  }
+  var PAGE_TYPE = pageType();
+
+  // Where on the page was the link? Most specific container wins.
+  // .float-btn is checked first because the floating buttons sit outside
+  // the header and footer but are the ones that matter most.
+  function clickLocation(el) {
+    var tagged = el.closest('[data-track-location]');
+    if (tagged) return tagged.getAttribute('data-track-location');
+    if (el.closest('.float-btn')) return 'floating_button';
+    if (el.closest('.site-header')) return 'header';
+    if (el.closest('.site-footer')) return 'footer';
+    if (el.closest('form[data-wa-form]')) return 'enquiry_form';
+    if (el.closest('.hero')) return 'hero';
+    var section = el.closest('section[id]');
+    if (section) return section.id;
+    return 'page_body';
+  }
+
+  // Capture phase, so the event is queued before any navigation starts.
+  // gtag uses navigator.sendBeacon, which survives the page going away.
+  doc.addEventListener('click', function (e) {
+    var el = e.target;
+    if (!el || !el.closest) return;            // guards odd event targets
+    var link = el.closest('a[href]');
+    if (!link) return;
+
+    var href = link.getAttribute('href') || '';
+    var name;
+    if (href.indexOf('tel:') === 0) name = 'call_click';
+    else if (href.indexOf('wa.me') > -1) name = 'whatsapp_click';
+    else return;
+
+    track(name, {
+      location: clickLocation(link),
+      page_type: PAGE_TYPE,
+      link_text: (link.textContent || '').replace(/\s+/g, ' ').trim().slice(0, 60) || 'icon only'
+    });
+  }, true);
 })();
