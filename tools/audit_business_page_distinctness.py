@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+"""Audit business-page distinctness. Output: docs/reports/.   Version: V2"""
 from pathlib import Path
 from lxml import html
 from sklearn.feature_extraction.text import TfidfVectorizer
@@ -36,4 +37,6 @@ result={
   'strict_rule':'text similarity <=35% AND normalized heading overlap <=20%'
 }
 print(json.dumps(result,indent=2))
-(ROOT/'business-page-distinctness-audit.json').write_text(json.dumps(result,indent=2),encoding='utf-8')
+REPORTS=ROOT/'docs'/'reports'
+REPORTS.mkdir(parents=True, exist_ok=True)
+(REPORTS/'business-page-distinctness-audit.json').write_text(json.dumps(result,indent=2),encoding='utf-8')

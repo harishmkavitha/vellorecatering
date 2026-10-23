@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-"""Generate a page-wise inventory of externally hosted visual media.
+"""Generate a page-wise inventory of externally hosted visual media.   Version: V2
 
-Requires beautifulsoup4. Output: media-replacement-inventory.html
+Requires beautifulsoup4. Output: docs/reports/media-replacement-inventory.html
 """
 from pathlib import Path
 from bs4 import BeautifulSoup
@@ -11,8 +11,10 @@ import html, re, json
 from collections import Counter
 
 ROOT = Path(__file__).resolve().parents[1]
-OUT = ROOT / 'media-replacement-inventory.html'
-EXCLUDE_PREFIXES = ('tools/', 'templates/', 'partials/')
+# Report lives under docs/, which robots.txt disallows, so it is never published.
+OUT = ROOT / 'docs' / 'reports' / 'media-replacement-inventory.html'
+OUT.parent.mkdir(parents=True, exist_ok=True)
+EXCLUDE_PREFIXES = ('tools/', 'templates/', 'partials/', 'docs/')
 
 
 def esc(v):
@@ -247,7 +249,7 @@ def render(records):
 
     host_text=', '.join(f'{h}: {n}' for h,n in hosts.most_common()) or 'None'
     return f'''<!DOCTYPE html>
-<html lang="en-IN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<html lang="en-IN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex, nofollow">
 <title>Media Replacement Inventory | Vellore Catering World</title>
 <style>
 :root{{--bg:#0f1115;--panel:#171a20;--soft:#222630;--text:#f5f7fb;--muted:#aeb6c5;--line:#303642;--accent:#e0b85b;--green:#77d69b}}

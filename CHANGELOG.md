@@ -1,5 +1,69 @@
 # Changelog
-<!-- CHANGELOG.md | Version: V2 -->
+<!-- CHANGELOG.md | Version: V3 -->
+
+## V5 — 23 October 2026 — live domain canonicals, and internal files taken off the public site
+
+The site has been served from **https://vellorecatering.in** since the custom domain was
+mapped, but every page still declared `https://harishmkavitha.github.io/vellorecatering`
+as its canonical address. Search engines were being told the GitHub copy was the real
+version, which splits ranking signals between two addresses.
+
+**Fixed** (`python tools/set_domain.py https://vellorecatering.in`, 1,265 files)
+- `<link rel="canonical">` and the `hreflang="en-IN"` alternate on all 1,262 pages.
+- `og:url` and the `url`, `@id`, `image` and `logo` fields in the LocalBusiness,
+  WebSite, Service, Breadcrumb and FAQ JSON-LD blocks.
+- All 1,260 `<loc>` entries in `sitemap.xml`, and the `Sitemap:` line in `robots.txt`.
+- The `<base href>` in `404.html`, two files under `data/`, and `tools/site_config.json`.
+- `CNAME` rewritten with the same value, `vellorecatering.in` (now with a trailing newline).
+- `README.md` deployment section updated: it still described the GitHub Pages URL as canonical.
+
+**Deliberately not changed**
+- No rebuild was run. The page content, media, business name (Vellore Catering World)
+  and phone number (94459 78140) are byte-for-byte unchanged apart from the URL string.
+- Version markers on generated pages and their data files were left as they were: their
+  content did not change, only the domain they point to. This release is recorded here instead.
+
+### Internal files were being published
+
+The repository root is the website root on GitHub Pages, so 22 working files were
+publicly readable at `vellorecatering.in/<filename>` — including `SEO-AUDIT.md`,
+`STEP1-CONTENT-UNIQUENESS.md`, the `MEDIA-*` batch logs, `content-uniqueness-audit.csv`
+and two HTML audit reports that carried **no robots meta at all**, so they were indexable.
+Nothing linked to them and they were not in the sitemap, but anyone could open them.
+
+**Moved** (22 files, no content changed)
+- 16 working notes and batch logs → `docs/notes/`
+- 6 audit outputs → `docs/reports/`
+- `robots.txt` now disallows `/docs/`. `tools/media_workflow.py` already skipped `docs`,
+  so the CI media audit still scans the same 1,262 public pages and passes.
+
+**Stopped them coming back.** The audit scripts wrote to the repository root, so the files
+would have reappeared on the next run. They now write to `docs/reports/` and create it if needed.
+
+**`noindex, nofollow`** added to the four internal HTML reports and to the dashboard
+template that generates one of them, so regenerating keeps the tag.
+
+Note that `Disallow` prevents crawling, not indexing: a disallowed URL can still be listed
+if something links to it. The `noindex` tags are the reliable protection, which is why both are used.
+
+### Files in V5
+
+| File | Version | Change |
+|---|---|---|
+| `tools/site_config.json` | V3 | `site_url` → `https://vellorecatering.in` |
+| `CNAME` | — | `vellorecatering.in` (rewritten, same value) |
+| 1,262 `.html` pages, `sitemap.xml`, 2 `data/*.json` | unchanged | URL string only |
+| `robots.txt` | V3 | live sitemap URL + `Disallow: /docs/` |
+| `tools/audit_text_uniqueness.py` | V2 | output → `docs/reports/`; skips `docs`; report tagged `noindex` |
+| `tools/audit_business_page_distinctness.py` | V2 | output → `docs/reports/` |
+| `tools/generate_media_replacement_inventory.py` | V2 | output → `docs/reports/`; skips `docs/`; report tagged `noindex` |
+| `tools/media_workflow.py` | V2 | generated dashboard tagged `noindex` |
+| `tools/media-day-01-wedding-reception.html` | — | `noindex` added |
+| `tools/media-production-dashboard.html` | — | `noindex` added |
+| `docs/notes/*` (16 files) | — | moved from the repository root |
+| `docs/reports/*` (6 files) | — | moved from the repository root; HTML reports tagged `noindex` |
+| `README.md` | V4 | live domain, `servicing-areas/`, and the `docs/` rule |
+| `CHANGELOG.md` | V3 | this entry |
 
 ## V4 — 16 September 2026 — real photos & videos
 

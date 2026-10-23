@@ -1,9 +1,10 @@
-# Vellore Catering World | robots.txt | Version: V2
+# Vellore Catering World | robots.txt | Version: V3
 User-agent: *
 Allow: /
 Disallow: /tools/
 Disallow: /templates/
 Disallow: /data/
 Disallow: /partials/
+Disallow: /docs/
 
 Sitemap: https://vellorecatering.in/sitemap.xml

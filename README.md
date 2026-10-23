@@ -1,5 +1,5 @@
 # Vellore Catering World Website — V4 Real Photos & Videos
-<!-- README.md | Version: V3 -->
+<!-- README.md | Version: V4 -->
 
 A GitHub Pages-ready static website for **Vellore Catering World**, built from the supplied master design and the uploaded Catering Type spreadsheet.
 
@@ -81,15 +81,33 @@ vellore-catering/
 │   ├── fonts/
 │   ├── img/        (stock/ after download)
 │   └── video/      (stock/ after download)
+├── servicing-areas/
+│   └── 507 locality pages
 ├── data/catering-catalog.json
 ├── data/media-library.json   (photo & video list)
 ├── credits.html
 ├── partials/
 ├── tools/
+├── docs/                     (internal — never published, see below)
+│   ├── notes/                 working notes, audits, batch logs
+│   ├── reports/               output of the audit scripts
+│   └── section-requirements*.txt
 ├── sitemap.xml
 ├── robots.txt
 └── .nojekyll
 ```
+
+### Internal files stay in `docs/`
+
+The repository root **is** the website root on GitHub Pages, so anything left at the
+root is publicly readable at `https://vellorecatering.in/<filename>`. Working notes,
+SEO audits and batch logs do not belong there.
+
+Everything internal lives in `docs/`, which `robots.txt` disallows and which
+`tools/media_workflow.py` already skips when auditing pages. The audit scripts write
+their output to `docs/reports/` and tag the HTML reports `noindex, nofollow`.
+
+**When you add a new note, audit or report, put it in `docs/` — not the root.**
 
 ## Rebuild after edits
 
@@ -109,14 +127,15 @@ If you change the spreadsheet-derived catalogue, update `data/catering-catalog.j
 2. Keep `.nojekyll` in the repository root.
 3. In GitHub: **Settings → Pages → Deploy from a branch → main / root**.
 4. The current canonical base URL is configured in `tools/site_config.json` as:
-   `https://harishmkavitha.github.io/vellorecatering` (V4: corrected to match the live repository name)
-5. For a custom domain, run:
+   `https://vellorecatering.in` (the live custom domain; `CNAME` holds the same value)
+5. If the domain ever changes, run:
 
 ```bash
 python tools/set_domain.py https://www.yourdomain.com
-python tools/build.py
 ```
 
+That rewrites the canonical, `og:url`, hreflang and JSON-LD URLs on every page, plus
+`sitemap.xml`, `robots.txt`, the `<base>` tag in `404.html`, `tools/site_config.json` and `CNAME`.
 Then configure the domain in GitHub Pages and enforce HTTPS.
 
 ## SEO implementation
@@ -136,6 +155,6 @@ This package now includes:
 - `servicing-areas/index.html` plus 506 individual locality pages from the supplied area workbook.
 - `guides/blogs/index.html` plus 500 long-form catering articles.
 - `data/servicing-area-page-map.csv` and `data/blog-page-map.csv` for URL/content management.
-- `EXPANSION-SEO-NOTES.md` for the expansion audit and publishing cautions.
+- `docs/notes/EXPANSION-SEO-NOTES.md` for the expansion audit and publishing cautions.
 
 Top-navigation structure intentionally keeps only one child under **Services** (`Servicing Areas`) and one child under **Guides** (`Blogs`), while hub pages provide crawlable access to the large page libraries.
